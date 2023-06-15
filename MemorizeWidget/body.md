@@ -1,11 +1,9 @@
 ---
-layout: product
-folderName: MemorizeWidget
-description: iPhone/iPad/Apple Watch/Mac用アプリ。ホーム画面やロック画面に配置したウィジェットを暗記帳にできるアプリ。日常の中で知識を脳に染み込ませよう。
+published: false
 ---
 
-暗記ウィジェット MemorizeWidget
-============================
+<h1 translate="no">MemorizeWidget</h1>
+
 _iPhone/iPad/Apple Watch/Macを暗記帳にしよう_
 
 <img src="icon.png" width="80">
@@ -18,7 +16,7 @@ _iPhone/iPad/Apple Watch/Macを暗記帳にしよう_
 
 概要
 ----------
-ウィジェット機能を用いてホーム画面やロック画面に暗記帳を表示します。日常の中で暗記帳をたくさんチラ見して知識を脳に染み込ませるためのアプリです。iPhone、iPad用アプリ。
+ウィジェット機能を用いてホーム画面やロック画面に暗記帳を表示します。日常の中で暗記帳をたくさんチラ見して知識を脳に染み込ませるためのアプリです。iPhone、iPad、Apple Watch、Mac用アプリ。
 
 - 「単体モード」と「ランダムモード」の２つのモード
 - 「ランダムモード」では、5分毎に表示されるノートが変わります

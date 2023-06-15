@@ -1,30 +1,32 @@
 import Foundation
 
-struct 🄷TMLTemplate {
+struct 🄷TMLModel {
     var folderName: String
     var title: String
     var description: String
-    var body: String
+    var originalBody: String
     
-    func translate(_ ⓛang: 🗺️Language) async throws -> String {
-        let ⓑody: String
-        let ⓓescription: String
-        if let ⓒache = 🄻oad(self.bodyCacheFileName(ⓛang)) {
-            ⓑody = ⓒache
-        } else {
-            ⓑody = try await 🅃ranslate(self.body, in: ⓛang)
-            🅂ave(ⓑody, self.bodyCacheFileName(ⓛang))
+    func translate() async throws {
+        for ⓛang in 🗺️Language.allCases {
+            if ⓛang == .日本語 { continue }
+            let ⓑody: String
+            let ⓓescription: String
+            if let ⓒache = 🄻oad(self.bodyCacheFileName(ⓛang)) {
+                print("Body cache exists: \(ⓛang)")
+            } else {
+                ⓑody = try await 🅃ranslate(self.originalBody, in: ⓛang)
+                🅂ave(ⓑody, self.bodyCacheFileName(ⓛang))
+            }
+            if let ⓒache = 🄻oad(self.descriptionCacheFileName(ⓛang)) {
+                print("Description cache exists: \(ⓛang)")
+            } else {
+                ⓓescription = try await 🅃ranslate(self.description, in: ⓛang)
+                🅂ave(ⓓescription, self.descriptionCacheFileName(ⓛang))
+            }
         }
-        if let ⓒache = 🄻oad(self.descriptionCacheFileName(ⓛang)) {
-            ⓓescription = ⓒache
-        } else {
-            ⓓescription = try await 🅃ranslate(self.description, in: ⓛang)
-            🅂ave(ⓓescription, self.descriptionCacheFileName(ⓛang))
-        }
-        return self.assembleHTML(ⓛang, ⓑody, ⓓescription)
     }
     
-    func assembleHTML(_ ⓛang: 🗺️Language, _ ⓑody: String, _ ⓓescription: String) -> String {
+    var result: String {
         """
         <!DOCTYPE html>
         <html>
@@ -100,17 +102,31 @@ struct 🄷TMLTemplate {
         </style>
         </head>
         <body>
-        \(ⓑody)
+        \(self.wholeBody)
         </body>
         </html>
         """
     }
+}
+
+extension 🄷TMLModel {
+    private var wholeBody: String {
+        var ⓥalue = ""
+        ⓥalue += self.originalBody
+        ⓥalue += 🗺️Language.allCases.reduce(into: "") { ⓟartialResult, ⓛang in
+            if ⓛang == .日本語 { return }
+            ⓥalue += "\n<hr>\n"
+            ⓥalue += "\(ⓛang.rawValue)\n"
+            ⓟartialResult += 🄻oad(self.bodyCacheFileName(ⓛang))!
+        }
+        return ⓥalue
+    }
     
-    func bodyCacheFileName(_ ⓛang: 🗺️Language) -> String {
+    private func bodyCacheFileName(_ ⓛang: 🗺️Language) -> String {
         self.folderName + "/_cache/body_translated_in_\(ⓛang.htmlTag).txt"
     }
     
-    func descriptionCacheFileName(_ ⓛang: 🗺️Language) -> String {
+    private func descriptionCacheFileName(_ ⓛang: 🗺️Language) -> String {
         self.folderName + "/_cache/description_translated_in_\(ⓛang.htmlTag).txt"
     }
 }

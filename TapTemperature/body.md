@@ -1,11 +1,9 @@
 ---
-layout: product
-folderName: TapTemperature
-description: iPhoneにプリインストールされているApple「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリです。iPhone/Apple Watch専用アプリ。
+published: false
 ---
 
-TapTemperature 体温登録
-=============================
+<h1 translate="no">TapTemperature</h1>
+
 _Apple「ヘルスケア」アプリに体温を最速で登録しよう_
 
 <img src="icon.png" width="80">
@@ -19,7 +17,7 @@ _Apple「ヘルスケア」アプリに体温を最速で登録しよう_
 <img src="top1200w.png" width="600">
 
 概要
------------------
+--------
 iPhoneにプリインストールされているApple「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリです。iPhone/Apple Watch専用アプリ。
 
 ### 想定ユーザー / ユースケース

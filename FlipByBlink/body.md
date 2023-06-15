@@ -1,11 +1,9 @@
 ---
-layout: product
-folderName: FlipByBlink
-description: まばたきだけでページめくりができる電子書籍アプリ。iPhone、iPad用アプリ。
+published: false
 ---
 
-FlipByBlink
-==================
+<h1 translate="no">FlipByBlink</h1>
+
 _まばたきだけでページめくりができる電子書籍アプリ_
 
 <img src="icon.png" width="80">
@@ -92,10 +90,6 @@ _まばたきだけでページめくりができる電子書籍アプリ_
 ### プラットフォーム
 - iOS 15.0 以降
 - iPadOS 15.0 以降
-
-### サポート言語
-- 日本語
-- 英語
 
 <a href="https://apps.apple.com/app/id1444571751" target="blank">
   <img src="qr-code.jpg" width="160">

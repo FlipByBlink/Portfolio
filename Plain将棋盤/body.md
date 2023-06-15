@@ -1,12 +1,10 @@
 ---
-layout: product
-folderName: Plain将棋盤
-description: SharePlayにも対応した最もプレーンな将棋盤アプリ。iPhone、iPad、Mac、Apple Watch、Apple TV向けアプリ。
+published: false
 ---
 
-Plain将棋盤
-==============
-_SharePlayにも対応した最もプレーンな将棋盤アプリ_
+<h1 translate="no">Plain将棋盤 / Plain Shogi Board</h1>
+
+_最もプレーンな将棋盤アプリ_
 
 <img src="icon.png" width="80">
 
@@ -44,6 +42,8 @@ SharePlay機能では「2人でシンプルに対局する」だけでなく、�
 ### テキスト書き出し/読み込み
 盤面をテキストデータとして書き出したり読み込んだり出来ます。
 
+<div translate="no">
+
 ```
 ☗角͙
 －－－－－－－－－
@@ -59,6 +59,7 @@ SharePlay機能では「2人でシンプルに対局する」だけでなく、�
 －－－－－－－－－
 ☖
 ```
+</div>
 
 <img src="menu1200w.png" width="600">
 
