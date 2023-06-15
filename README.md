@@ -9,7 +9,7 @@ Portfolio
 
 Simplest Shogi board app. With SharePlay.
 
-<img src="Plain将棋盤/top1200w.png" width="400">
+<img src="Plain将棋盤/top1200w.png" width="600">
 
 * * *
 
@@ -21,7 +21,7 @@ Simplest Shogi board app. With SharePlay.
 
 Blink your eyes slightly longer than you would normally close them, and you can turn the page. E-book reader app.
 
-<img src="FlipByBlink/top1200w.png" width="400">
+<img src="FlipByBlink/top1200w.png" width="600">
 
 * * *
 
@@ -35,7 +35,7 @@ Register weight data to the Apple "Health" application pre-installed on iPhone i
 
 
 
-<img src="TapWeight/top1200w.png" width="400">
+<img src="TapWeight/top1200w.png" width="600">
 
 * * *
 
@@ -47,7 +47,7 @@ iPhoneにプリインストールされている「ヘルスケア」アプリ�
 
 Register body temperature data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
 
-<img src="TapTemperature/top1200w.png" width="400">
+<img src="TapTemperature/top1200w.png" width="600">
 
 * * *
 
@@ -59,7 +59,7 @@ Register body temperature data to the Apple "Health" application pre-installed o
 
 Flashcard on widget. Memorize a note in everyday life.
 
-<img src="MemorizeWidget/top1200w.png" width="400">
+<img src="MemorizeWidget/top1200w.png" width="600">
 
 * * *
 
@@ -71,7 +71,7 @@ Flashcard on widget. Memorize a note in everyday life.
 
 Memo note app specialized for lock screen widgets.
 
-<img src="LockInNote/top1200w.png" width="400">
+<img src="LockInNote/top1200w.png" width="600">
 
 * * *
 
@@ -83,4 +83,4 @@ Memo note app specialized for lock screen widgets.
 
 Alarm clock with taking a long time from small volume to max volume.
 
-<img src="FadeInAlarm/top1200w.png" width="400">
+<img src="FadeInAlarm/top1200w.png" width="600">
