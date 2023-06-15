@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en-US" }}">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="alternate" hreflang="ja" href="https://doc.xn--xnq.com/{{ page.folderName }}/" />
+    <link rel="alternate" hreflang="en" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/en.html" />
+    <link rel="alternate" hreflang="id" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/id.html" />
+    <link rel="alternate" hreflang="es" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/es.html" />
+    <link rel="alternate" hreflang="de" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/de.html" />
+    <link rel="alternate" hreflang="fr" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/fr.html" />
+    <link rel="alternate" hreflang="pt" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/pt.html" />
+    <link rel="alternate" hreflang="ru" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/ru.html" />
+    <link rel="alternate" hreflang="zh" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/zh.html" />
+    <link rel="alternate" hreflang="uk" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/uk.html" />
+    <link rel="alternate" hreflang="x-default" href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/en.html" />
+    <meta name="robots" content="index, follow">
+    <style>
+        body {
+            font-family: sans-serif;
+            max-width: 600px;
+            margin: auto;
+            padding: 16px;
+        }
+        
+        img {
+            max-width: 100%;
+        }
+        
+        blockquote {
+            padding: 8px;
+            background-color: #80808020;
+            border-radius: 4px;
+        }
+        
+        q {
+            padding: 6px;
+            background-color: #80808020;
+            border-radius: 4px;
+        }
+        
+        pre {
+            overflow-x: auto;
+            border: 1px solid gray;
+            padding: 12px;
+            border-radius: 6px;
+        }
+        
+        table {
+            border-collapse: collapse;
+        }
+        
+        td,
+        th {
+            border: 1px solid gray;
+            padding: 8px;
+        }
+        
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primaryColor: white;
+                --backgroundColor: #212121;
+                --primaryAccentColor: DeepSkyBlue;
+                --secondaryAccentColor: DarkCyan;
+            }
+        
+            body {
+                color: var(--primaryColor);
+                background-color: var(--backgroundColor);
+            }
+        
+            a:link {
+                color: var(--primaryAccentColor);
+            }
+        
+            a:visited {
+                color: var(--secondaryAccentColor);
+            }
+        }
+    </style>
+    {% seo %}
+    {% include head-custom.html %}
+</head>
+
+<body>
+<div class="container-lg px-3 my-5 markdown-body">
+{{ content }}
+<footer>
+<hr>
+<a href="https://doc.xn--xnq.com/{{ page.folderName }}/">日本語(native)</a>
+<a href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/en.html">English</a>
+<a href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/id.html">Indonesia</a>
+<a href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/es.html">Español</a>
+<a href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/de.html">Deutsch</a>
+<a href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/fr.html">Français</a>
+<a href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/pt.html">Português</a>
+<a href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/ru.html">Русский</a>
+<a href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/zh.html">中文</a>
+<a href="https://doc.xn--xnq.com/translation/{{ page.folderName }}/uk.html">Українська</a>
+</footer>
+</div>
+</body>
+
+</html>
+
+<!-- ORIGINAL: https://github.com/pages-themes/primer/blob/master/_layouts/default.html -->
