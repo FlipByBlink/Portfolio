@@ -1,0 +1,1 @@
+只是一个可以自由移动棋子的棋盘。适用于iPhone、iPad、Mac、Apple Watch和Apple TV的应用程序，兼容SharePlay。

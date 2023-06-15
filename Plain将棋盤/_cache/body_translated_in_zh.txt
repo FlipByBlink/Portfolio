@@ -1,0 +1,57 @@
+<h1 translate="no">
+Plain将棋盤 / Plain Shogi Board
+</h1>
+<p><em>最朴素的象棋棋盘应用</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1620268476" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要">概述。</h2>
+<p>只是一个可以自由移动棋子的Shogi棋盘。适用于iPhone、iPad、Mac、Apple Watch和Apple TV的应用程序。</p>
+<p>一个简单的象棋棋盘应用，遵循标准的iOS设计。</p>
+<p>你可以删除或添加任何棋子。</p>
+<p>你可以自定义文本的大小、厚度和衬线风格。</p>
+<p>你可以把棋子改成英文记号。</p>
+<p>将棋盘作为文本数据导出和导入。</p>
+<p>游戏通过iCloud在设备间同步。</p>
+<h3 id="shareplay">共享游戏</h3>
+<p>支持SharePlay。</p>
+<p>你可以通过FaceTime与你的朋友一起玩Shogi。</p>
+<p>SharePlay功能是为各种使用情况设计的，例如与一大群朋友一起解决Tsome-Shogi，以及 "两个人之间的简单游戏"。</p>
+<p><img src="screenshot1200w.png" width="600"></p>
+<h3 id="テキスト書き出し読み込み">文本导出/导入</h3>
+<p>棋盘可以作为文本数据导出和导入。</p>
+<div translate="no">
+<pre><code>☗角͙
+－－－－－－－－－
+香͙桂͙銀͙金͙王͙金͙銀͙桂͙香͙
+　飛͙　　　　　　　
+歩͙歩͙歩͙歩͙歩͙歩͙　歩͙歩͙
+　　　　　　歩͙　　
+　　　　　　　　　
+　　歩　　　　　　
+歩歩　歩歩歩歩歩歩
+　馬͙　　　　　飛　
+香桂銀金王金銀桂香
+－－－－－－－－－
+☖</code></pre>
+</div>
+<p><img src="menu1200w.png" width="600"></p>
+<hr />
+<h2 id="仕様">规格</h2>
+<h3 id="価格">价格</h3>
+<p>免费的</p>
+<h3 id="アプリ内課金">应用内购买</h3>
+<p>隐藏广告 (¥320)</p>
+<h3 id="プラットフォーム">平台</h3>
+<ul>
+<li>iOS15.4或更高版本</li>
+<li>iPadOS 15.4或更高版本</li>
+</ul>
+<h3 id="サポート言語">支持的语言</h3>
+<ul>
+<li>日语</li>
+<li>语</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1620268476" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

@@ -1,0 +1,57 @@
+<h1 translate="no">
+Plain将棋盤 / Plain Shogi Board
+</h1>
+<p><em>A aplicação de tabuleiro de shogi mais simples</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1620268476" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Visão geral.</h2>
+<p> Apenas um tabuleiro de Shogi onde pode mover as peças livremente. Aplicação para iPhone, iPad, Mac, Apple Watch e Apple TV.</p>
+<p> Uma aplicação simples de tabuleiro de shogi que segue o design padrão do iOS.</p>
+<p> Pode apagar ou adicionar qualquer peça.</p>
+<p> Pode personalizar o tamanho, a espessura e o estilo serifado do texto.</p>
+<p> Pode alterar as peças para notação inglesa.</p>
+<p> Exportação e importação do tabuleiro como dados de texto.</p>
+<p> Os jogos são sincronizados entre dispositivos através do iCloud.</p>
+<h3 id="shareplay"> SharePlay</h3>
+<p> O SharePlay é suportado.</p>
+<p> Pode jogar Shogi com os seus amigos através do FaceTime.</p>
+<p> A função SharePlay foi concebida para vários casos de utilização, como a resolução de Tsume-Shogi com um grande grupo de amigos, bem como "um simples jogo entre duas pessoas".</p>
+<p><img src="screenshot1200w.png" width="600"></p>
+<h3 id="テキスト書き出し読み込み"> Exportação/importação de texto</h3>
+<p> O tabuleiro pode ser exportado e importado como dados de texto.</p>
+<div translate="no">
+<pre><code>☗角͙
+－－－－－－－－－
+香͙桂͙銀͙金͙王͙金͙銀͙桂͙香͙
+　飛͙　　　　　　　
+歩͙歩͙歩͙歩͙歩͙歩͙　歩͙歩͙
+　　　　　　歩͙　　
+　　　　　　　　　
+　　歩　　　　　　
+歩歩　歩歩歩歩歩歩
+　馬͙　　　　　飛　
+香桂銀金王金銀桂香
+－－－－－－－－－
+☖</code></pre>
+</div>
+<p><img src="menu1200w.png" width="600"></p>
+<hr />
+<h2 id="仕様"> Especificações</h2>
+<h3 id="価格"> Preço</h3>
+<p> Gratuito</p>
+<h3 id="アプリ内課金"> Compra na aplicação</h3>
+<p> Ocultar anúncios (¥320)</p>
+<h3 id="プラットフォーム"> Plataformas</h3>
+<ul>
+<li> iOS 15.4 ou posterior</li>
+<li> iPadOS 15.4 ou posterior</li>
+</ul>
+<h3 id="サポート言語"> Idiomas suportados</h3>
+<ul>
+<li> Japonês</li>
+<li> inglês</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1620268476" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

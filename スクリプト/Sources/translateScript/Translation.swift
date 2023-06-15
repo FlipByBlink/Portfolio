@@ -66,4 +66,20 @@ enum 🗺️Language: String, Codable, CaseIterable {
             case .韓国語: return "ko"
         }
     }
+    
+    var representationText: String {
+        switch self {
+            case .英語_アメリカ: return "English"
+            case .日本語: return "日本語"
+            case .インドネシア語: return "Indonesia"
+            case .スペイン語: return "Español"
+            case .ドイツ語: return "Deutsch"
+            case .フランス語: return "Français"
+            case .ポルトガル語: return "Português"
+            case .ロシア語: return "Русский"
+            case .中国語_簡体字: return "中文"
+            case .ウクライナ語: return "Українська"
+            case .韓国語: return "한국어"
+        }
+    }
 }

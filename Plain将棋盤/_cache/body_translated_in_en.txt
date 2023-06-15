@@ -1,0 +1,57 @@
+<h1 translate="no">
+Plain将棋盤 / Plain Shogi Board
+</h1>
+<p><em>The Most Plain Shogi Board App</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1620268476" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Overview</h2>
+<p> This is just a plain Shogi board with pieces you can move freely. app for iPhone, iPad, Mac, Apple Watch, Apple TV.</p>
+<p> It is a simple Shogi board app following the standard iOS design.</p>
+<p> You can delete or add any piece.</p>
+<p> You can customize the font size, thickness, serif style, etc.</p>
+<p> You can change the pieces to English.</p>
+<p> Export and import board as text data.</p>
+<p> Games are synchronized between devices via iCloud.</p>
+<h3 id="shareplay"> SharePlay</h3>
+<p> SharePlay is supported.</p>
+<p> You can play Shogi with your friends over FaceTime.</p>
+<p> The SharePlay function is not only for "a simple game between two players" but also for various use cases such as "solving Tsume-Shogi with a large number of players".</p>
+<p><img src="screenshot1200w.png" width="600"></p>
+<h3 id="テキスト書き出し読み込み"> Text Export/Import</h3>
+<p> The board can be exported and imported as text data.</p>
+<div translate="no">
+<pre><code>☗角͙
+－－－－－－－－－
+香͙桂͙銀͙金͙王͙金͙銀͙桂͙香͙
+　飛͙　　　　　　　
+歩͙歩͙歩͙歩͙歩͙歩͙　歩͙歩͙
+　　　　　　歩͙　　
+　　　　　　　　　
+　　歩　　　　　　
+歩歩　歩歩歩歩歩歩
+　馬͙　　　　　飛　
+香桂銀金王金銀桂香
+－－－－－－－－－
+☖</code></pre>
+</div>
+<p><img src="menu1200w.png" width="600"></p>
+<hr />
+<h2 id="仕様"> Specifications</h2>
+<h3 id="価格"> Price</h3>
+<p> Free of charge</p>
+<h3 id="アプリ内課金"> In-app purchase</h3>
+<p> Hide ads (320 yen)</p>
+<h3 id="プラットフォーム"> Platform</h3>
+<ul>
+<li> iOS 15.4 or later</li>
+<li> iPadOS 15.4 or later</li>
+</ul>
+<h3 id="サポート言語"> Supported Languages</h3>
+<ul>
+<li> Japanese</li>
+<li> English</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1620268476" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

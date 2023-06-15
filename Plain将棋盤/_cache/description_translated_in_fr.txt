@@ -1,0 +1,1 @@
+Un simple échiquier où vous pouvez déplacer les pièces librement. application pour iPhone, iPad, Mac, Apple Watch et Apple TV, compatible avec SharePlay.

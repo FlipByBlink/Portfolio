@@ -1,0 +1,1 @@
+Apenas um tabuleiro de xadrez onde pode mover as peças livremente. Aplicação para iPhone, iPad, Mac, Apple Watch e Apple TV, compatível com SharePlay.
