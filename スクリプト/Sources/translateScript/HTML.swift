@@ -1,6 +1,6 @@
 import Foundation
 
-struct 🄷TMLModel {
+struct 🄷TML {
     var folderName: String
     var title: String
     var description: String
@@ -9,13 +9,13 @@ struct 🄷TMLModel {
     func translate() async throws {
         for ⓛang in 🗺️Language.allCases {
             if ⓛang == .日本語 { continue }
-            if 🄻oad(self.bodyCacheFileName(ⓛang)) == nil {
-                🅂ave(try await 🅃ranslate(self.originalBody, in: ⓛang),
-                      self.bodyCacheFileName(ⓛang))
+            if 🄵ile.load(self.bodyCacheFileName(ⓛang)) == nil {
+                🄵ile.save(try await 🅃ranslation.translate(self.originalBody, in: ⓛang),
+                           self.bodyCacheFileName(ⓛang))
             }
-            if 🄻oad(self.descriptionCacheFileName(ⓛang)) == nil {
-                🅂ave(try await 🅃ranslate(self.description, in: ⓛang),
-                      self.descriptionCacheFileName(ⓛang))
+            if 🄵ile.load(self.descriptionCacheFileName(ⓛang)) == nil {
+                🄵ile.save(try await 🅃ranslation.translate(self.description, in: ⓛang),
+                           self.descriptionCacheFileName(ⓛang))
             }
         }
     }
@@ -103,7 +103,7 @@ struct 🄷TMLModel {
     }
 }
 
-extension 🄷TMLModel {
+extension 🄷TML {
     private var wholeBody: String {
         var ⓥalue = ""
         ⓥalue += self.originalBody
@@ -111,7 +111,7 @@ extension 🄷TMLModel {
             if ⓛang == .日本語 { return }
             ⓟartialResult += "\n<hr>\n"
             ⓟartialResult += "<p id=\"\(ⓛang.rawValue)\" style=\"text-align: center\">\(ⓛang.representationText)</p>"
-            ⓟartialResult += 🄻oad(self.bodyCacheFileName(ⓛang))!
+            ⓟartialResult += 🄵ile.load(self.bodyCacheFileName(ⓛang))!
         }
         return ⓥalue
     }

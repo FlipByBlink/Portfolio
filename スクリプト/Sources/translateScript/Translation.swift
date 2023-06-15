@@ -1,36 +1,43 @@
 import Foundation
 
-let 🔑authKey: String = 🄻oad("auth_key.txt")!
-
-func 🅃ranslate(_ ⓣext: String, in ⓛang: 🗺️Language) async throws -> String {
-    let ⓤrl = "https://api-free.deepl.com/v2/translate"
-    var ⓡequest = URLRequest(url: URL(string: ⓤrl)!)
-    ⓡequest.setValue("DeepL-Auth-Key " + 🔑authKey, forHTTPHeaderField: "Authorization")
-    ⓡequest.setValue("application/x-www-form-urlencoded", forHTTPHeaderField: "Content-Type")
-    ⓡequest.httpMethod = "POST"
+enum 🅃ranslation {
+    private static var 🔑authKey: String { 🄵ile.load("auth_key.txt")! }
     
-    var ⓑody = "text="
-    ⓑody += ⓣext.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!
-    ⓑody += "&target_lang=" + ⓛang.rawValue
-    ⓑody += "&tag_handling=html"
-    ⓡequest.httpBody = ⓑody.data(using: .utf8)
+    static func translate(_ ⓣext: String, in ⓛang: 🗺️Language) async throws -> String {
+        let ⓤrl = "https://api-free.deepl.com/v2/translate"
+        var ⓡequest = URLRequest(url: URL(string: ⓤrl)!)
+        ⓡequest.setValue("DeepL-Auth-Key " + Self.🔑authKey,
+                         forHTTPHeaderField: "Authorization")
+        ⓡequest.setValue("application/x-www-form-urlencoded",
+                         forHTTPHeaderField: "Content-Type")
+        ⓡequest.httpMethod = "POST"
+        
+        var ⓑody = "text="
+        ⓑody += ⓣext.addingPercentEncoding(withAllowedCharacters: .urlQueryAllowed)!
+        ⓑody += "&target_lang=" + ⓛang.rawValue
+        ⓑody += "&tag_handling=html"
+        ⓡequest.httpBody = ⓑody.data(using: .utf8)
+        
+        let (ⓓata, ⓡesponse) = try await URLSession.shared.data(for: ⓡequest)
+        if (ⓡesponse as? HTTPURLResponse)?.statusCode != 200 {
+            throw Self.🚨Error.failed(#function)
+        }
+        
+        let ⓜodel = try JSONDecoder().decode(Self.🄰PIResponseModel.self,
+                                             from: ⓓata)
+        return ⓜodel.translations.first!.text
+    }
     
-    let (ⓓata, ⓡesponse) = try await URLSession.shared.data(for: ⓡequest)
-    if (ⓡesponse as? HTTPURLResponse)?.statusCode != 200 { throw 🚨Error.failed(#function) }
+    enum 🚨Error: Error {
+        case failed(_ detail: String)
+    }
     
-    let ⓜodel = try JSONDecoder().decode(🄰PIResponseModel.self, from: ⓓata)
-    return ⓜodel.translations.first!.text
-}
-
-enum 🚨Error: Error {
-    case failed(_ detail: String)
-}
-
-struct 🄰PIResponseModel: Codable {
-    var translations: [🅃ranslation]
-    struct 🅃ranslation: Codable {
-        var detected_source_language: 🗺️Language
-        var text: String
+    private struct 🄰PIResponseModel: Codable {
+        var translations: [Self.🅃ranslation]
+        struct 🅃ranslation: Codable {
+            var detected_source_language: 🗺️Language
+            var text: String
+        }
     }
 }
 
