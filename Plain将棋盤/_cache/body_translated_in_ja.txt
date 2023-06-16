@@ -1,0 +1,58 @@
+<h1 translate="no">
+Plain将棋盤 / Plain Shogi Board
+</h1>
+<p><em>最もプレーンな将棋盤アプリ</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1620268476" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要">概要</h2>
+<p>駒を自由に動かせるただの将棋盤です。iPhone、iPad、Mac、Apple
+Watch、Apple TV向けアプリ。</p>
+<p>iOSの標準デザインに沿ったシンプルな将棋盤アプリです。</p>
+<p>任意の駒を消したり増やしたりことも出来ます。</p>
+<p>文字の「大きさ」や「太さ」、「セリフ体」などをカスタマイズ出来ます。</p>
+<p>駒を英語表記に変えられます。</p>
+<p>盤面をテキストデータとして書き出したり読み込んだり出来ます。</p>
+<p>局面はiCloudによって端末間で同期されます。</p>
+<h3 id="shareplay">SharePlay</h3>
+<p>SharePlayに対応しています。</p>
+<p>FaceTimeしながら友達と将棋盤を囲むことが出来ます。</p>
+<p>SharePlay機能では「2人でシンプルに対局する」だけでなく、「大人数で詰将棋を解く」などの様々なユースケースを想定しています。</p>
+<p><img src="screenshot1200w.png" width="600"></p>
+<h3 id="テキスト書き出し読み込み">テキスト書き出し/読み込み</h3>
+<p>盤面をテキストデータとして書き出したり読み込んだり出来ます。</p>
+<div translate="no">
+<pre><code>☗角͙
+－－－－－－－－－
+香͙桂͙銀͙金͙王͙金͙銀͙桂͙香͙
+　飛͙　　　　　　　
+歩͙歩͙歩͙歩͙歩͙歩͙　歩͙歩͙
+　　　　　　歩͙　　
+　　　　　　　　　
+　　歩　　　　　　
+歩歩　歩歩歩歩歩歩
+　馬͙　　　　　飛　
+香桂銀金王金銀桂香
+－－－－－－－－－
+☖</code></pre>
+</div>
+<p><img src="menu1200w.png" width="600"></p>
+<hr />
+<h2 id="仕様">仕様</h2>
+<h3 id="価格">価格</h3>
+<p>無料</p>
+<h3 id="アプリ内課金">アプリ内課金</h3>
+<p>広告を非表示にする(320円)</p>
+<h3 id="プラットフォーム">プラットフォーム</h3>
+<ul>
+<li>iOS 15.4 以降</li>
+<li>iPadOS 15.4 以降</li>
+</ul>
+<h3 id="サポート言語">サポート言語</h3>
+<ul>
+<li>日本語</li>
+<li>英語</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1620268476" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>
