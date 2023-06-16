@@ -4,29 +4,49 @@ struct 🄷TML {
     var folderName: String
     var title: String
     var description: String
-    var originalBody: String
+    var body: String
     
-    func translate() async throws {
-        for ⓛang in 🗺️Language.allCases {
-            if ⓛang == .日本語 { continue }
-            if 🄵ile.load(self.bodyCacheFileName(ⓛang)) == nil {
-                🄵ile.save(try await 🅃ranslation.translate(self.originalBody, in: ⓛang),
-                           self.bodyCacheFileName(ⓛang))
-            }
-            if 🄵ile.load(self.descriptionCacheFileName(ⓛang)) == nil {
-                🄵ile.save(try await 🅃ranslation.translate(self.description, in: ⓛang),
-                           self.descriptionCacheFileName(ⓛang))
-            }
+    func translate(_ ⓛang: 🗺️Language) async throws -> String {
+        let ⓑody: String
+        let ⓓescription: String
+        if let ⓒache = 🄵ile.load(self.bodyCacheFileName(ⓛang)) {
+            ⓑody = ⓒache
+        } else {
+            ⓑody = try await 🅃ranslation.translate(self.body, in: ⓛang)
+            🄵ile.save(ⓑody, self.bodyCacheFileName(ⓛang))
         }
+        if let ⓒache = 🄵ile.load(self.descriptionCacheFileName(ⓛang)) {
+            ⓓescription = ⓒache
+        } else {
+            ⓓescription = try await 🅃ranslation.translate(self.description, in: ⓛang)
+            🄵ile.save(ⓓescription, self.descriptionCacheFileName(ⓛang))
+        }
+        return self.assembleHTML(ⓛang, ⓑody, ⓓescription)
     }
+}
+
+extension 🄷TML {
+    private static let domain: String = "flipbyblink.github.io/Portfolio"
     
-    var result: String {
+    private func assembleHTML(_ ⓛang: 🗺️Language, _ ⓑody: String, _ ⓓescription: String) -> String {
         """
         <!DOCTYPE html>
         <html>
         
         <head>
         <meta charset="utf-8">
+        <link rel="alternate" hreflang="ja" href="https://\(Self.domain)/\(self.folderName)/ja.html"/>
+        <link rel="alternate" hreflang="en" href="https://\(Self.domain)/\(self.folderName)/en.html"/>
+        <link rel="alternate" hreflang="id" href="https://\(Self.domain)/\(self.folderName)/id.html"/>
+        <link rel="alternate" hreflang="es" href="https://\(Self.domain)/\(self.folderName)/es.html"/>
+        <link rel="alternate" hreflang="de" href="https://\(Self.domain)/\(self.folderName)/de.html"/>
+        <link rel="alternate" hreflang="fr" href="https://\(Self.domain)/\(self.folderName)/fr.html"/>
+        <link rel="alternate" hreflang="pt" href="https://\(Self.domain)/\(self.folderName)/pt.html"/>
+        <link rel="alternate" hreflang="ru" href="https://\(Self.domain)/\(self.folderName)/ru.html"/>
+        <link rel="alternate" hreflang="zh" href="https://\(Self.domain)/\(self.folderName)/zh.html"/>
+        <link rel="alternate" hreflang="uk" href="https://\(Self.domain)/\(self.folderName)/uk.html"/>
+        <link rel="alternate" hreflang="ko" href="https://\(Self.domain)/\(self.folderName)/ko.html"/>
+        <link rel="alternate" hreflang="x-default" href="https://\(Self.domain)/\(self.folderName)/en.html"/>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>\(self.title)</title>
         <meta name="description" content="\(ⓓescription)">
@@ -96,24 +116,10 @@ struct 🄷TML {
         </style>
         </head>
         <body>
-        \(self.wholeBody)
+        \(ⓑody)
         </body>
         </html>
         """
-    }
-}
-
-extension 🄷TML {
-    private var wholeBody: String {
-        var ⓥalue = ""
-        ⓥalue += self.originalBody
-        ⓥalue += 🗺️Language.allCases.reduce(into: "") { ⓟartialResult, ⓛang in
-            if ⓛang == .日本語 { return }
-            ⓟartialResult += "\n<hr>\n"
-            ⓟartialResult += "<p id=\"\(ⓛang.rawValue)\" style=\"text-align: center\">\(ⓛang.representationText)</p>"
-            ⓟartialResult += 🄵ile.load(self.bodyCacheFileName(ⓛang))!
-        }
-        return ⓥalue
     }
     
     private func bodyCacheFileName(_ ⓛang: 🗺️Language) -> String {

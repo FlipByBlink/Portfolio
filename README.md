@@ -5,11 +5,21 @@ Portfolio
 
 [__PlainShogiBoard(Plain将棋盤)__](Plain将棋盤)
 
-最もプレーンな将棋盤アプリ。SharePlay対応。
-
-Simplest Shogi board app. With SharePlay.
+将棋盤アプリ。SharePlay対応。 Shogi board app. Support SharePlay.
 
 <img src="Plain将棋盤/top1200w.png" width="500">
+
+[日本語(native)](Plain将棋盤/ja)
+[English](Plain将棋盤/en)
+[Indonesia](Plain将棋盤/id)
+[Español](Plain将棋盤/es)
+[Deutsch](Plain将棋盤/de)
+[Français](Plain将棋盤/fr)
+[Português](Plain将棋盤/pt)
+[Русский](Plain将棋盤/ru)
+[中文](Plain将棋盤/zh)
+[Українська](Plain将棋盤/uk)
+[한국어](Plain将棋盤/ko)
 
 * * *
 
@@ -17,9 +27,7 @@ Simplest Shogi board app. With SharePlay.
 
 [__FlipByBlink__](FlipByBlink)
 
-まばたきだけでページめくりができる電子書籍アプリ
-
-Blink your eyes slightly longer than you would normally close them, and you can turn the page. E-book reader app.
+まばたきだけで読書ができる電子書籍アプリ。 E-book reader app with eye blink.
 
 <img src="FlipByBlink/top1200w.png" width="500">
 
@@ -31,9 +39,7 @@ Blink your eyes slightly longer than you would normally close them, and you can 
 
 iPhoneにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ
 
-Register weight data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
-
-
+Register weight data to the Apple "Health" app pre-installed on iPhone in the fastest possible way (as manual).
 
 <img src="TapWeight/top1200w.png" width="500">
 
@@ -45,7 +51,7 @@ Register weight data to the Apple "Health" application pre-installed on iPhone i
 
 iPhoneにプリインストールされている「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリ
 
-Register body temperature data to the Apple "Health" application pre-installed on iPhone in the fastest possible way (as manual).
+Register body temperature data to the Apple "Health" app pre-installed on iPhone in the fastest possible way (as manual).
 
 <img src="TapTemperature/top1200w.png" width="500">
 
@@ -55,9 +61,7 @@ Register body temperature data to the Apple "Health" application pre-installed o
 
 [__MemorizeWidget__](MemorizeWidget)
 
-ホーム画面やロック画面を暗記帳にするアプリ
-
-Flashcard on widget. Memorize a note in everyday life.
+ホーム画面やロック画面を暗記帳にするアプリ。 Flashcard app for widget.
 
 <img src="MemorizeWidget/top1200w.png" width="500">
 
@@ -67,9 +71,7 @@ Flashcard on widget. Memorize a note in everyday life.
 
 [__LockInNote__](LockInNote)
 
-「ロック画面ウィジェット」に特化したノートアプリ
-
-Memo note app specialized for lock screen widgets.
+「ロック画面ウィジェット」に特化したノートアプリ。 Memo note app specialized for lock screen widgets.
 
 <img src="LockInNote/top1200w.png" width="500">
 
@@ -79,8 +81,6 @@ Memo note app specialized for lock screen widgets.
 
 [__FadeInAlarm__](FadeInAlarm)
 
-時間をかけて少しずつ音が大きくなる極めて珍しいアラームアプリ
-
-Alarm clock with taking a long time from small volume to max volume.
+時間をかけて少しずつ音が大きくなるアラームアプリ。 Alarm clock with taking a long time from small volume to max volume.
 
 <img src="FadeInAlarm/top1200w.png" width="500">
