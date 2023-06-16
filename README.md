@@ -3,7 +3,7 @@ Portfolio
 
 <img src="Plain将棋盤/icon.png" width="50">
 
-[__PlainShogiBoard(Plain将棋盤)__](Plain将棋盤)
+__PlainShogiBoard(Plain将棋盤)__
 
 将棋盤アプリ。SharePlay対応。 Shogi board app. Support SharePlay.
 
@@ -25,7 +25,7 @@ Portfolio
 
 <img src="FlipByBlink/icon.png" width="50">
 
-[__FlipByBlink__](FlipByBlink)
+__FlipByBlink__
 
 まばたきだけで読書ができる電子書籍アプリ。 E-book reader app with eye blink.
 
@@ -35,7 +35,7 @@ Portfolio
 
 <img src="TapWeight/icon.png" width="50">
 
-[__TapWeight__](TapWeight)
+__TapWeight__
 
 iPhoneにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ
 
@@ -47,7 +47,7 @@ Register weight data to the Apple "Health" app pre-installed on iPhone in the fa
 
 <img src="TapTemperature/icon.png" width="50">
 
-[__TapTemperature__](TapTemperature)
+__TapTemperature__
 
 iPhoneにプリインストールされている「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリ
 
@@ -59,7 +59,7 @@ Register body temperature data to the Apple "Health" app pre-installed on iPhone
 
 <img src="MemorizeWidget/icon.png" width="50">
 
-[__MemorizeWidget__](MemorizeWidget)
+__MemorizeWidget__
 
 ホーム画面やロック画面を暗記帳にするアプリ。 Flashcard app for widget.
 
@@ -69,7 +69,7 @@ Register body temperature data to the Apple "Health" app pre-installed on iPhone
 
 <img src="LockInNote/icon.png" width="50">
 
-[__LockInNote__](LockInNote)
+__LockInNote__
 
 「ロック画面ウィジェット」に特化したノートアプリ。 Memo note app specialized for lock screen widgets.
 
@@ -79,7 +79,7 @@ Register body temperature data to the Apple "Health" app pre-installed on iPhone
 
 <img src="FadeInAlarm/icon.png" width="50">
 
-[__FadeInAlarm__](FadeInAlarm)
+__FadeInAlarm__
 
 時間をかけて少しずつ音が大きくなるアラームアプリ。 Alarm clock with taking a long time from small volume to max volume.
 
