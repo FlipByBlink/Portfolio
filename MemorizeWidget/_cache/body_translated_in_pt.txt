@@ -1,0 +1,58 @@
+<h1 translate="no">
+MemorizeWidget
+</h1>
+<p><em>Transforme o seu iPhone/iPad/Apple Watch/Mac num livro de notas!</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1644276262" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Visão geral.</h2>
+<p> Mostre o seu livro de notas no seu ecrã inicial ou no ecrã de bloqueio utilizando a função de widget. Aplicação para iPhone, iPad, Apple Watch e Mac.</p>
+<ul>
+<li> Dois modos: "modo autónomo" e "modo aleatório".</li>
+<li> No "modo aleatório", as notas apresentadas mudam a cada cinco minutos</li>
+<li> Suporte para widget do ecrã de bloqueio (apenas iOS 16).</li>
+<li> Os dados do memorizador podem ser importados de texto e ficheiros (csv, tsv, txt, etc.)</li>
+<li> Ligação a dicionários incorporados no SO</li>
+<li> Função de pesquisa personalizável</li>
+<li> Sincronização de dados entre dispositivos através do iCloud</li>
+</ul>
+<p><img src="screenshot1200w.png" width="600"></p>
+<p> Opções</p>
+<ul>
+<li> Mostrar os "comentários" das notas, bem como os "títulos" nos widgets (apenas para widgets do ecrã inicial/widgets rectangulares do ecrã de bloqueio).</li>
+<li> Visualização de várias notas</li>
+</ul>
+<p> Suporte multiplataforma</p>
+<ul>
+<li> iPhone: widget do ecrã de bloqueio (iOS 16 ou posterior), widget do ecrã de início</li>
+<li> iPad: widget do ecrã inicial</li>
+<li> Apple Watch: Complicações</li>
+<li> Mac: widget do centro de notificações</li>
+</ul>
+<p> Recomendado para os modelos mais recentes do iPhone 14 Pro!</p>
+<p> Com o iPhone 14 Pro com Always On Display, pode consultar o seu bloco de notas sem tocar no iPhone!</p>
+<blockquote>
+<p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
+<p><em>Citação: https://www.apple.com/jp/iphone-14-pro/</em></p>
+</blockquote>
+<hr />
+<h2 id="仕様"> Especificações</h2>
+<h3 id="価格"> Preço</h3>
+<p> Gratuito</p>
+<h3 id="アプリ内課金"> Compra na aplicação</h3>
+<p> Ocultar anúncios (160 ienes)</p>
+<h3 id="プラットフォーム"> Plataformas</h3>
+<ul>
+<li> iOS 15.6 ou posterior</li>
+<li> iPadOS 15.6 ou posterior</li>
+<li> watchOS 9.0 ou posterior</li>
+<li> macOS 12.4 ou posterior</li>
+</ul>
+<h3 id="サポート言語"> Idiomas suportados</h3>
+<ul>
+<li> Japonês</li>
+<li> inglês</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1644276262" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

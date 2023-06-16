@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<link rel="alternate" hreflang="ja" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/ja.html"/>
+<link rel="alternate" hreflang="en" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/en.html"/>
+<link rel="alternate" hreflang="id" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/id.html"/>
+<link rel="alternate" hreflang="es" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/es.html"/>
+<link rel="alternate" hreflang="de" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/de.html"/>
+<link rel="alternate" hreflang="fr" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/fr.html"/>
+<link rel="alternate" hreflang="pt" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/pt.html"/>
+<link rel="alternate" hreflang="ru" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/ru.html"/>
+<link rel="alternate" hreflang="zh" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/zh.html"/>
+<link rel="alternate" hreflang="uk" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/uk.html"/>
+<link rel="alternate" hreflang="ko" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/ko.html"/>
+<link rel="alternate" hreflang="x-default" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/en.html"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FlipByBlink</title>
+<meta name="description" content="这款适用于iPhone和iPad的应用程序允许你通过有意识地闭目眨眼来翻页，时间稍长。">
+<meta name="robots" content="index, follow">
+<style>
+body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 16px;
+}
+
+img {
+    max-width: 100%;
+}
+
+blockquote {
+    padding: 8px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+q {
+    padding: 6px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+pre {
+    overflow-x: auto;
+    border: 1px solid gray;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primaryColor: white;
+        --backgroundColor: #212121;
+        --primaryAccentColor: DeepSkyBlue;
+        --secondaryAccentColor: DarkCyan;
+    }
+
+    body {
+        color: var(--primaryColor);
+        background-color: var(--backgroundColor);
+    }
+
+    a:link {
+        color: var(--primaryAccentColor);
+    }
+
+    a:visited {
+        color: var(--secondaryAccentColor);
+    }
+}
+</style>
+</head>
+<body>
+<h1 translate="no">
+FlipByBlink
+</h1>
+<p><em>一款电子书应用，让你只需眨眼就能翻页</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要">概述。</h2>
+<p>只有一个特殊功能。这是一款适用于iPhone和iPad的应用程序，它可以让你通过有意识地闭上眼睛稍微延长时间来翻页。</p>
+<p>除上述功能外，这是一个简单而普通的电子书阅读应用程序。</p>
+<h3 id="ページめくりの仕組み">翻页是如何进行的</h3>
+<p><img src="preview.gif" class="except_printing"></p>
+<p><img src="flow.svg" width="540"></p>
+<p>稍微延长的闭眼时间会导致页面被向前传送，当你睁开眼睛时，已经进入下一页了。正常的眨眼不会导致翻页。</p>
+<p>眨眼是由设备的内置摄像头和传感器检测的。</p>
+<p>像大多数电子书应用程序一样，你也可以通过点击或滑动屏幕来翻页。</p>
+<h3 id="電子書籍フォーマット">电子书格式。</h3>
+<ul>
+<li>只适用于 "固定版式 "的书籍。例如，直接转换为纸质书籍或漫画。</li>
+<li>支持导入PDF和ZIP文件。</li>
+</ul>
+<h3 id="ユースケース">使用案例</h3>
+<ul>
+<li>一般阅读</li>
+<li>边看乐谱边演奏乐器</li>
+<li>在查看食谱的同时做饭</li>
+<li>在火车和公共汽车上阅读</li>
+<li>身体残疾者的阅读</li>
+</ul>
+<p><img src="usecase680w.png" width="240"></p>
+<hr />
+<h3 id="サポートデバイス">支持设备</h3>
+<p>使用苹果框架ARKit/FaceTrackingAPI进行眨眼检测。这需要一个TrueDepth摄像头或A12Bionic或更高版本的芯片。</p>
+<h4 id="サポート対象外のデバイス">⚠️ 不支持的设备</h4>
+<ul>
+<li>iPhone<ul>
+<li>6s</li>
+<li>6s Plus</li>
+<li>7</li>
+<li>7 Plus</li>
+<li>8</li>
+<li>8 Plus</li>
+<li>第一代SE</li>
+</ul></li>
+<li>笔记本电脑<ul>
+<li>第5代</li>
+<li>第6代</li>
+<li>第7代</li>
+<li>Air 第二代</li>
+<li>迷你第四代</li>
+<li>专业版9.7英寸机型</li>
+<li>专业版10.5英寸机型</li>
+<li>Pro 12.9 "机型 第一代</li>
+<li>Pro 12.9 "机型 第二代</li>
+</ul></li>
+<li>iPod touch<ul>
+<li>第7代</li>
+</ul></li>
+</ul>
+<hr />
+<h3 id="実験的な機能オプトイン">🚧 实验性功能(选择加入)</h3>
+<ul>
+<li>改变翻页所需时间（默认为0.15秒）</li>
+<li>眨一下眼睛就能返回一页的功能</li>
+</ul>
+<hr />
+<h2 id="仕様">规格</h2>
+<h3 id="価格">价格</h3>
+<p>免费的</p>
+<h3 id="アプリ内課金">应用内购买</h3>
+<p>无</p>
+<h3 id="プラットフォーム">平台</h3>
+<ul>
+<li>iOS 15.0及以上版本</li>
+<li>iPadOS 15.0及以上版本</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>
+
+</body>
+</html>

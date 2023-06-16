@@ -32,9 +32,9 @@ function translate() {
 }
 
 translate Plain将棋盤
-#translate TapTemperature
-#translate TapWeight
-#translate FadeInAlarm
-#translate MemorizeWidget
-#translate LockInNote
-#translate FlipByBlink
+translate TapTemperature
+translate TapWeight
+translate FadeInAlarm
+translate MemorizeWidget
+translate LockInNote
+translate FlipByBlink

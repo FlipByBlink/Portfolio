@@ -1,0 +1,69 @@
+<h1 translate="no">
+TapWeight
+</h1>
+<p><em>Enregistrez vos données de poids dans l'application Health Care le plus rapidement possible.</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1624159721" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="apple_health_badge.svg"></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Vue d'ensemble.</h2>
+<p> Il s'agit de la méthode la plus rapide (manuelle) pour enregistrer les données de poids dans l'application Apple "Health Care" préinstallée sur l'iPhone.</p>
+<p> Utilisateurs visés / cas d'utilisation</p>
+<ul>
+<li><p> N'a pas de balance intelligente.</p></li>
+<li><p> Ils mesurent quotidiennement leur poids et leur taux de graisse corporelle sur une balance.</p></li>
+<li><p> Envisager d'enregistrer manuellement les résultats des mesures dans l'application "Soins de santé" immédiatement après chaque mesure sur la balance.</p></li>
+</ul>
+<p> Option.</p>
+<ul>
+<li><p> L'IMC peut être calculé automatiquement et enregistré en même temps.</p></li>
+<li><p> Le pourcentage de graisse corporelle peut également être enregistré en même temps.</p></li>
+<li><p> La masse maigre peut être calculée automatiquement et enregistrée en même temps.</p></li>
+<li><p> L'unité d'entrée peut être modifiée de 100g à 50g.</p></li>
+<li><p> Compatible avec l'Apple Watch.</p></li>
+<li><p> Fonction de notification de rappel.</p></li>
+<li><p> Possibilité de modifier la date et l'heure d'enregistrement.</p></li>
+<li><p> Possibilité de masquer les bannières publicitaires. (Achat dans l'application)</p></li>
+<li><p> Unités : kg, lbs, st</p></li>
+</ul>
+<p> Autre.</p>
+<ul>
+<li><p> Lancement d'un seul coup de l'application Apple Health Care à partir de l'application.</p></li>
+<li><p> L'inscription peut être annulée immédiatement après l'enregistrement.</p></li>
+</ul>
+<p> Concept.</p>
+<p> Les gens mesurent fréquemment leur poids et leur taux de graisse corporelle au quotidien à l'aide d'une balance. De nombreux utilisateurs d'iPhone enregistrent leurs données de poids et de graisse corporelle sur l'application "Health Care". La meilleure solution consiste à utiliser une balance intelligente qui fonctionne avec l'application Health Care et enregistre automatiquement les mesures, mais ces balances peuvent être coûteuses et inaccessibles. Bien qu'il soit possible d'enregistrer manuellement les données sur l'application Health Care, cette dernière n'est malheureusement pas conçue pour l'enregistrement manuel quotidien des mesures. Par conséquent, la saisie manuelle de données qui se produisent continuellement sur une base quotidienne, telles que les mesures de poids, peut être une expérience qui prend beaucoup de temps et qui est stressante. Cette application a été développée pour résoudre ces problèmes.</p>
+<p> Cette application ne peut pas lire, visualiser ou gérer les données antérieures dans l'application "Soins de santé". Cette application permet uniquement d'enregistrer des données dans l'application "Soins de santé". Veuillez vérifier les données enregistrées dans l'application "Soins de santé".</p>
+<hr />
+<h2 id="仕様"> Spécifications de l'application</h2>
+<h3 id="価格"> Prix</h3>
+<p> Gratuit</p>
+<h3 id="アプリ内課金"> Achat in-app</h3>
+<p> Masquer les publicités (160 yens)</p>
+<h3 id="プラットフォーム"> Plateformes</h3>
+<ul>
+<li> iOS 15.0 ou ultérieur</li>
+</ul>
+<h3 id="サポート言語"> Langues prises en charge</h3>
+<ul>
+<li> Toutes les langues<ul>
+<li> Japonais</li>
+<li> Anglais</li>
+</ul></li>
+<li> Traduction des mots clés uniquement<ul>
+<li> Chinois simplifié</li>
+<li> Chinois traditionnel</li>
+<li> Espagnol</li>
+<li> portugais</li>
+<li> russe</li>
+<li> indonésien</li>
+<li> français</li>
+<li> Allemand</li>
+<li> Allemand</li>
+<li> Coréen</li>
+<li> ukrainien</li>
+</ul></li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1624159721" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

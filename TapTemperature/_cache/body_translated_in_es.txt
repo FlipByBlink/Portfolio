@@ -1,0 +1,71 @@
+<h1 translate="no">
+TapTemperature
+</h1>
+<p><em>Registra tu temperatura corporal en la app 'Health Care' de Apple lo más rápido posible.</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1626760566" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="apple_health_badge.svg"></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Visión general.</h2>
+<p> Esta es la forma más rápida (manual) de registrar los datos de tu temperatura corporal en la aplicación de Apple 'Health Care' preinstalada en tu iPhone.</p>
+<h3 id="想定ユーザー-ユースケース"> Usuarios previstos / casos de uso</h3>
+<ul>
+<li> No dispone de un termómetro inteligente.</li>
+<li> Mide la temperatura corporal (o la temperatura corporal basal) con un termómetro a diario.</li>
+<li> Considera la posibilidad de registrar manualmente los resultados de la medición en la app 'Asistencia sanitaria' inmediatamente después de cada medición con un termómetro normal.</li>
+</ul>
+<h3 id="オプション"> Opción.</h3>
+<ul>
+<li> Modo de temperatura corporal basal</li>
+<li> Modo con dos decimales</li>
+<li> Función para completar automáticamente el proceso simplemente introduciendo números</li>
+</ul>
+<h3 id="その他"> Otros.</h3>
+<ul>
+<li> También se puede utilizar con Apple Watch</li>
+<li> Inicio con un solo toque de la aplicación Apple Health Care desde esta aplicación.</li>
+<li> Cancelación del registro con un solo toque inmediatamente después del registro de datos.</li>
+<li> Unidades<ul>
+<li> °C Celsius</li>
+<li> ℉ Fahrenheit</li>
+</ul></li>
+</ul>
+<h3 id="注意"> Notas.</h3>
+<p> Esta aplicación no puede leer, ver ni gestionar datos anteriores en la aplicación "Asistencia sanitaria". Esta aplicación sólo sirve para registrar datos en la aplicación "Asistencia sanitaria". Compruebe los datos registrados en la aplicación "Asistencia sanitaria".</p>
+<h3 id="背景"> Antecedentes.</h3>
+<p> Las personas suelen medir su temperatura corporal (y su temperatura corporal basal) a diario utilizando un termómetro. Muchos usuarios de iPhone registran sus datos de temperatura (o temperatura corporal basal) en la aplicación "Asistencia sanitaria".</p>
+<p> La mejor solución es utilizar un termómetro inteligente que funcione con la app Health Care y almacene automáticamente las mediciones, pero estos pueden ser caros e inaccesibles. Los datos también pueden registrarse manualmente en la aplicación "Health Care", pero lamentablemente esta no está diseñada para el registro manual rutinario de datos de medición. Por lo tanto, la introducción manual de datos que se producen continuamente a diario, como las mediciones de la temperatura corporal, puede ser una experiencia muy lenta y estresante.</p>
+<p> Esta aplicación se ha desarrollado para resolver estos problemas.</p>
+<hr />
+<h2 id="仕様"> Especificaciones</h2>
+<h3 id="価格"> Precio</h3>
+<p> Gratuita</p>
+<h3 id="アプリ内課金"> Compra dentro de la aplicación</h3>
+<p> Ocultar anuncios (160 yenes)</p>
+<h3 id="プラットフォーム"> Plataformas</h3>
+<ul>
+<li> iOS 15.0 o posterior</li>
+</ul>
+<h3 id="サポート言語"> Idiomas soportados</h3>
+<ul>
+<li> Todos<ul>
+<li> Japonés</li>
+<li> Inglés</li>
+</ul></li>
+<li> Sólo se traducen 4 palabras principales (peso/IMC/porcentaje de grasa corporal/cuidado de la salud)<ul>
+<li> Chino simplificado</li>
+<li> Chino tradicional</li>
+<li> Español</li>
+<li> Portugués</li>
+<li> Ruso</li>
+<li> Indonesio</li>
+<li> Francés</li>
+<li> Árabe</li>
+<li> Alemán</li>
+<li> Coreano</li>
+<li> Ucraniano</li>
+</ul></li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1626760566" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

@@ -1,0 +1,58 @@
+<h1 translate="no">
+MemorizeWidget
+</h1>
+<p><em>Ubah iPhone/iPad/Apple Watch/Mac Anda menjadi buku catatan!</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1644276262" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Ikhtisar.</h2>
+<p> Menampilkan buku catatan Anda di layar beranda atau layar kunci menggunakan fungsi widget. Aplikasi untuk iPhone, iPad, Apple Watch, dan Mac.</p>
+<ul>
+<li> Dua mode: 'mode berdiri sendiri' dan 'mode acak'.</li>
+<li> Dalam 'Mode acak', catatan yang ditampilkan berubah setiap lima menit</li>
+<li> Dukungan widget layar kunci (hanya untuk iOS 16).</li>
+<li> Data catatan dapat diimpor dari teks dan file (csv, tsv, txt, dll.)</li>
+<li> Tautan ke kamus bawaan OS</li>
+<li> Fungsi pencarian yang dapat disesuaikan</li>
+<li> Menyinkronkan data antar perangkat melalui iCloud</li>
+</ul>
+<p><img src="screenshot1200w.png" width="600"></p>
+<p> Opsi</p>
+<ul>
+<li> Tampilan 'komentar' serta 'judul' catatan pada widget (hanya widget layar beranda/widget persegi panjang layar kunci).</li>
+<li> Tampilan beberapa catatan</li>
+</ul>
+<p> Dukungan multi-platform</p>
+<ul>
+<li> iPhone: widget layar kunci (iOS 16 atau yang lebih baru), widget layar beranda</li>
+<li> iPad: widget layar beranda</li>
+<li> Apple Watch: Komplikasi</li>
+<li> Mac: Widget pusat notifikasi</li>
+</ul>
+<p> Direkomendasikan untuk model iPhone 14 Pro terbaru!</p>
+<p> Dengan iPhone 14 Pro dengan Always On Display, Anda dapat memeriksa buku catatan tanpa menyentuh iPhone Anda!</p>
+<blockquote>
+<p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
+<p><em>Kutipan: https://www.apple.com/jp/iphone-14-pro/</em></p>
+</blockquote>
+<hr />
+<h2 id="仕様"> Spesifikasi</h2>
+<h3 id="価格"> Harga</h3>
+<p> Gratis</p>
+<h3 id="アプリ内課金"> Pembelian dalam aplikasi</h3>
+<p> Sembunyikan iklan (160 yen)</p>
+<h3 id="プラットフォーム"> Platform</h3>
+<ul>
+<li> iOS 15.6 atau lebih baru</li>
+<li> iPadOS 15.6 atau lebih baru</li>
+<li> watchOS 9.0 atau lebih baru</li>
+<li> macOS 12.4 atau yang lebih baru</li>
+</ul>
+<h3 id="サポート言語"> Bahasa yang didukung</h3>
+<ul>
+<li> Bahasa Jepang</li>
+<li> Bahasa Inggris</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1644276262" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

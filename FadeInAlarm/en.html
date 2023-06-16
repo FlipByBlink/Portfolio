@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<link rel="alternate" hreflang="ja" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/ja.html"/>
+<link rel="alternate" hreflang="en" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/en.html"/>
+<link rel="alternate" hreflang="id" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/id.html"/>
+<link rel="alternate" hreflang="es" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/es.html"/>
+<link rel="alternate" hreflang="de" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/de.html"/>
+<link rel="alternate" hreflang="fr" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/fr.html"/>
+<link rel="alternate" hreflang="pt" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/pt.html"/>
+<link rel="alternate" hreflang="ru" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/ru.html"/>
+<link rel="alternate" hreflang="zh" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/zh.html"/>
+<link rel="alternate" hreflang="uk" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/uk.html"/>
+<link rel="alternate" hreflang="ko" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/ko.html"/>
+<link rel="alternate" hreflang="x-default" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/en.html"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FadeInAlarm</title>
+<meta name="description" content="An alarm app that gradually increases in volume over time. This app is for iPhone and iPad.">
+<meta name="robots" content="index, follow">
+<style>
+body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 16px;
+}
+
+img {
+    max-width: 100%;
+}
+
+blockquote {
+    padding: 8px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+q {
+    padding: 6px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+pre {
+    overflow-x: auto;
+    border: 1px solid gray;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primaryColor: white;
+        --backgroundColor: #212121;
+        --primaryAccentColor: DeepSkyBlue;
+        --secondaryAccentColor: DarkCyan;
+    }
+
+    body {
+        color: var(--primaryColor);
+        background-color: var(--backgroundColor);
+    }
+
+    a:link {
+        color: var(--primaryAccentColor);
+    }
+
+    a:visited {
+        color: var(--secondaryAccentColor);
+    }
+}
+</style>
+</head>
+<body>
+<h1 translate="no">
+FadeInAlarm
+</h1>
+<p><em>Alarm application that gradually increases in volume over time</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Overview</h2>
+<p> This is an app for iPhone and iPad.</p>
+<p> You can gradually increase the volume of the alarm over a long period of time, from tens of seconds to tens of minutes.</p>
+<p> Recommended for those who are stressed by the sound of ordinary alarms, or for those who want to be aware of a specified time at a rough time interval, rather than at a certain moment in time.</p>
+<p><img src="screenshot1200w.png" width="600"></p>
+<h3 id="オプション"> Options</h3>
+<h4 id="フェードイン時間"> Fade-in time</h4>
+<ul>
+<li> 10 sec.</li>
+<li> 30 seconds</li>
+<li> 1 minute</li>
+<li> 5 min</li>
+<li> 30 min</li>
+<li> 1 hour</li>
+</ul>
+<h4 id="フェードアウト時間"> Fade-out time</h4>
+<ul>
+<li> 3 seconds</li>
+<li> 7 seconds</li>
+<li> 15 sec.</li>
+<li> 30 sec.</li>
+<li> 1 minute</li>
+</ul>
+<h4 id="待機中の音量"> Volume in standby mode</h4>
+<ul>
+<li translate="no">
+10%
+</li>
+<li translate="no">
+5%
+</li>
+<li translate="no">
+3%
+</li>
+<li translate="no">
+1%
+</li>
+<li> 0% (silent)</li>
+</ul>
+<h3 id="動作の流れ"> Operation Flow</h3>
+<ol type="1">
+<li> When the user presses the start button, the app starts playing an alarm sound in very low volume (or silence).</li>
+<li> The application will continue to play the alarm sound repeatedly until the user presses the stop button.</li>
+<li> At the set time, the volume will gradually increase, reaching its full volume after a user-specified time interval (tens of seconds to tens of minutes).</li>
+<li> When the stop button is pressed, the volume will gradually decrease at user-specified intervals (from a few seconds to a minute). When the alarm is completely silent, the application stops playing the alarm sound.</li>
+</ol>
+<h3 class="except_printing"> Demo Video</h3>
+<video controls width="200" src="preview.mp4"> Sorry, your browser doesn't support embedded videos.</video>
+<hr />
+<h3 id="注意事項"> Notes</h3>
+<h4
+id="音源は自分で用意する必要がある"><em>You need to prepare your own sound sources!</em></h4>
+<p> Please import sound source files (mp3, etc.) prepared by the user himself/herself.</p>
+<p> Sound data is preset in the app for testing.</p>
+<h4
+id="普通のアラームアプリより不便な面あります"><em>This app is more inconvenient than ordinary alarm apps!</em></h4>
+<p> For various reasons, this app differs from ordinary alarm apps in that it cannot sound an alarm when the app itself is not running at all. You need to start the app beforehand.</p>
+<p> For example, if you want to use this app at 6:00 a.m. for alarm purposes, please launch the app just before going to bed and press the start button.</p>
+<h4 id="待機中も制限あります"><em>There are also restrictions during standby!</em></h4>
+<p> While in standby mode, you can lock your device or use other apps, but you need to be a little careful not to interrupt the alarm standby state.</p>
+<ul>
+<li> The following situations will interrupt the alarm standby state <ul>
+<li> Situations where you watch long videos in other apps</li>
+<li> Playing a song on the device's music application</li>
+</ul></li>
+<li> The alarm standby state will be interrupted in the following situations, but will resume automatically. <ul>
+<li> When using the camera application</li>
+<li> Situations in which some kind of system notification generates an audible alarm</li>
+</ul></li>
+</ul>
+<hr />
+<h2 id="仕様"> Specifications</h2>
+<h3 id="価格"> Price</h3>
+<p> Free of charge</p>
+<h3 id="アプリ内課金"> In-app purchase</h3>
+<p> Hide AD: $1</p>
+<h3 id="プラットフォーム"> Platforms</h3>
+<ul>
+<li> iOS 16.0 or later</li>
+<li> iPadOS 16.0 or later</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>
+
+</body>
+</html>

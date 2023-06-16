@@ -1,0 +1,1 @@
+Il s'agit de la méthode la plus rapide (pour autant qu'elle soit manuelle) pour enregistrer les données de température dans l'application Apple "Health Care" préinstallée sur l'iPhone.

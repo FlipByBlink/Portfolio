@@ -1,0 +1,1 @@
+An app that allows you to turn a widget into a memorization book. App for iPhone, iPad, Apple Watch, and Mac.

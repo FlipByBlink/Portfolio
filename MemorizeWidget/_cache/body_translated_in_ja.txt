@@ -1,0 +1,61 @@
+<h1 translate="no">
+MemorizeWidget
+</h1>
+<p><em>iPhone/iPad/Apple Watch/Macを暗記帳にしよう</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1644276262" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要">概要</h2>
+<p>ウィジェット機能を用いてホーム画面やロック画面に暗記帳を表示します。日常の中で暗記帳をたくさんチラ見して知識を脳に染み込ませるためのアプリです。iPhone、iPad、Apple
+Watch、Mac用アプリ。</p>
+<ul>
+<li>「単体モード」と「ランダムモード」の２つのモード</li>
+<li>「ランダムモード」では、5分毎に表示されるノートが変わります</li>
+<li>ロック画面ウィジェットにも対応(iOS16のみ)</li>
+<li>テキストやファイル(csv、tsv、txtなど)から暗記帳データをインポート可能</li>
+<li>OS内蔵の辞書と連携</li>
+<li>カスタマイズ可能な検索機能</li>
+<li>iCloudによって端末間でデータを同期</li>
+</ul>
+<p><img src="screenshot1200w.png" width="600"></p>
+<p>オプション</p>
+<ul>
+<li>ウィジェット上でノートの「タイトル」だけでなく「コメント」を表示することも可能(ホーム画面のウィジェット/ロック画面の長方形ウィジェットのみ対象)</li>
+<li>複数個のノートを表示</li>
+</ul>
+<p>マルチプラットフォーム対応</p>
+<ul>
+<li>iPhone: ロック画面ウィジェット(iOS16以降),
+ホーム画面ウィジェット</li>
+<li>iPad: ホーム画面ウィジェット</li>
+<li>Apple Watch: コンプリケーション</li>
+<li>Mac: 通知センターウィジェット</li>
+</ul>
+<p>最新機種 iPhone 14 Pro にオススメ！</p>
+<p>常時表示ディスプレイが搭載された iPhone 14 Pro
+なら、iPhoneを触らなくても暗記帳をチェック可能！</p>
+<blockquote>
+<p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
+<p><em>引用: https://www.apple.com/jp/iphone-14-pro/</em></p>
+</blockquote>
+<hr />
+<h2 id="仕様">仕様</h2>
+<h3 id="価格">価格</h3>
+<p>無料</p>
+<h3 id="アプリ内課金">アプリ内課金</h3>
+<p>広告を非表示にする(160円)</p>
+<h3 id="プラットフォーム">プラットフォーム</h3>
+<ul>
+<li>iOS 15.6 以降</li>
+<li>iPadOS 15.6 以降</li>
+<li>watchOS 9.0 以降</li>
+<li>macOS 12.4 以降</li>
+</ul>
+<h3 id="サポート言語">サポート言語</h3>
+<ul>
+<li>日本語</li>
+<li>英語</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1644276262" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

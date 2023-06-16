@@ -1,0 +1,1 @@
+Uma aplicação que permite transformar um widget num livro de notas. Mergulhe o seu cérebro em conhecimentos do quotidiano. Aplicação para iPhone, iPad, Apple Watch e Mac.

@@ -1,0 +1,91 @@
+<h1 translate="no">
+FadeInAlarm
+</h1>
+<p><em>Aplikasi alarm dengan suara yang secara bertahap menjadi lebih keras dari waktu ke waktu</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Ikhtisar.</h2>
+<p> Aplikasi untuk iPhone dan iPad ini memungkinkan Anda mengetahui waktu pilihan Anda dengan meningkatkan volume alarm secara bertahap dari waktu ke waktu, sedangkan aplikasi alarm normal membunyikan nada peringatan yang keras dan cepat.</p>
+<p> Anda dapat meningkatkan volume alarm secara bertahap dalam jangka waktu yang lebih lama, dari puluhan detik hingga puluhan menit.</p>
+<p> Hal ini direkomendasikan bagi orang yang stres karena bunyi alarm biasa, atau bagi orang yang ingin mengetahui waktu yang ditentukan pada interval waktu yang kasar, bukan pada saat tertentu.</p>
+<p><img src="screenshot1200w.png" width="600"></p>
+<h3 id="オプション"> Opsi.</h3>
+<h4 id="フェードイン時間"> Waktu memudar</h4>
+<ul>
+<li> 10 detik</li>
+<li> 30 detik</li>
+<li> 1 menit</li>
+<li> 5 menit</li>
+<li> 30 menit</li>
+<li> 1 jam</li>
+</ul>
+<h4 id="フェードアウト時間"> Waktu memudar</h4>
+<ul>
+<li> 3 detik</li>
+<li> 7 detik</li>
+<li> 15 detik</li>
+<li> 30 detik</li>
+<li> 1 menit.</li>
+</ul>
+<h4 id="待機中の音量"> Volume dalam mode siaga</h4>
+<ul>
+<li translate="no">
+10%
+</li>
+<li translate="no">
+5%
+</li>
+<li translate="no">
+3%
+</li>
+<li translate="no">
+1%
+</li>
+<li> 0% (hening)</li>
+</ul>
+<h3 id="動作の流れ"> Urutan pengoperasian</h3>
+<ol type="1">
+<li> Ketika tombol mulai ditekan, aplikasi mulai memutar suara alarm dengan volume yang sangat rendah (atau hening).</li>
+<li> Aplikasi akan terus memutar suara alarm berulang kali sampai pengguna menekan tombol stop.</li>
+<li> Pada waktu yang ditetapkan, volume secara bertahap meningkat dan mencapai volume penuh setelah interval waktu yang ditentukan pengguna (puluhan detik hingga puluhan menit).</li>
+<li> Menekan tombol Stop akan mengurangi volume secara bertahap pada interval yang ditentukan pengguna (dari beberapa detik hingga satu menit). Aplikasi akan berhenti memainkan suara alarm ketika keadaan benar-benar hening.</li>
+</ol>
+<h3 class="except_printing"> Video demo.</h3>
+<video controls width="200" src="preview.mp4"> Maaf, browser Anda tidak mendukung video yang disematkan.</video>
+<hr />
+<h3 id="注意事項"> Catatan.</h3>
+<h4
+id="音源は自分で用意する必要がある"><em>Anda perlu menyiapkan sumber suara Anda sendiri!</em></h4>
+<p> Silakan impor file suara (mis. mp3) yang disiapkan sendiri oleh pengguna.</p>
+<p> Data suara telah diatur sebelumnya dalam aplikasi untuk tujuan pengujian.</p>
+<h4
+id="普通のアラームアプリより不便な面あります"><em>Aplikasi ini lebih merepotkan daripada aplikasi alarm biasa!</em></h4>
+<p> Karena berbagai alasan, aplikasi ini berbeda dari aplikasi alarm biasa karena tidak dapat membunyikan alarm ketika aplikasi itu sendiri tidak berjalan sama sekali. Anda harus memulai aplikasi terlebih dahulu.</p>
+<p> Misalnya, jika Anda ingin menggunakan aplikasi ini pada pukul 6 pagi untuk tujuan alarm, jalankan aplikasi sebelum Anda tidur dan tekan tombol start.</p>
+<h4 id="待機中も制限あります"><em>Ada juga pembatasan selama siaga!</em></h4>
+<p> Anda dapat mengunci perangkat Anda atau menggunakan aplikasi lain saat dalam keadaan siaga, tetapi Anda harus sedikit berhati-hati agar tidak mengganggu keadaan siaga alarm.</p>
+<ul>
+<li> Status siaga alarm akan terputus dalam situasi berikut ini <ul>
+<li> Situasi saat Anda menonton video berdurasi panjang di aplikasi lain.</li>
+<li> Situasi saat lagu diputar di aplikasi musik perangkat</li>
+</ul></li>
+<li> Status siaga alarm diinterupsi dalam situasi berikut ini, tetapi akan dilanjutkan secara otomatis <ul>
+<li> Situasi saat aplikasi kamera digunakan.</li>
+<li> Situasi di mana suara dihasilkan oleh beberapa jenis notifikasi sistem.</li>
+</ul></li>
+</ul>
+<hr />
+<h2 id="仕様"> Spesifikasi</h2>
+<h3 id="価格"> Harga</h3>
+<p> Gratis</p>
+<h3 id="アプリ内課金"> Pembelian dalam aplikasi</h3>
+<p> Sembunyikan Iklan: $1</p>
+<h3 id="プラットフォーム"> Platform</h3>
+<ul>
+<li> iOS 16.0 ke atas</li>
+<li> iPadOS 16.0 dan lebih tinggi</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

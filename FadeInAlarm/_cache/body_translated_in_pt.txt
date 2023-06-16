@@ -1,0 +1,91 @@
+<h1 translate="no">
+FadeInAlarm
+</h1>
+<p><em>Aplicação de alarme com som que se torna gradualmente mais alto ao longo do tempo</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Descrição geral.</h2>
+<p> Esta aplicação para iPhone e iPad permite-lhe saber as horas da sua escolha aumentando gradualmente o volume do alarme ao longo do tempo, enquanto as aplicações de alarme normais emitem um som de aviso alto e rápido.</p>
+<p> Pode aumentar gradualmente o volume do alarme durante um período de tempo mais longo, de dezenas de segundos a dezenas de minutos.</p>
+<p> Esta opção é recomendada para pessoas que ficam stressadas com o som de um alarme normal ou para pessoas que querem estar atentas a uma hora específica num intervalo de tempo aproximado e não num determinado momento.</p>
+<p><img src="screenshot1200w.png" width="600"></p>
+<h3 id="オプション"> Opções.</h3>
+<h4 id="フェードイン時間"> Tempo de atenuação</h4>
+<ul>
+<li> 10 seg.</li>
+<li> 30 seg.</li>
+<li> 1 min</li>
+<li> 5 min</li>
+<li> 30 minutos</li>
+<li> 1 hora</li>
+</ul>
+<h4 id="フェードアウト時間"> Tempo de desvanecimento</h4>
+<ul>
+<li> 3 seg.</li>
+<li> 7 seg.</li>
+<li> 15 seg.</li>
+<li> 30 seg.</li>
+<li> 1 min.</li>
+</ul>
+<h4 id="待機中の音量"> Volume no modo de espera</h4>
+<ul>
+<li translate="no">
+10%
+</li>
+<li translate="no">
+5%
+</li>
+<li translate="no">
+3%
+</li>
+<li translate="no">
+1%
+</li>
+<li> 0% (silencioso)</li>
+</ul>
+<h3 id="動作の流れ"> Sequência de funcionamento</h3>
+<ol type="1">
+<li> Quando o botão de início é premido, a aplicação começa a reproduzir o som do alarme num volume muito baixo (ou silêncio).</li>
+<li> A aplicação continuará a reproduzir o som do alarme repetidamente até o utilizador premir o botão de paragem.</li>
+<li> Na hora definida, o volume aumenta gradualmente e atinge o volume máximo após um intervalo de tempo especificado pelo utilizador (dezenas de segundos a dezenas de minutos).</li>
+<li> Premir o botão Parar diminui gradualmente o volume em intervalos especificados pelo utilizador (de alguns segundos a um minuto). A aplicação pára de reproduzir o som do alarme quando o silêncio é total.</li>
+</ol>
+<h3 class="except_printing"> Vídeo de demonstração.</h3>
+<video controls width="200" src="preview.mp4"> Lamentamos, mas o seu browser não suporta vídeos incorporados.</video>
+<hr />
+<h3 id="注意事項"> Notas.</h3>
+<h4
+id="音源は自分で用意する必要がある"><em>Tem de preparar as suas próprias fontes de som!</em></h4>
+<p> Importe ficheiros de som (por exemplo, mp3) preparados pelo próprio utilizador.</p>
+<p> Os dados de som são predefinidos na aplicação para efeitos de teste.</p>
+<h4
+id="普通のアラームアプリより不便な面あります"><em>Esta aplicação é mais inconveniente do que as aplicações de alarme normais!</em></h4>
+<p> Por várias razões, esta aplicação difere das aplicações de alarme normais na medida em que não pode emitir um alarme quando a própria aplicação não está a funcionar. É necessário iniciar a aplicação previamente.</p>
+<p> Por exemplo, se quiser utilizar esta aplicação às 6 da manhã para fins de alarme, inicie a aplicação imediatamente antes de ir para a cama e prima o botão Iniciar.</p>
+<h4 id="待機中も制限あります"><em>Existem também restrições durante o modo de espera!</em></h4>
+<p> Pode bloquear o dispositivo ou utilizar outras aplicações enquanto está em modo de espera, mas tem de ter algum cuidado para não interromper o estado de espera do alarme.</p>
+<ul>
+<li> O estado de espera do alarme é interrompido nas seguintes situações <ul>
+<li> Situações em que vê vídeos longos noutras aplicações.</li>
+<li> Situações em que uma música é reproduzida na aplicação de música do dispositivo</li>
+</ul></li>
+<li> O estado de espera do alarme é interrompido nas seguintes situações, mas será retomado automaticamente <ul>
+<li> Situações em que é utilizada a aplicação da câmara.</li>
+<li> Situações em que o som é gerado por algum tipo de notificação do sistema.</li>
+</ul></li>
+</ul>
+<hr />
+<h2 id="仕様"> Características técnicas</h2>
+<h3 id="価格"> Preço</h3>
+<p> Gratuito</p>
+<h3 id="アプリ内課金"> Compras na aplicação</h3>
+<p> Ocultar AD: $1</p>
+<h3 id="プラットフォーム"> Plataformas</h3>
+<ul>
+<li> iOS 16.0 e superior</li>
+<li> iPadOS 16.0 e superior</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

@@ -1,0 +1,91 @@
+<h1 translate="no">
+FadeInAlarm
+</h1>
+<p><em>Alarm-App mit Ton, der mit der Zeit immer lauter wird</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Überblick.</h2>
+<p> Diese App für iPhone und iPad informiert Sie über die Uhrzeit Ihrer Wahl, indem sie die Lautstärke des Alarms im Laufe der Zeit allmählich erhöht, während normale Alarm-Apps einen lauten, schnellen Warnton ausgeben.</p>
+<p> Sie können die Lautstärke des Alarms schrittweise über einen längeren Zeitraum erhöhen, von einigen zehn Sekunden bis zu einigen zehn Minuten.</p>
+<p> Dies empfiehlt sich für Personen, die durch den Klang eines normalen Alarms gestresst werden, oder für Personen, die nicht zu einem bestimmten Zeitpunkt, sondern in einem groben Zeitintervall auf eine bestimmte Uhrzeit aufmerksam gemacht werden möchten.</p>
+<p><img src="screenshot1200w.png" width="600"></p>
+<h3 id="オプション"> Optionen.</h3>
+<h4 id="フェードイン時間"> Einblendzeit</h4>
+<ul>
+<li> 10 Sek.</li>
+<li> 30 Sek.</li>
+<li> 1 Minute</li>
+<li> 5 Min.</li>
+<li> 30 Min.</li>
+<li> 1 Stunde</li>
+</ul>
+<h4 id="フェードアウト時間"> Ausblendzeit</h4>
+<ul>
+<li> 3 Sek.</li>
+<li> 7 Sek.</li>
+<li> 15 Sek.</li>
+<li> 30 Sek.</li>
+<li> 1 Min.</li>
+</ul>
+<h4 id="待機中の音量"> Lautstärke im Standby-Modus</h4>
+<ul>
+<li translate="no">
+10%
+</li>
+<li translate="no">
+5%
+</li>
+<li translate="no">
+3%
+</li>
+<li translate="no">
+1%
+</li>
+<li> 0% (lautlos)</li>
+</ul>
+<h3 id="動作の流れ"> Funktionsablauf</h3>
+<ol type="1">
+<li> Wenn die Starttaste gedrückt wird, beginnt die App, den Alarmton in sehr geringer Lautstärke (oder stumm) abzuspielen.</li>
+<li> Die App spielt den Weckton wiederholt ab, bis der Benutzer die Stopptaste drückt.</li>
+<li> Zur eingestellten Zeit nimmt die Lautstärke allmählich zu und erreicht nach einem vom Benutzer festgelegten Zeitintervall (einige zehn Sekunden bis einige zehn Minuten) ihre volle Lautstärke.</li>
+<li> Durch Drücken der Stopptaste wird die Lautstärke in benutzerdefinierten Abständen (von einigen Sekunden bis zu einer Minute) schrittweise verringert. Die App hört auf, den Alarmton abzuspielen, wenn völlige Stille herrscht.</li>
+</ol>
+<h3 class="except_printing"> Demo-Video.</h3>
+<video controls width="200" src="preview.mp4"> Ihr Browser unterstützt leider keine eingebetteten Videos.</video>
+<hr />
+<h3 id="注意事項"> Anmerkungen.</h3>
+<h4
+id="音源は自分で用意する必要がある"><em>Sie müssen Ihre eigenen Tonquellen vorbereiten!</em></h4>
+<p> Bitte importieren Sie selbst erstellte Sounddateien (z.B. mp3).</p>
+<p> Die Sounddaten sind in der App zu Testzwecken voreingestellt.</p>
+<h4
+id="普通のアラームアプリより不便な面あります"><em>Diese App ist unbequemer als normale Wecker-Apps!</em></h4>
+<p> Aus verschiedenen Gründen unterscheidet sich diese App von normalen Wecker-Apps dadurch, dass sie keinen Alarm auslösen kann, wenn die App selbst gar nicht läuft. Sie müssen die App vorher starten.</p>
+<p> Wenn Sie diese App z. B. um 6 Uhr morgens als Wecker verwenden möchten, starten Sie die App kurz vor dem Schlafengehen und drücken Sie die Starttaste.</p>
+<h4 id="待機中も制限あります"><em>Auch im Standby-Modus gibt es Einschränkungen!</em></h4>
+<p> Sie können Ihr Gerät sperren oder andere Apps verwenden, während es sich im Standby-Modus befindet, aber Sie müssen ein wenig aufpassen, dass Sie den Standby-Modus des Weckers nicht unterbrechen.</p>
+<ul>
+<li> Der Weckbereitschaftszustand wird in den folgenden Situationen unterbrochen <ul>
+<li> Situationen, in denen Sie lange Videos in anderen Anwendungen ansehen.</li>
+<li> Situationen, in denen ein Lied in der Musikanwendung des Geräts abgespielt wird</li>
+</ul></li>
+<li> Die Weckbereitschaft wird in den folgenden Situationen unterbrochen, aber automatisch wiederhergestellt <ul>
+<li> Situationen, in denen die Kameraanwendung verwendet wird.</li>
+<li> Situationen, in denen ein Ton durch eine Systembenachrichtigung erzeugt wird.</li>
+</ul></li>
+</ul>
+<hr />
+<h2 id="仕様"> Technische Daten</h2>
+<h3 id="価格"> Preis</h3>
+<p> Kostenfrei</p>
+<h3 id="アプリ内課金"> In-App-Käufe</h3>
+<p> AD ausblenden: $1</p>
+<h3 id="プラットフォーム"> Plattformen</h3>
+<ul>
+<li> iOS 16.0 und höher</li>
+<li> iPadOS 16.0 und höher</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

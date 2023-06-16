@@ -1,0 +1,1 @@
+Una aplicación de alarma que aumenta gradualmente el volumen con el tiempo. Una aplicación para iPhone y iPad.

@@ -1,0 +1,79 @@
+<h1 translate="no">
+FlipByBlink
+</h1>
+<p><em>Eine E-Book-App, mit der Sie durch Blinzeln umblättern können</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Überblick.</h2>
+<p> Nur eine besondere Funktion. Dies ist eine App für iPhone und iPad, die es Ihnen ermöglicht, Seiten umzublättern, indem Sie bewusst für einen etwas längeren Zeitraum mit geschlossenen Augen blinzeln.</p>
+<p> Abgesehen von den oben genannten Funktionen handelt es sich um eine einfache und gewöhnliche E-Book-Reader-App.</p>
+<h3 id="ページめくりの仕組み"> So funktioniert das Umblättern</h3>
+<p><img src="preview.gif" class="except_printing"></p>
+<p><img src="flow.svg" width="540"></p>
+<p> Ein etwas länger geschlossenes Augenlid bewirkt, dass die Seite vorwärts geschickt wird, und wenn Sie die Augen öffnen, sind Sie bereits auf der nächsten Seite angelangt. Normales Blinzeln führt nicht zum Umblättern der Seite.</p>
+<p> Das Blinzeln wird von der eingebauten Kamera und den Sensoren des Geräts erkannt.</p>
+<p> Wie bei den meisten E-Book-Apps können Sie die Seiten auch durch Antippen oder Streichen auf dem Bildschirm umblättern.</p>
+<h3 id="電子書籍フォーマット"> E-Book-Format.</h3>
+<ul>
+<li> Nur für Bücher mit "festem Layout". Zum Beispiel Papierbücher, die direkt in Papierbücher oder Comics umgewandelt werden.</li>
+<li> Unterstützt den Import von PDF- und ZIP-Dateien.</li>
+</ul>
+<h3 id="ユースケース"> Anwendungsfälle</h3>
+<ul>
+<li> Allgemeines Lesen</li>
+<li> Spielen eines Musikinstruments beim Betrachten der Notenblätter</li>
+<li> Kochen, während man in einem Rezeptbuch nachschaut</li>
+<li> Lesen in Zügen und Bussen</li>
+<li> Lesen für Menschen mit körperlichen Behinderungen</li>
+</ul>
+<p><img src="usecase680w.png" width="240"></p>
+<hr />
+<h3 id="サポートデバイス"> Unterstützende Geräte</h3>
+<p> Verwendet das Apple Framework ARKit/FaceTrackingAPI für die Blinzelerkennung. Dies erfordert eine TrueDepth-Kamera oder einen A12Bionic-Chip oder höher.</p>
+<h4 id="サポート対象外のデバイス"> ⚠️ Nicht unterstützte Geräte</h4>
+<ul>
+<li> iPhone<ul>
+<li> 6s</li>
+<li> 6s Plus</li>
+<li> 7</li>
+<li> 7 Plus</li>
+<li> 8</li>
+<li> 8 Plus</li>
+<li> SE 1. Generation</li>
+</ul></li>
+<li> iPad<ul>
+<li> 5. Generation</li>
+<li> 6. Generation</li>
+<li> 7. Generation</li>
+<li> Air 2. Generation</li>
+<li> Mini 4. Generation</li>
+<li> Pro 9,7-Zoll-Modell</li>
+<li> Pro 10,5"-Modell</li>
+<li> Pro 12,9"-Modell 1. Generation</li>
+<li> Pro 12,9"-Modell 2. Generation</li>
+</ul></li>
+<li> iPod touch<ul>
+<li> 7. Generation</li>
+</ul></li>
+</ul>
+<hr />
+<h3 id="実験的な機能オプトイン"> 🚧 Experimentelle Funktionen (opt-in)</h3>
+<ul>
+<li> Ändern der Zeit, die zum Umblättern einer Seite benötigt wird (standardmäßig 0,15 Sekunden)</li>
+<li> Funktion zum Zurückblättern einer Seite mit einem einzigen Augenzwinkern</li>
+</ul>
+<hr />
+<h2 id="仕様"> Spezifikationen</h2>
+<h3 id="価格"> Preis</h3>
+<p> Kostenfrei</p>
+<h3 id="アプリ内課金"> In-App-Kauf</h3>
+<p> Keine</p>
+<h3 id="プラットフォーム"> Plattformen</h3>
+<ul>
+<li> iOS 15.0 und höher</li>
+<li> iPadOS 15.0 und höher</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

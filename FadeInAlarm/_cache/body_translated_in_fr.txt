@@ -1,0 +1,91 @@
+<h1 translate="no">
+FadeInAlarm
+</h1>
+<p><em>Application d'alarme avec un son qui s'amplifie progressivement au fil du temps</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Vue d'ensemble.</h2>
+<p> Cette application pour iPhone et iPad vous permet de connaître l'heure de votre choix en augmentant progressivement le volume de l'alarme au fil du temps, alors que les applications d'alarme normales émettent un signal sonore fort et rapide.</p>
+<p> Vous pouvez augmenter progressivement le volume de l'alarme sur une période plus longue, de quelques dizaines de secondes à quelques dizaines de minutes.</p>
+<p> Cette option est recommandée pour les personnes qui sont stressées par le son d'une alarme classique, ou pour les personnes qui souhaitent être informées d'une heure précise à un intervalle de temps approximatif plutôt qu'à un moment précis dans le temps.</p>
+<p><img src="screenshot1200w.png" width="600"></p>
+<h3 id="オプション"> Options.</h3>
+<h4 id="フェードイン時間"> Durée du fondu</h4>
+<ul>
+<li> 10 sec.</li>
+<li> 30 sec.</li>
+<li> 1 min</li>
+<li> 5 minutes</li>
+<li> 30 minutes</li>
+<li> 1 heure</li>
+</ul>
+<h4 id="フェードアウト時間"> Temps de fondu enchaîné</h4>
+<ul>
+<li> 3 sec.</li>
+<li> 7 sec.</li>
+<li> 15 sec.</li>
+<li> 30 secondes</li>
+<li> 1 min.</li>
+</ul>
+<h4 id="待機中の音量"> Volume en mode veille</h4>
+<ul>
+<li translate="no">
+10%
+</li>
+<li translate="no">
+5%
+</li>
+<li translate="no">
+3%
+</li>
+<li translate="no">
+1%
+</li>
+<li> 0% (silencieux)</li>
+</ul>
+<h3 id="動作の流れ"> Séquence de fonctionnement</h3>
+<ol type="1">
+<li> Lorsque l'utilisateur appuie sur le bouton de démarrage, l'application commence à diffuser le son de l'alarme à très faible volume (ou en silence).</li>
+<li> L'application continue à jouer le son de l'alarme de manière répétée jusqu'à ce que l'utilisateur appuie sur le bouton d'arrêt.</li>
+<li> À l'heure programmée, le volume augmente progressivement et atteint son maximum après un intervalle de temps spécifié par l'utilisateur (de quelques dizaines de secondes à quelques dizaines de minutes).</li>
+<li> En appuyant sur le bouton Stop, le volume diminue progressivement à des intervalles spécifiés par l'utilisateur (de quelques secondes à une minute). L'application arrête de diffuser le son de l'alarme lorsque le silence est total.</li>
+</ol>
+<h3 class="except_printing"> Vidéo de démonstration.</h3>
+<video controls width="200" src="preview.mp4"> Désolé, votre navigateur ne prend pas en charge les vidéos intégrées.</video>
+<hr />
+<h3 id="注意事項"> Remarques.</h3>
+<h4
+id="音源は自分で用意する必要がある"><em>Vous devez préparer vos propres sources sonores !</em></h4>
+<p> Veuillez importer des fichiers sonores (par exemple mp3) préparés par l'utilisateur lui-même.</p>
+<p> Les données sonores sont prédéfinies dans l'application à des fins de test.</p>
+<h4
+id="普通のアラームアプリより不便な面あります"><em>Cette application est plus gênante que les applications d'alarme normales !</em></h4>
+<p> Pour diverses raisons, cette application diffère des applications d'alarme ordinaires en ce sens qu'elle ne peut pas déclencher d'alarme lorsque l'application elle-même n'est pas en cours d'exécution. Vous devez démarrer l'application au préalable.</p>
+<p> Par exemple, si vous souhaitez utiliser cette application à 6 heures du matin pour déclencher une alarme, démarrez l'application juste avant d'aller vous coucher et appuyez sur le bouton de démarrage.</p>
+<h4 id="待機中も制限あります"><em>Il y a aussi des restrictions pendant la veille !</em></h4>
+<p> Vous pouvez verrouiller votre appareil ou utiliser d'autres applications lorsque vous êtes en veille, mais vous devez faire attention à ne pas interrompre l'état de veille de l'alarme.</p>
+<ul>
+<li> L'état de veille de l'alarme est interrompu dans les situations suivantes <ul>
+<li> Lorsque vous regardez de longues vidéos dans d'autres applications.</li>
+<li> Lorsqu'une chanson est jouée dans l'application musicale de l'appareil.</li>
+</ul></li>
+<li> L'état de veille de l'alarme est interrompu dans les situations suivantes, mais reprend automatiquement <ul>
+<li> Utilisation de l'application de l'appareil photo.</li>
+<li> Situations où le son est généré par un type de notification du système.</li>
+</ul></li>
+</ul>
+<hr />
+<h2 id="仕様"> Spécifications de l'appareil</h2>
+<h3 id="価格"> Prix</h3>
+<p> Gratuit</p>
+<h3 id="アプリ内課金"> Achats in-app</h3>
+<p> Cacher la publicité : 1</p>
+<h3 id="プラットフォーム"> Plateformes</h3>
+<ul>
+<li> iOS 16.0 et supérieur</li>
+<li> iPadOS 16.0 et supérieur</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

@@ -1,0 +1,1 @@
+Application pour l'enregistrement le plus rapide (pour autant qu'il soit manuel) des données de poids dans l'application Apple 'Health Care' préinstallée sur l'iPhone. Application pour iPhone/Apple Watch uniquement.

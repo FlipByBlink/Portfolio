@@ -1,0 +1,58 @@
+<h1 translate="no">
+MemorizeWidget
+</h1>
+<p><em>Transformez votre iPhone/iPad/Apple Watch/Mac en carnet de notes !</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1644276262" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Vue d'ensemble.</h2>
+<p> Affichez votre carnet de notes sur votre écran d'accueil ou votre écran de verrouillage à l'aide de la fonction widget. Application pour iPhone, iPad, Apple Watch et Mac.</p>
+<ul>
+<li> Deux modes : "mode autonome" et "mode aléatoire".</li>
+<li> En mode aléatoire, les notes affichées changent toutes les cinq minutes.</li>
+<li> Prise en charge du widget de l'écran de verrouillage (iOS 16 uniquement).</li>
+<li> Les données des mémorandums peuvent être importées à partir de textes et de fichiers (csv, tsv, txt, etc.).</li>
+<li> Lien avec les dictionnaires intégrés au système d'exploitation</li>
+<li> Fonction de recherche personnalisable</li>
+<li> Synchronisation des données entre les appareils via iCloud</li>
+</ul>
+<p><img src="screenshot1200w.png" width="600"></p>
+<p> Options</p>
+<ul>
+<li> Affichage des "commentaires" des notes ainsi que des "titres" sur les widgets (widget de l'écran d'accueil/widget rectangulaire de l'écran de verrouillage uniquement).</li>
+<li> Affichage de plusieurs notes</li>
+</ul>
+<p> Prise en charge multiplateforme</p>
+<ul>
+<li> iPhone : widget écran de verrouillage (iOS 16 ou ultérieur), widget écran d'accueil</li>
+<li> iPad : widget écran d'accueil</li>
+<li> Apple Watch : Complications</li>
+<li> Mac : widget centre de notification</li>
+</ul>
+<p> Recommandé pour les derniers modèles d'iPhone 14 Pro !</p>
+<p> Avec l'iPhone 14 Pro avec Always On Display, vous pouvez consulter votre bloc-notes sans toucher votre iPhone !</p>
+<blockquote>
+<p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
+<p><em>Citation : https://www.apple.com/jp/iphone-14-pro/</em></p>
+</blockquote>
+<hr />
+<h2 id="仕様"> Spécifications techniques</h2>
+<h3 id="価格"> Prix</h3>
+<p> Gratuit</p>
+<h3 id="アプリ内課金"> Achat in-app</h3>
+<p> Masquer les publicités (160 yens)</p>
+<h3 id="プラットフォーム"> Plateformes</h3>
+<ul>
+<li> iOS 15.6 ou ultérieur</li>
+<li> iPadOS 15.6 ou version ultérieure</li>
+<li> watchOS 9.0 ou version ultérieure</li>
+<li> macOS 12.4 ou version ultérieure</li>
+</ul>
+<h3 id="サポート言語"> Langues prises en charge</h3>
+<ul>
+<li> Japonais</li>
+<li> Anglais</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1644276262" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

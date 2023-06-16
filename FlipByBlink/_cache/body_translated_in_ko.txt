@@ -1,0 +1,79 @@
+<h1 translate="no">
+FlipByBlink
+</h1>
+<p><em>눈을 깜빡이는 것만으로 페이지를 넘길 수 있는 전자책 앱!</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> 개요</h2>
+<p> 특별한 기능이 하나 있습니다. 눈을 감는 시간을 의식적으로 약간 길게 하여 눈을 깜빡이는 동작으로 페이지를 넘길 수 있는 아이폰, 아이패드용 앱입니다.</p>
+<p> 위의 기능 외에는 단순하고 일반적인 전자책 리더 앱입니다.</p>
+<h3 id="ページめくりの仕組み"> 페이지 넘김의 원리</h3>
+<p><img src="preview.gif" class="except_printing"></p>
+<p><img src="flow.svg" width="540"></p>
+<p> 눈꺼풀을 조금 길게 감으면 페이지 넘김이 이루어지고, 눈을 떴을 때는 이미 다음 페이지로 넘어간 상태입니다. 일반적인 눈 깜빡임으로는 페이지 넘김이 되지 않습니다.</p>
+<p> 디바이스 내장 카메라와 센서로 눈 깜빡임을 감지합니다.</p>
+<p> 일반 전자책 앱과 마찬가지로 화면 탭이나 화면 스와이프로도 페이지를 넘길 수 있습니다.</p>
+<h3 id="電子書籍フォーマット"> 전자책 포맷</h3>
+<ul>
+<li> '고정 레이아웃' 도서만 해당됩니다. 예를 들어 종이책을 그대로 옮긴 책이나 만화책 등.</li>
+<li> PDF 파일 및 ZIP 파일 가져오기 지원.</li>
+</ul>
+<h3 id="ユースケース"> 사용 사례</h3>
+<ul>
+<li> 일반적인 독서</li>
+<li> 악보를 보면서 악기 연주</li>
+<li> 레시피북을 보면서 요리하기</li>
+<li> 전철이나 버스에서 독서</li>
+<li> 신체적 장애가 있는 분들의 독서</li>
+</ul>
+<p><img src="usecase680w.png" width="240"></p>
+<hr />
+<h3 id="サポートデバイス"> 지원 디바이스</h3>
+<p> 눈 깜빡임을 감지하기 위해 애플의 프레임워크인 ARKit/FaceTrackingAPI를 사용하고 있다. 따라서 TrueDepth 카메라 또는 A12Bionic 이상의 칩이 필요합니다.</p>
+<h4 id="サポート対象外のデバイス"> ⚠️ 지원되지 않는 기기</h4>
+<ul>
+<li> 아이폰<ul>
+<li> 6s</li>
+<li> 6s Plus</li>
+<li> 아이폰 7</li>
+<li> 7 Plus</li>
+<li> 8</li>
+<li> 8 Plus</li>
+<li> SE 1세대</li>
+</ul></li>
+<li> iPad<ul>
+<li> 5세대</li>
+<li> 6세대</li>
+<li> 7세대</li>
+<li> Air 2세대</li>
+<li> mini 4세대</li>
+<li> Pro 9.7인치 모델</li>
+<li> Pro 10.5인치 모델</li>
+<li> Pro 12.9인치 모델 1세대</li>
+<li> Pro 12.9인치 모델 2세대</li>
+</ul></li>
+<li> iPod touch<ul>
+<li> 7세대</li>
+</ul></li>
+</ul>
+<hr />
+<h3 id="実験的な機能オプトイン"> 실험적 기능(선택 사항)</h3>
+<ul>
+<li> 페이지 넘김에 필요한 시간 변경(기본 설정은 0.15초)</li>
+<li> 한눈 윙크로 한 페이지 뒤로 돌아가기 기능</li>
+</ul>
+<hr />
+<h2 id="仕様"> 제품 사양</h2>
+<h3 id="価格"> 가격</h3>
+<p> 무료</p>
+<h3 id="アプリ内課金"> 인앱 결제</h3>
+<p> 없음</p>
+<h3 id="プラットフォーム"> 지원 플랫폼</h3>
+<ul>
+<li> iOS 15.0 이상</li>
+<li> iPadOS 15.0 이상</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

@@ -1,0 +1,1 @@
+Aplicação para o registo mais rápido (tanto quanto manual) dos dados de peso na aplicação "Health Care" da Apple pré-instalada no iPhone. Aplicação exclusiva para iPhone/Apple Watch.

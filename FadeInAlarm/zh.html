@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<link rel="alternate" hreflang="ja" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/ja.html"/>
+<link rel="alternate" hreflang="en" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/en.html"/>
+<link rel="alternate" hreflang="id" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/id.html"/>
+<link rel="alternate" hreflang="es" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/es.html"/>
+<link rel="alternate" hreflang="de" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/de.html"/>
+<link rel="alternate" hreflang="fr" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/fr.html"/>
+<link rel="alternate" hreflang="pt" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/pt.html"/>
+<link rel="alternate" hreflang="ru" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/ru.html"/>
+<link rel="alternate" hreflang="zh" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/zh.html"/>
+<link rel="alternate" hreflang="uk" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/uk.html"/>
+<link rel="alternate" hreflang="ko" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/ko.html"/>
+<link rel="alternate" hreflang="x-default" href="https://flipbyblink.github.io/Portfolio/FadeInAlarm/en.html"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FadeInAlarm</title>
+<meta name="description" content="一个随着时间推移音量逐渐增大的报警应用程序。一个适用于iPhone和iPad的应用程序。">
+<meta name="robots" content="index, follow">
+<style>
+body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 16px;
+}
+
+img {
+    max-width: 100%;
+}
+
+blockquote {
+    padding: 8px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+q {
+    padding: 6px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+pre {
+    overflow-x: auto;
+    border: 1px solid gray;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primaryColor: white;
+        --backgroundColor: #212121;
+        --primaryAccentColor: DeepSkyBlue;
+        --secondaryAccentColor: DarkCyan;
+    }
+
+    body {
+        color: var(--primaryColor);
+        background-color: var(--backgroundColor);
+    }
+
+    a:link {
+        color: var(--primaryAccentColor);
+    }
+
+    a:visited {
+        color: var(--secondaryAccentColor);
+    }
+}
+</style>
+</head>
+<body>
+<h1 translate="no">
+FadeInAlarm
+</h1>
+<p><em>声音随时间推移逐渐变大的报警应用程序</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要">概述。</h2>
+<p>这款适用于iPhone和iPad的应用程序可以让你知道你所选择的时间，随着时间的推移逐渐增加闹钟的音量，而普通的闹钟应用程序则会发出更有力的警告声。</p>
+<p>你可以在较长的时间内逐渐增加闹钟的音量，从几十秒到几十分钟。</p>
+<p>这推荐给那些对一般闹钟声音有压力的人，或者那些想在一个粗略的时间间隔内而不是在某个时间点上注意到指定时间的人。</p>
+<p><img src="screenshot1200w.png" width="600"></p>
+<h3 id="オプション">选项。</h3>
+<h4 id="フェードイン時間">淡入时间</h4>
+<ul>
+<li>10秒</li>
+<li>30秒</li>
+<li>1分钟</li>
+<li>5分钟</li>
+<li>30分钟</li>
+<li>1小时</li>
+</ul>
+<h4 id="フェードアウト時間">淡出时间</h4>
+<ul>
+<li>3秒</li>
+<li>7秒</li>
+<li>15秒</li>
+<li>30秒</li>
+<li>1分钟</li>
+</ul>
+<h4 id="待機中の音量">待机模式下的音量</h4>
+<ul>
+<li translate="no">
+10%
+</li>
+<li translate="no">
+5%
+</li>
+<li translate="no">
+3%
+</li>
+<li translate="no">
+1%
+</li>
+<li>0% (无声)</li>
+</ul>
+<h3 id="動作の流れ">操作顺序</h3>
+<ol type="1">
+<li>当按下启动按钮时，应用程序开始以极低的音量（或静音）播放警报声。</li>
+<li>该应用程序将继续重复播放闹钟声音，直到用户按下停止按钮。</li>
+<li>在设定的时间，音量逐渐增大，在用户指定的时间间隔（几十秒到几十分钟）后达到全音量。</li>
+<li>按 "停止 "按钮将在用户指定的时间间隔（几秒到一分钟）内逐渐降低音量。当完全没有声音时，该应用程序就会停止播放报警声。</li>
+</ol>
+<h3 class="except_printing">演示视频。</h3>
+<video controls width="200" src="preview.mp4">对不起，您的浏览器不支持嵌入式视频。</video>
+<hr />
+<h3 id="注意事項">注意事项。</h3>
+<h4
+id="音源は自分で用意する必要がある"><em>你需要准备你自己的声源!</em></h4>
+<p>请导入用户自己准备的声音文件（如MP3）。</p>
+<p>声音数据是在应用程序中预设的，用于测试目的。</p>
+<h4
+id="普通のアラームアプリより不便な面あります"><em>这个应用比普通的闹钟应用更不方便!</em></h4>
+<p>由于各种原因，本应用与普通闹钟应用的不同之处在于，当应用本身完全没有运行时，它不能发出警报。你需要事先启动该应用程序。</p>
+<p>例如，如果你想在早上6点使用这个应用程序进行闹钟，就在睡觉前启动该应用程序并按下启动按钮。</p>
+<h4 id="待機中も制限あります"><em>待机期间也有限制!</em></h4>
+<p>你可以在待机时锁定你的设备或使用其他应用程序，但你需要小心一点，不要打断闹钟待机状态。</p>
+<ul>
+<li>闹钟待机状态在以下情况下会被中断<ul>
+<li>你在其他应用程序中观看长视频的情况。</li>
+<li>在设备的音乐应用程序中播放歌曲的情况</li>
+</ul></li>
+<li>在以下情况下，闹钟待机状态会被中断，但会自动恢复<ul>
+<li>使用相机应用程序的情况。</li>
+<li>由某种系统通知产生声音的情况。</li>
+</ul></li>
+</ul>
+<hr />
+<h2 id="仕様">规格</h2>
+<h3 id="価格">价格</h3>
+<p>免费的</p>
+<h3 id="アプリ内課金">应用内购买</h3>
+<p>隐藏AD：1美元</p>
+<h3 id="プラットフォーム">平台</h3>
+<ul>
+<li>iOS16.0及以上版本</li>
+<li>iPadOS 16.0及以上版本</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1465336070" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>
+
+</body>
+</html>

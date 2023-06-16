@@ -1,0 +1,1 @@
+App für die schnellste (soweit manuell) Registrierung von Gewichtsdaten an die auf dem iPhone vorinstallierte Apple-App "Health Care". Nur für iPhone/Apple Watch.

@@ -1,0 +1,79 @@
+<h1 translate="no">
+FlipByBlink
+</h1>
+<p><em>Aplikasi e-book yang memungkinkan Anda membalik halaman hanya dengan berkedip</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Ikhtisar.</h2>
+<p> Hanya satu fungsi khusus. Ini adalah aplikasi untuk iPhone dan iPad yang memungkinkan Anda membalik halaman dengan mengedipkan mata selama beberapa saat.</p>
+<p> Selain fungsi di atas, ini adalah aplikasi pembaca e-book yang sederhana dan umum.</p>
+<h3 id="ページめくりの仕組み"> Cara kerja pergantian halaman</h3>
+<p><img src="preview.gif" class="except_printing"></p>
+<p><img src="flow.svg" width="540"></p>
+<p> Kelopak mata yang tertutup agak lama menyebabkan halaman dikirim ke depan, dan ketika Anda membuka mata, Anda sudah berpindah ke halaman berikutnya. Berkedip secara normal tidak menyebabkan pergantian halaman.</p>
+<p> Kedipan mata terdeteksi oleh kamera dan sensor internal perangkat.</p>
+<p> Seperti kebanyakan aplikasi e-book, Anda juga dapat membalik halaman dengan mengetuk atau mengusap layar.</p>
+<h3 id="電子書籍フォーマット"> Format e-book.</h3>
+<ul>
+<li> Hanya untuk buku dengan 'tata letak tetap'. Misalnya, buku kertas yang dikonversi langsung menjadi buku kertas atau komik.</li>
+<li> Mendukung impor file PDF dan ZIP.</li>
+</ul>
+<h3 id="ユースケース"> Kasus penggunaan</h3>
+<ul>
+<li> Bacaan umum</li>
+<li> Memainkan alat musik sambil melihat partitur</li>
+<li> Memasak sambil memeriksa buku resep</li>
+<li> Membaca di kereta api dan bus</li>
+<li> Membaca bagi penyandang disabilitas fisik</li>
+</ul>
+<p><img src="usecase680w.png" width="240"></p>
+<hr />
+<h3 id="サポートデバイス"> Perangkat pendukung</h3>
+<p> Menggunakan kerangka kerja Apple ARKit/FaceTrackingAPI untuk deteksi kedipan. Ini memerlukan kamera TrueDepth atau chip A12Bionic atau yang lebih baru.</p>
+<h4 id="サポート対象外のデバイス"> ⚠️ Perangkat yang tidak didukung</h4>
+<ul>
+<li> iPhone<ul>
+<li> 6s</li>
+<li> 6s Plus</li>
+<li> 7</li>
+<li> 7 Plus</li>
+<li> 8</li>
+<li> 8 Plus</li>
+<li> SE generasi pertama</li>
+</ul></li>
+<li> iPad<ul>
+<li> Generasi ke-5</li>
+<li> Generasi ke-6</li>
+<li> Generasi ke-7</li>
+<li> Air generasi ke-2</li>
+<li> Mini generasi ke-4</li>
+<li> Model Pro 9,7 inci</li>
+<li> Model Pro 10,5 inci</li>
+<li> Model Pro 12,9 "generasi pertama</li>
+<li> Model Pro 12,9" generasi ke-2</li>
+</ul></li>
+<li> iPod touch<ul>
+<li> Generasi ke-7</li>
+</ul></li>
+</ul>
+<hr />
+<h3 id="実験的な機能オプトイン"> 🚧 Fitur-fitur eksperimental (ikut serta)</h3>
+<ul>
+<li> Mengubah waktu yang diperlukan untuk membalik halaman (0,15 detik secara default)</li>
+<li> Berfungsi untuk kembali ke satu halaman dengan satu kedipan mata</li>
+</ul>
+<hr />
+<h2 id="仕様"> Spesifikasi</h2>
+<h3 id="価格"> Harga</h3>
+<p> Gratis</p>
+<h3 id="アプリ内課金"> Pembelian dalam aplikasi</h3>
+<p> Tidak ada</p>
+<h3 id="プラットフォーム"> Platform</h3>
+<ul>
+<li> iOS 15.0 ke atas</li>
+<li> iPadOS 15.0 dan lebih tinggi</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

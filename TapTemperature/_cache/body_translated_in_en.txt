@@ -1,0 +1,71 @@
+<h1 translate="no">
+TapTemperature
+</h1>
+<p><em>Register your body temperature in the Apple "Health Care" app as fast as possible!</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1626760566" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="apple_health_badge.svg"></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Overview</h2>
+<p> This is an application for iPhone/Apple Watch only.</p>
+<h3 id="想定ユーザー-ユースケース"> Intended users / use cases</h3>
+<ul>
+<li> Do not have a smart thermometer.</li>
+<li> Usually measure body temperature (or basal body temperature) with a thermometer.</li>
+<li> Considering registering the measurement results manually in the "Health Care" app immediately after each measurement with a regular thermometer.</li>
+</ul>
+<h3 id="オプション"> Option</h3>
+<ul>
+<li> Basal body temperature mode</li>
+<li> Two decimal places mode</li>
+<li> Function to automatically complete the process by just entering numbers</li>
+</ul>
+<h3 id="その他"> Others</h3>
+<ul>
+<li> Can also be used with Apple Watch</li>
+<li> One-tap launch of the Apple "Health Care" app from within this app</li>
+<li> One-tap cancellation of registration immediately after data registration</li>
+<li> Units<ul>
+<li> ℃ Celsius</li>
+<li> ℉ Fahrenheit</li>
+</ul></li>
+</ul>
+<h3 id="注意"> Caution</h3>
+<p> This app cannot read, view, or manage past data in the "Health Care" app. This app is only for registering data to the "Health Care" app. Please check the registered data on the "Health Care" application.</p>
+<h3 id="背景"> Background</h3>
+<p> People frequently measure their body temperature (or basal body temperature) using thermometers on a daily basis. Many iPhone users register their body temperature (or basal body temperature) data on the "Health Care" application.</p>
+<p> The best solution is to use a smart thermometer that works with the "Health Care" app and automatically saves the data, but they can be expensive and inaccessible. Although it is possible to manually register data in the "Health Care" app, unfortunately the "Health Care" app is not designed for routine manual registration of measurement data. Therefore, manually entering data that occurs continuously on a daily basis, such as body temperature measurements, can be a very time-consuming and stressful experience.</p>
+<p> This application was developed to solve such problems.</p>
+<hr />
+<h2 id="仕様"> Specifications</h2>
+<h3 id="価格"> Price</h3>
+<p> Free of charge</p>
+<h3 id="アプリ内課金"> In-app purchase</h3>
+<p> Hide ads (160 yen)</p>
+<h3 id="プラットフォーム"> Platform</h3>
+<ul>
+<li> iOS 15.0 or later</li>
+</ul>
+<h3 id="サポート言語"> Supported Languages</h3>
+<ul>
+<li> All<ul>
+<li> Japanese</li>
+<li> English</li>
+</ul></li>
+<li> Only 4 main words (weight/BMI/body fat percentage/healthcare) are translated<ul>
+<li> Chinese Simplified</li>
+<li> Chinese Traditional</li>
+<li> Spanish Traditional</li>
+<li> Portuguese</li>
+<li> Russian</li>
+<li> Indonesian</li>
+<li> French</li>
+<li> Arabic</li>
+<li> German</li>
+<li> Korean</li>
+<li> Ukrainian</li>
+</ul></li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1626760566" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

@@ -1,0 +1,58 @@
+<h1 translate="no">
+MemorizeWidget
+</h1>
+<p><em>Verwandeln Sie Ihr iPhone/iPad/Apple Watch/Mac in ein Memorandum Book!</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1644276262" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Überblick.</h2>
+<p> Zeigen Sie Ihr Notizbuch mit der Widget-Funktion auf Ihrem Startbildschirm oder Sperrbildschirm an. App für iPhone, iPad, Apple Watch und Mac.</p>
+<ul>
+<li> Zwei Modi: 'Stand-Alone-Modus' und 'Zufallsmodus'.</li>
+<li> Im "Zufallsmodus" wechseln die angezeigten Notizen alle fünf Minuten</li>
+<li> Unterstützung für Sperrbildschirm-Widgets (nur iOS 16).</li>
+<li> Memoriser-Daten können aus Text und Dateien (csv, tsv, txt, etc.) importiert werden</li>
+<li> Verknüpfung mit den im Betriebssystem integrierten Wörterbüchern</li>
+<li> Anpassbare Suchfunktion</li>
+<li> Synchronisierung von Daten zwischen Geräten über iCloud</li>
+</ul>
+<p><img src="screenshot1200w.png" width="600"></p>
+<p> Optionen</p>
+<ul>
+<li> Anzeige von "Kommentaren" und "Titeln" auf Widgets (nur für Startbildschirm-Widgets/rechteckige Sperrbildschirm-Widgets).</li>
+<li> Anzeige von mehreren Notizen</li>
+</ul>
+<p> Unterstützung für mehrere Plattformen</p>
+<ul>
+<li> iPhone: Sperrbildschirm-Widget (iOS 16 oder höher), Startbildschirm-Widget</li>
+<li> iPad: Startbildschirm-Widget</li>
+<li> Apple Watch: Komplikationen</li>
+<li> Mac: Widget für die Benachrichtigungszentrale</li>
+</ul>
+<p> Empfohlen für die neuesten iPhone 14 Pro Modelle!</p>
+<p> Mit dem iPhone 14 Pro mit Always On Display können Sie Ihren Notizblock überprüfen, ohne Ihr iPhone zu berühren!</p>
+<blockquote>
+<p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
+<p><em>Zitat: https://www.apple.com/jp/iphone-14-pro/</em></p>
+</blockquote>
+<hr />
+<h2 id="仕様"> Spezifikationen</h2>
+<h3 id="価格"> Preis</h3>
+<p> Kostenfrei</p>
+<h3 id="アプリ内課金"> In-App-Kauf</h3>
+<p> Werbung ausblenden (160 Yen)</p>
+<h3 id="プラットフォーム"> Plattformen</h3>
+<ul>
+<li> iOS 15.6 oder höher</li>
+<li> iPadOS 15.6 oder neuer</li>
+<li> watchOS 9.0 oder neuer</li>
+<li> macOS 12.4 oder höher</li>
+</ul>
+<h3 id="サポート言語"> Unterstützte Sprachen</h3>
+<ul>
+<li> Japanisch</li>
+<li> Englisch</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1644276262" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

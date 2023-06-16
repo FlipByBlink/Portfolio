@@ -1,0 +1,79 @@
+<h1 translate="no">
+FlipByBlink
+</h1>
+<p><em>E-book app that lets you turn pages just by blinking</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Overview</h2>
+<p> Only one special function. This is an app for iPhone and iPad.</p>
+<p> Other than the above functions, this is a simple and general e-book reader app.</p>
+<h3 id="ページめくりの仕組み"> How the page turn works</h3>
+<p><img src="preview.gif" class="except_printing"></p>
+<p><img src="flow.svg" width="540"></p>
+<p> When you close your eyelids a little longer, the page is sent forward, and when you open your eyes, the page has already moved to the next page. Normal blinking does not cause the page to turn over.</p>
+<p> Blinking is detected by the device's built-in camera and sensors.</p>
+<p> As with general e-book applications, you can also turn pages by tapping or swiping the screen.</p>
+<h3 id="電子書籍フォーマット"> E-book format</h3>
+<ul>
+<li> Only "fixed-layout" books are supported. (For example, books converted directly from paper books, manga, etc.)</li>
+<li> Supports import of PDF and ZIP files.</li>
+</ul>
+<h3 id="ユースケース"> Use Cases</h3>
+<ul>
+<li> General reading</li>
+<li> Playing a musical instrument while looking at sheet music</li>
+<li> Cooking while checking a recipe book</li>
+<li> Reading on trains and buses</li>
+<li> Reading for people with physical disabilities</li>
+</ul>
+<p><img src="usecase680w.png" width="240"></p>
+<hr />
+<h3 id="サポートデバイス"> Support Devices</h3>
+<p> Uses Apple's framework ARKit/FaceTrackingAPI to detect blinking. This requires TrueDepth camera or A12Bionic or later chips.</p>
+<h4 id="サポート対象外のデバイス"> ⚠️ Unsupported Devices</h4>
+<ul>
+<li> iPhone<ul>
+<li> 6s</li>
+<li> 6s Plus</li>
+<li> 7</li>
+<li> 7 Plus</li>
+<li> 8</li>
+<li> 8 Plus</li>
+<li> SE 1st generation</li>
+</ul></li>
+<li> iPad<ul>
+<li> 5th generation</li>
+<li> 6th generation</li>
+<li> 7th generation</li>
+<li> Air 2nd generation</li>
+<li> mini 4th generation</li>
+<li> Pro 9.7-inch model</li>
+<li> Pro 10.5-inch model</li>
+<li> Pro 12.9" model 1st generation</li>
+<li> Pro 12.9-inch model 2nd generation</li>
+</ul></li>
+<li> iPod touch<ul>
+<li> 7th generation</li>
+</ul></li>
+</ul>
+<hr />
+<h3 id="実験的な機能オプトイン"> 🚧 Experimental features (opt-in)</h3>
+<ul>
+<li> Change the time required for page turnover (0.15 seconds by default)</li>
+<li> Function to go back one page by winking one eye</li>
+</ul>
+<hr />
+<h2 id="仕様"> Specifications</h2>
+<h3 id="価格"> Price</h3>
+<p> Free of charge</p>
+<h3 id="アプリ内課金"> In-app purchase</h3>
+<p> None</p>
+<h3 id="プラットフォーム"> Platforms</h3>
+<ul>
+<li> iOS 15.0 or later</li>
+<li> iPadOS 15.0 or later</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>

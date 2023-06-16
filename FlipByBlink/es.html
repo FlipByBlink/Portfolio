@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<link rel="alternate" hreflang="ja" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/ja.html"/>
+<link rel="alternate" hreflang="en" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/en.html"/>
+<link rel="alternate" hreflang="id" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/id.html"/>
+<link rel="alternate" hreflang="es" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/es.html"/>
+<link rel="alternate" hreflang="de" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/de.html"/>
+<link rel="alternate" hreflang="fr" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/fr.html"/>
+<link rel="alternate" hreflang="pt" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/pt.html"/>
+<link rel="alternate" hreflang="ru" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/ru.html"/>
+<link rel="alternate" hreflang="zh" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/zh.html"/>
+<link rel="alternate" hreflang="uk" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/uk.html"/>
+<link rel="alternate" hreflang="ko" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/ko.html"/>
+<link rel="alternate" hreflang="x-default" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/en.html"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FlipByBlink</title>
+<meta name="description" content="La aplicación para iPhone y iPad permite pasar página parpadeando con los ojos cerrados durante un periodo de tiempo ligeramente superior de forma consciente.">
+<meta name="robots" content="index, follow">
+<style>
+body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 16px;
+}
+
+img {
+    max-width: 100%;
+}
+
+blockquote {
+    padding: 8px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+q {
+    padding: 6px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+pre {
+    overflow-x: auto;
+    border: 1px solid gray;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primaryColor: white;
+        --backgroundColor: #212121;
+        --primaryAccentColor: DeepSkyBlue;
+        --secondaryAccentColor: DarkCyan;
+    }
+
+    body {
+        color: var(--primaryColor);
+        background-color: var(--backgroundColor);
+    }
+
+    a:link {
+        color: var(--primaryAccentColor);
+    }
+
+    a:visited {
+        color: var(--secondaryAccentColor);
+    }
+}
+</style>
+</head>
+<body>
+<h1 translate="no">
+FlipByBlink
+</h1>
+<p><em>Una aplicación para libros electrónicos que te permite pasar páginas con sólo parpadear</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Visión general.</h2>
+<p> Sólo una función especial. Se trata de una aplicación para iPhone y iPad que te permite pasar páginas parpadeando con los ojos cerrados durante un periodo de tiempo ligeramente más largo de forma consciente.</p>
+<p> Aparte de las funciones anteriores, se trata de una aplicación de lectura de libros electrónicos sencilla y común.</p>
+<h3 id="ページめくりの仕組み"> Cómo funciona el paso de página</h3>
+<p><img src="preview.gif" class="except_printing"></p>
+<p><img src="flow.svg" width="540"></p>
+<p> Un párpado cerrado ligeramente prolongado hace que la página se envíe hacia delante, y cuando abres los ojos, ya has pasado a la página siguiente. El parpadeo normal no provoca el paso de página.</p>
+<p> El parpadeo es detectado por la cámara y los sensores integrados en el dispositivo.</p>
+<p> Como la mayoría de las aplicaciones de libros electrónicos, también puedes pasar páginas tocando o deslizando la pantalla.</p>
+<h3 id="電子書籍フォーマット"> Formato de libro electrónico.</h3>
+<ul>
+<li> Sólo para libros de formato fijo. Por ejemplo, libros de papel convertidos directamente en libros de papel o cómics.</li>
+<li> Admite la importación de archivos PDF y ZIP.</li>
+</ul>
+<h3 id="ユースケース"> Casos prácticos</h3>
+<ul>
+<li> Lectura general</li>
+<li> Tocar un instrumento musical mientras se consultan partituras</li>
+<li> Cocinar mientras se consulta un libro de recetas</li>
+<li> Leer en trenes y autobuses</li>
+<li> Lectura para personas con discapacidad física</li>
+</ul>
+<p><img src="usecase680w.png" width="240"></p>
+<hr />
+<h3 id="サポートデバイス"> Dispositivos de apoyo</h3>
+<p> Utiliza el framework de Apple ARKit/FaceTrackingAPI para la detección de parpadeos. Esto requiere una cámara TrueDepth o un chip A12Bionic o posterior.</p>
+<h4 id="サポート対象外のデバイス"> ⚠️ Dispositivos no compatibles</h4>
+<ul>
+<li> iPhone<ul>
+<li> 6s</li>
+<li> 6s Plus</li>
+<li> 7</li>
+<li> 7 Plus</li>
+<li> 8</li>
+<li> 8 Plus</li>
+<li> SE 1ª generación</li>
+</ul></li>
+<li> iPad<ul>
+<li> 5ª generación</li>
+<li> 6ª generación</li>
+<li> 7ª generación</li>
+<li> Air 2ª generación</li>
+<li> Mini 4ª generación</li>
+<li> Modelo Pro 9,7 pulgadas</li>
+<li> Modelo Pro 10,5 pulgadas</li>
+<li> Modelo Pro 12,9" 1ª generación</li>
+<li> Pro 12,9" modelo 2ª generación</li>
+</ul></li>
+<li> iPod touch<ul>
+<li> 7ª generación</li>
+</ul></li>
+</ul>
+<hr />
+<h3 id="実験的な機能オプトイン"> Funciones experimentales (opcionales)</h3>
+<ul>
+<li> Cambiar el tiempo necesario para pasar una página (0,15 segundos por defecto)</li>
+<li> Función para retroceder una página con un solo guiño de ojo</li>
+</ul>
+<hr />
+<h2 id="仕様"> Especificaciones</h2>
+<h3 id="価格"> Precio</h3>
+<p> Gratuito</p>
+<h3 id="アプリ内課金"> Compra desde la aplicación</h3>
+<p> Ninguna</p>
+<h3 id="プラットフォーム"> Plataformas</h3>
+<ul>
+<li> iOS 15.0 y superior</li>
+<li> iPadOS 15.0 y superior</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>
+
+</body>
+</html>

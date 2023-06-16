@@ -1,0 +1,1 @@
+This is the fastest (manual) application for registering temperature data to the Apple "Health Care" application pre-installed on the iPhone.

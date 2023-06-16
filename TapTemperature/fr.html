@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<link rel="alternate" hreflang="ja" href="https://flipbyblink.github.io/Portfolio/TapTemperature/ja.html"/>
+<link rel="alternate" hreflang="en" href="https://flipbyblink.github.io/Portfolio/TapTemperature/en.html"/>
+<link rel="alternate" hreflang="id" href="https://flipbyblink.github.io/Portfolio/TapTemperature/id.html"/>
+<link rel="alternate" hreflang="es" href="https://flipbyblink.github.io/Portfolio/TapTemperature/es.html"/>
+<link rel="alternate" hreflang="de" href="https://flipbyblink.github.io/Portfolio/TapTemperature/de.html"/>
+<link rel="alternate" hreflang="fr" href="https://flipbyblink.github.io/Portfolio/TapTemperature/fr.html"/>
+<link rel="alternate" hreflang="pt" href="https://flipbyblink.github.io/Portfolio/TapTemperature/pt.html"/>
+<link rel="alternate" hreflang="ru" href="https://flipbyblink.github.io/Portfolio/TapTemperature/ru.html"/>
+<link rel="alternate" hreflang="zh" href="https://flipbyblink.github.io/Portfolio/TapTemperature/zh.html"/>
+<link rel="alternate" hreflang="uk" href="https://flipbyblink.github.io/Portfolio/TapTemperature/uk.html"/>
+<link rel="alternate" hreflang="ko" href="https://flipbyblink.github.io/Portfolio/TapTemperature/ko.html"/>
+<link rel="alternate" hreflang="x-default" href="https://flipbyblink.github.io/Portfolio/TapTemperature/en.html"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TapTemperature</title>
+<meta name="description" content="Il s'agit de la méthode la plus rapide (pour autant qu'elle soit manuelle) pour enregistrer les données de température dans l'application Apple "Health Care" préinstallée sur l'iPhone.">
+<meta name="robots" content="index, follow">
+<style>
+body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 16px;
+}
+
+img {
+    max-width: 100%;
+}
+
+blockquote {
+    padding: 8px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+q {
+    padding: 6px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+pre {
+    overflow-x: auto;
+    border: 1px solid gray;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primaryColor: white;
+        --backgroundColor: #212121;
+        --primaryAccentColor: DeepSkyBlue;
+        --secondaryAccentColor: DarkCyan;
+    }
+
+    body {
+        color: var(--primaryColor);
+        background-color: var(--backgroundColor);
+    }
+
+    a:link {
+        color: var(--primaryAccentColor);
+    }
+
+    a:visited {
+        color: var(--secondaryAccentColor);
+    }
+}
+</style>
+</head>
+<body>
+<h1 translate="no">
+TapTemperature
+</h1>
+<p><em>Enregistrez votre température corporelle dans l'application Apple 'Health Care' le plus rapidement possible.</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1626760566" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="apple_health_badge.svg"></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Vue d'ensemble.</h2>
+<p> Il s'agit de la méthode la plus rapide (manuelle) pour enregistrer vos données de température corporelle dans l'application Apple "Health Care" préinstallée sur votre iPhone.</p>
+<h3 id="想定ユーザー-ユースケース"> Utilisateurs visés / cas d'utilisation</h3>
+<ul>
+<li> N'a pas de thermomètre intelligent.</li>
+<li> Mesure quotidiennement sa température corporelle (ou sa température basale) à l'aide d'un thermomètre.</li>
+<li> Envisage d'enregistrer manuellement les résultats des mesures dans l'application "Soins de santé" immédiatement après chaque mesure avec un thermomètre ordinaire.</li>
+</ul>
+<h3 id="オプション"> Option.</h3>
+<ul>
+<li> Mode température basale</li>
+<li> Mode deux décimales</li>
+<li> Fonction permettant de compléter automatiquement le processus en entrant simplement des chiffres</li>
+</ul>
+<h3 id="その他"> Autre.</h3>
+<ul>
+<li> Peut également être utilisé avec l'Apple Watch</li>
+<li> Lancement d'un seul coup de l'application Apple Health Care à partir de cette application.</li>
+<li> Annulation de l'enregistrement immédiatement après l'enregistrement des données.</li>
+<li> Unités<ul>
+<li> °C Celsius</li>
+<li> ℉ Fahrenheit</li>
+</ul></li>
+</ul>
+<h3 id="注意"> Notes .</h3>
+<p> Cette appli ne peut pas lire, consulter ou gérer les données passées sur l'appli 'Soins de santé'. Cette appli est destinée uniquement à l'enregistrement des données dans l'appli 'Health Care'. Veuillez vérifier les données enregistrées sur l'appli 'Health Care'.</p>
+<h3 id="背景"> Contexte.</h3>
+<p> Les gens mesurent fréquemment leur température corporelle (et leur température basale) au quotidien à l'aide d'un thermomètre. De nombreux utilisateurs d'iPhone enregistrent leurs données de température (ou de température basale) sur l'application "Health Care".</p>
+<p> La meilleure solution consiste à utiliser un thermomètre intelligent qui fonctionne avec l'application Health Care et enregistre automatiquement les mesures, mais ces appareils peuvent être coûteux et inaccessibles. Les données peuvent également être enregistrées manuellement sur l'application "Health Care", mais celle-ci n'est malheureusement pas conçue pour l'enregistrement manuel de routine des données de mesure. Par conséquent, la saisie manuelle de données qui se produisent en permanence sur une base quotidienne, telles que les mesures de la température corporelle, peut s'avérer une expérience très longue et stressante.</p>
+<p> Cette application a été développée pour résoudre ces problèmes.</p>
+<hr />
+<h2 id="仕様"> Spécifications de l'application</h2>
+<h3 id="価格"> Prix</h3>
+<p> Gratuit</p>
+<h3 id="アプリ内課金"> Achat in-app</h3>
+<p> Masquer les publicités (160 yens)</p>
+<h3 id="プラットフォーム"> Plateformes</h3>
+<ul>
+<li> iOS 15.0 ou ultérieur</li>
+</ul>
+<h3 id="サポート言語"> Langues prises en charge</h3>
+<ul>
+<li> Toutes les langues<ul>
+<li> Japonais</li>
+<li> Anglais</li>
+</ul></li>
+<li> Seuls 4 mots principaux (poids/IMC/pourcentage de graisse corporelle/santé) sont traduits.<ul>
+<li> Chinois simplifié</li>
+<li> Chinois traditionnel</li>
+<li> Espagnol</li>
+<li> portugais</li>
+<li> russe</li>
+<li> indonésien</li>
+<li> français</li>
+<li> Allemand</li>
+<li> Allemand</li>
+<li> Coréen</li>
+<li> ukrainien</li>
+</ul></li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1626760566" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>
+
+</body>
+</html>

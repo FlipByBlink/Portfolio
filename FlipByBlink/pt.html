@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="utf-8">
+<link rel="alternate" hreflang="ja" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/ja.html"/>
+<link rel="alternate" hreflang="en" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/en.html"/>
+<link rel="alternate" hreflang="id" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/id.html"/>
+<link rel="alternate" hreflang="es" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/es.html"/>
+<link rel="alternate" hreflang="de" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/de.html"/>
+<link rel="alternate" hreflang="fr" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/fr.html"/>
+<link rel="alternate" hreflang="pt" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/pt.html"/>
+<link rel="alternate" hreflang="ru" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/ru.html"/>
+<link rel="alternate" hreflang="zh" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/zh.html"/>
+<link rel="alternate" hreflang="uk" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/uk.html"/>
+<link rel="alternate" hreflang="ko" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/ko.html"/>
+<link rel="alternate" hreflang="x-default" href="https://flipbyblink.github.io/Portfolio/FlipByBlink/en.html"/>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FlipByBlink</title>
+<meta name="description" content="A aplicação para iPhone e iPad permite-lhe virar a página piscando os olhos fechados durante um período de tempo conscientemente ligeiramente mais longo.">
+<meta name="robots" content="index, follow">
+<style>
+body {
+    font-family: sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 16px;
+}
+
+img {
+    max-width: 100%;
+}
+
+blockquote {
+    padding: 8px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+q {
+    padding: 6px;
+    background-color: #80808020;
+    border-radius: 4px;
+}
+
+pre {
+    overflow-x: auto;
+    border: 1px solid gray;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primaryColor: white;
+        --backgroundColor: #212121;
+        --primaryAccentColor: DeepSkyBlue;
+        --secondaryAccentColor: DarkCyan;
+    }
+
+    body {
+        color: var(--primaryColor);
+        background-color: var(--backgroundColor);
+    }
+
+    a:link {
+        color: var(--primaryAccentColor);
+    }
+
+    a:visited {
+        color: var(--secondaryAccentColor);
+    }
+}
+</style>
+</head>
+<body>
+<h1 translate="no">
+FlipByBlink
+</h1>
+<p><em>Uma aplicação de livros electrónicos que lhe permite virar as páginas apenas com o piscar de olhos</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Visão geral.</h2>
+<p> Apenas uma função especial. Esta é uma aplicação para iPhone e iPad que lhe permite virar páginas piscando os olhos fechados durante um período de tempo conscientemente ligeiramente mais longo.</p>
+<p> Para além das funções acima referidas, esta é uma aplicação simples e comum de leitura de livros electrónicos.</p>
+<h3 id="ページめくりの仕組み"> Como funciona o virar de página</h3>
+<p><img src="preview.gif" class="except_printing"></p>
+<p><img src="flow.svg" width="540"></p>
+<p> Uma pálpebra fechada ligeiramente prolongada faz com que a página seja enviada para a frente e, quando abre os olhos, já passou para a página seguinte. O pestanejar normal não provoca um virar de página.</p>
+<p> O pestanejar é detectado pela câmara e pelos sensores incorporados no dispositivo.</p>
+<p> Tal como a maioria das aplicações de livros electrónicos, também é possível virar as páginas tocando ou passando o dedo no ecrã.</p>
+<h3 id="電子書籍フォーマット"> Formato de livro eletrónico.</h3>
+<ul>
+<li> Apenas para livros com "layout fixo". Por exemplo, livros de papel convertidos diretamente em livros de papel ou banda desenhada.</li>
+<li> Suporta a importação de ficheiros PDF e ZIP.</li>
+</ul>
+<h3 id="ユースケース"> Casos de utilização</h3>
+<ul>
+<li> Leitura geral</li>
+<li> Tocar um instrumento musical enquanto olha para as partituras</li>
+<li> Cozinhar enquanto consulta um livro de receitas</li>
+<li> Ler em comboios e autocarros</li>
+<li> Leitura para pessoas com deficiências físicas</li>
+</ul>
+<p><img src="usecase680w.png" width="240"></p>
+<hr />
+<h3 id="サポートデバイス"> Dispositivos de suporte</h3>
+<p> Utiliza a estrutura ARKit/FaceTrackingAPI da Apple para a deteção de pestanejo. Para tal, é necessária uma câmara TrueDepth ou um chip A12Bionic ou posterior.</p>
+<h4 id="サポート対象外のデバイス"> ⚠️ Dispositivos não suportados</h4>
+<ul>
+<li> iPhone<ul>
+<li> 6s</li>
+<li> 6s Plus</li>
+<li> 7</li>
+<li> 7 Plus</li>
+<li> 8</li>
+<li> 8 Plus</li>
+<li> SE 1ª geração</li>
+</ul></li>
+<li> iPad<ul>
+<li> 5ª geração</li>
+<li> 6ª geração</li>
+<li> 7ª geração</li>
+<li> Air 2ª geração</li>
+<li> Mini 4ª geração</li>
+<li> Modelo Pro de 9,7 polegadas</li>
+<li> Modelo Pro de 10,5 polegadas</li>
+<li> Modelo Pro 12,9" de 1ª geração</li>
+<li> Modelo Pro 12,9" de 2ª geração</li>
+</ul></li>
+<li> iPod touch<ul>
+<li> 7ª geração</li>
+</ul></li>
+</ul>
+<hr />
+<h3 id="実験的な機能オプトイン"> Funcionalidades experimentais (opção de inclusão)</h3>
+<ul>
+<li> Alterar o tempo necessário para virar uma página (0,15 segundos por defeito)</li>
+<li> Função para retroceder uma página com um simples piscar de olhos</li>
+</ul>
+<hr />
+<h2 id="仕様"> Especificações</h2>
+<h3 id="価格"> Preço</h3>
+<p> Gratuito</p>
+<h3 id="アプリ内課金"> Compra na aplicação</h3>
+<p> Nenhum</p>
+<h3 id="プラットフォーム"> Plataformas</h3>
+<ul>
+<li> iOS 15.0 e superior</li>
+<li> iPadOS 15.0 e superior</li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1444571751" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>
+
+</body>
+</html>

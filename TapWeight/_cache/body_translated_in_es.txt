@@ -1,0 +1,69 @@
+<h1 translate="no">
+TapWeight
+</h1>
+<p><em>Registre sus datos de peso en la aplicación Health Care lo más rápido posible.</em></p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id1624159721" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="apple_health_badge.svg"></p>
+<p><img src="top1200w.png" width="600"></p>
+<h2 id="概要"> Visión general.</h2>
+<p> Esta es la forma más rápida (manual) de registrar los datos de peso en la app 'Health Care' de Apple preinstalada en el iPhone.</p>
+<p> Usuarios previstos / casos de uso</p>
+<ul>
+<li><p> No dispone de una báscula inteligente.</p></li>
+<li><p> Mide diariamente su peso y porcentaje de grasa corporal en una báscula.</p></li>
+<li><p> Considerar la posibilidad de registrar manualmente los resultados de las mediciones en la app 'Asistencia sanitaria' inmediatamente después de cada medición en la báscula.</p></li>
+</ul>
+<p> Opción.</p>
+<ul>
+<li><p> El IMC puede calcularse automáticamente y registrarse al mismo tiempo.</p></li>
+<li><p> El porcentaje de grasa corporal también puede registrarse al mismo tiempo.</p></li>
+<li><p> La masa corporal magra (ML) puede calcularse automáticamente y registrarse al mismo tiempo.</p></li>
+<li><p> Unidad de entrada se puede cambiar de 100g a 50g.</p></li>
+<li><p> Compatible con Apple Watch.</p></li>
+<li><p> Función de notificación de recordatorio.</p></li>
+<li><p> Posibilidad de cambiar la fecha y hora de registro.</p></li>
+<li><p> Opción de ocultar banners publicitarios. (Compra dentro de la aplicación)</p></li>
+<li><p> Unidades: kg, lbs, st</p></li>
+</ul>
+<p> Otros.</p>
+<ul>
+<li><p> Inicio con un solo toque de la aplicación Apple Health Care desde la propia aplicación.</p></li>
+<li><p> Se puede cancelar el registro inmediatamente después de hacerlo.</p></li>
+</ul>
+<p> Concepto.</p>
+<p> La gente suele medir su peso y su porcentaje de grasa corporal a diario utilizando una báscula. Muchos usuarios de iPhone registran sus datos de peso y grasa corporal en la app "Health Care". La mejor solución es utilizar una báscula inteligente que funcione con la aplicación Health Care y almacene automáticamente las mediciones, pero estas pueden ser caras e inaccesibles. Aunque es posible registrar los datos manualmente en la app "Health Care", lamentablemente ésta no está diseñada para el registro manual diario de las mediciones. Por lo tanto, la introducción manual de datos que se producen continuamente a diario, como las mediciones de peso, puede ser una experiencia muy lenta y estresante. Esta aplicación se ha desarrollado para resolver estos problemas.</p>
+<p> Esta aplicación no puede leer, ver ni gestionar datos anteriores de la aplicación "Asistencia sanitaria". Esta aplicación sólo sirve para registrar datos en la aplicación "Asistencia sanitaria". Compruebe los datos registrados en la aplicación "Asistencia sanitaria".</p>
+<hr />
+<h2 id="仕様"> Especificaciones</h2>
+<h3 id="価格"> Precio</h3>
+<p> Gratuita</p>
+<h3 id="アプリ内課金"> Compra dentro de la aplicación</h3>
+<p> Ocultar anuncios (160 yenes)</p>
+<h3 id="プラットフォーム"> Plataformas</h3>
+<ul>
+<li> iOS 15.0 o posterior</li>
+</ul>
+<h3 id="サポート言語"> Idiomas soportados</h3>
+<ul>
+<li> Todos<ul>
+<li> Japonés</li>
+<li> Inglés</li>
+</ul></li>
+<li> Sólo traducción de palabras clave<ul>
+<li> Chino simplificado</li>
+<li> Chino tradicional</li>
+<li> Español</li>
+<li> Portugués</li>
+<li> Ruso</li>
+<li> Indonesio</li>
+<li> Francés</li>
+<li> Árabe</li>
+<li> Alemán</li>
+<li> Coreano</li>
+<li> Ucraniano</li>
+</ul></li>
+</ul>
+<p><a href="https://apps.apple.com/app/id1624159721" target="blank">
+<img src="qr-code.jpg" width="160"> </a></p>
