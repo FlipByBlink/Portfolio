@@ -4,19 +4,21 @@ layout: else
 
 就職活動用ポートフォリオページ
 ==========================
-iPhoneを中心にAppleプラットフォーム向けにアプリを制作しています。全ての作業を自分1人で行っています。
+iPhone中心にAppleプラットフォーム向けにアプリを制作しています。全ての作業を自分1人で行っています。
 
 各アプリは全ての機能を無料で利用できます。ぜひ実際にアプリをインストールして触れてみて下さい。
 
+* * *
+
 将棋盤アプリ「Plain将棋盤」
 -----------------------
-<img src="image ps.png" width="200">
+<img src="image ps.png" width="300">
 
 iPhone、iPad、Mac、Apple TV、Apple Watch向けアプリ
 
-コンセプト: OS標準デザイン準拠のシンプルで軽量な将棋盤アプリ
+コンセプト: OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ
 
-主要フレームワーク: SwiftUI, GroupActivities
+主要フレームワーク: SwiftUI
 
 AppStore製品リンク: [https://apps.apple.com/jp/app/id1620268476](https://apps.apple.com/jp/app/id1620268476)
 
@@ -28,7 +30,7 @@ AppStore製品リンク: [https://apps.apple.com/jp/app/id1620268476](https://ap
 
 体重登録アプリ「体重登録(英題: TapWeight)」
 ------------------------
-<img src="image tw.png" width="200">
+<img src="image tw.png" width="250">
 
 iPhone、Apple Watch向けアプリ
 
