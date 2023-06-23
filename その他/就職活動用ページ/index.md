@@ -12,7 +12,7 @@ iPhone中心にAppleプラットフォーム向けにアプリを制作してい
 
 将棋盤アプリ「Plain将棋盤」
 -----------------------
-<img src="image ps.png" width="300">
+<img src="image ps.png" width="240">
 
 iPhone、iPad、Mac、Apple TV、Apple Watch向けアプリ
 
@@ -30,7 +30,7 @@ AppStore製品リンク: [https://apps.apple.com/jp/app/id1620268476](https://ap
 
 体重登録アプリ「体重登録(英題: TapWeight)」
 ------------------------
-<img src="image tw.png" width="250">
+<img src="image tw.png" width="240">
 
 iPhone、Apple Watch向けアプリ
 
