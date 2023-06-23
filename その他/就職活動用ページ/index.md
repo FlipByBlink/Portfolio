@@ -22,18 +22,17 @@ AppStore製品リンク: [https://apps.apple.com/jp/app/id1620268476](https://ap
 
 ソースコード: [https://github.com/FlipByBlink/PlainShogi](https://github.com/FlipByBlink/PlainShogi)
 
-### 補足
-SwiftUIを最大限活かして全てのAppleプラットフォームに対して実装しました。
+補足: SwiftUIを最大限活かして全てのAppleプラットフォームに対して実装しました。
 
 * * *
 
-体重登録アプリ「TapWeight」
+体重登録アプリ「体重登録(英題: TapWeight)」
 ------------------------
 <img src="image tw.png" width="200">
 
 iPhone、Apple Watch向けアプリ
 
-コンセプト: 体重計を利用した後、「ヘルスケア」アプリに体重データ等を手動で登録する事に特化したアプリ
+コンセプト: 体重計を利用した後に「ヘルスケア」アプリへ体重データ等を手動で登録する事に特化したアプリ
 
 主要フレームワーク: SwiftUI, HealthKit
 
@@ -41,8 +40,7 @@ AppStore製品リンク: [https://apps.apple.com/jp/app/id1624159721](https://ap
 
 ソースコード: [https://github.com/FlipByBlink/TapWeight](https://github.com/FlipByBlink/TapWeight)
 
-### 補足
-同コンセプトのアプリはAppStoreに沢山ありますが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負しています。
+補足: 同コンセプトのアプリはAppStoreに沢山ありますが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負しています。
 
 * * *
 
@@ -60,8 +58,7 @@ AppStore製品リンク: [https://apps.apple.com/jp/app/id1444571751](https://ap
 
 ソースコード: [https://github.com/FlipByBlink/FlipByBlink_ver3](https://github.com/FlipByBlink/FlipByBlink_ver3)
 
-### 補足
-大学の卒業研究で取り組んだアイデアです。2019年1月に初版をリリースしました。
+補足: 大学の卒業研究で取り組んだアイデアです。2019年1月に初版をリリースしました。
 
 * * *
 
