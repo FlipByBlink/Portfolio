@@ -1,0 +1,75 @@
+---
+layout: else
+---
+
+就職活動用ポートフォリオページ
+==========================
+iPhoneを中心にAppleプラットフォーム向けにアプリを制作しています。全ての作業を自分1人で行っています。
+
+各アプリは全ての機能を無料で利用できます。ぜひ実際にアプリをインストールして触れてみて下さい。
+
+将棋盤アプリ「Plain将棋盤」
+-----------------------
+<img src="image ps.png" width="200">
+
+iPhone、iPad、Mac、Apple TV、Apple Watch向けアプリ
+
+コンセプト: OS標準デザイン準拠のシンプルで軽量な将棋盤アプリ
+
+主要フレームワーク: SwiftUI, GroupActivities
+
+AppStore製品リンク: https://apps.apple.com/jp/app/id1620268476
+
+ソースコード: https://github.com/FlipByBlink/PlainShogi
+
+### 補足
+- SwiftUIを最大限活かして全てのAppleプラットフォームに対して実装。
+
+体重登録アプリ「TapWeight」
+------------------------
+<img src="image tw.png" width="200">
+
+iPhone、Apple Watch向けアプリ
+
+コンセプト: 体重計を利用した後、「ヘルスケア」アプリに体重データ等を手動で登録する事に特化したアプリ
+
+主要フレームワーク: SwiftUI, HealthKit
+
+AppStore製品リンク: https://apps.apple.com/jp/app/id1624159721
+
+ソースコード: https://github.com/FlipByBlink/TapWeight
+
+### 補足
+- 同コンセプトのアプリはAppStoreに沢山あるが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負。
+
+ハンズフリー電子書籍リーダーアプリ「FlipByBlink」
+------------------------------------------
+<img src="image fbb.png" width="200">
+
+iPhone、iPad、Apple Watch向けアプリ
+
+コンセプト: 特殊なまばたきで電子書籍のページをめくる電子書籍リーダー
+
+主要フレームワーク: UIKit, Auto Layout, ARKit, PDFKit
+
+AppStore製品リンク: https://apps.apple.com/jp/app/id1444571751
+
+ソースコード: https://github.com/FlipByBlink/FlipByBlink_ver3
+
+### 補足
+- 大学の卒業研究で取り組んだアイデア。
+- 2019年1月に初版をリリース。
+
+他のリリース済みアプリ
+-------------------
+### TapTemperature(iPhone/Apple Watch)
+https://apps.apple.com/jp/app/id1626760566
+
+### 暗記ウィジェット(iPhone/iPad/Mac/Apple Watch)
+https://apps.apple.com/jp/app/id1644276262
+
+### ロックノート(iPhone/Apple Watch)
+https://apps.apple.com/jp/app/id1644879340
+
+### FadeInAlarm(iPhone/iPad)
+https://apps.apple.com/jp/app/id1465336070
