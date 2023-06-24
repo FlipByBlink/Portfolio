@@ -24,7 +24,7 @@ AppStore製品リンク: [https://apps.apple.com/jp/app/id1620268476](https://ap
 
 ソースコード: [https://github.com/FlipByBlink/PlainShogi](https://github.com/FlipByBlink/PlainShogi)
 
-補足: SwiftUIを最大限活かして全てのAppleプラットフォームに対して実装しました。
+補足: SwiftUIのポテンシャルを最大限活かしています。各プラットフォームに対してそれぞれ最適化を行った上で、全てのAppleプラットフォームへリリースしました。
 
 * * *
 
@@ -52,7 +52,7 @@ AppStore製品リンク: [https://apps.apple.com/jp/app/id1624159721](https://ap
 
 iPhone、iPad、Apple Watch向けアプリ
 
-コンセプト: 特殊なまばたきで電子書籍のページをめくる電子書籍リーダー
+コンセプト: 特殊なまばたきでページをめくる電子書籍リーダー
 
 主要フレームワーク: UIKit, Auto Layout, ARKit, PDFKit
 
