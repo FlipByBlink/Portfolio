@@ -30,6 +30,8 @@ iOSの標準デザインに沿ったシンプルな将棋盤アプリです。
 
 局面はiCloudによって端末間で同期されます。
 
+<img src="screenshot1200w.png" width="600">
+
 ### SharePlay
 SharePlayに対応しています。
 
@@ -37,7 +39,7 @@ FaceTimeしながら友達と将棋盤を囲むことが出来ます。
 
 SharePlay機能では「2人でシンプルに対局する」だけでなく、「大人数で詰将棋を解く」などの様々なユースケースを想定しています。
 
-<img src="screenshot1200w.png" width="600">
+<img src="SharePlay600w.png" width="300">
 
 ### テキスト書き出し/読み込み
 盤面をテキストデータとして書き出したり読み込んだり出来ます。
