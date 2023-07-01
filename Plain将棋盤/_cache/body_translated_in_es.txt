@@ -14,11 +14,12 @@ Plain将棋盤 / Plain Shogi Board
 <p> Puedes cambiar las piezas a notación inglesa.</p>
 <p> Exporta e importa el tablero como datos de texto.</p>
 <p> Las partidas se sincronizan entre dispositivos a través de iCloud.</p>
+<p><img src="screenshot1200w.png" width="600"></p>
 <h3 id="shareplay"> SharePlay</h3>
 <p> Compatible con SharePlay.</p>
 <p> Puedes jugar a Shogi con tus amigos a través de FaceTime.</p>
 <p> La función SharePlay está diseñada para varios casos de uso, como resolver Tsume-Shogi con un grupo grande de amigos, así como "un simple juego entre dos personas".</p>
-<p><img src="screenshot1200w.png" width="600"></p>
+<p><img src="SharePlay600w.png" width="300"></p>
 <h3 id="テキスト書き出し読み込み"> Exportación/importación de texto</h3>
 <p> El tablero se puede exportar e importar como datos de texto.</p>
 <div translate="no">

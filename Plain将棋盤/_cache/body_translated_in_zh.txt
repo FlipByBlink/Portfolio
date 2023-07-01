@@ -14,11 +14,12 @@ Plain将棋盤 / Plain Shogi Board
 <p>你可以把棋子改成英文记号。</p>
 <p>将棋盘作为文本数据导出和导入。</p>
 <p>游戏通过iCloud在设备间同步。</p>
+<p><img src="screenshot1200w.png" width="600"></p>
 <h3 id="shareplay">共享游戏</h3>
 <p>支持SharePlay。</p>
 <p>你可以通过FaceTime与你的朋友一起玩Shogi。</p>
 <p>SharePlay功能是为各种使用情况设计的，例如与一大群朋友一起解决Tsome-Shogi，以及 "两个人之间的简单游戏"。</p>
-<p><img src="screenshot1200w.png" width="600"></p>
+<p><img src="SharePlay600w.png" width="300"></p>
 <h3 id="テキスト書き出し読み込み">文本导出/导入</h3>
 <p>棋盘可以作为文本数据导出和导入。</p>
 <div translate="no">

@@ -14,11 +14,12 @@ Plain将棋盤 / Plain Shogi Board
 <p> Anda dapat mengubah potongan-potongan ke notasi bahasa Inggris.</p>
 <p> Mengekspor dan mengimpor papan sebagai data teks.</p>
 <p> Game disinkronkan antar perangkat melalui iCloud.</p>
+<p><img src="screenshot1200w.png" width="600"></p>
 <h3 id="shareplay"> Bagikan</h3>
 <p> SharePlay didukung.</p>
 <p> Anda dapat bermain Shogi dengan teman melalui FaceTime.</p>
 <p> Fungsi SharePlay dirancang untuk berbagai kasus penggunaan, seperti menyelesaikan Tsume-Shogi dengan sekelompok besar teman, serta "permainan sederhana antara dua orang".</p>
-<p><img src="screenshot1200w.png" width="600"></p>
+<p><img src="SharePlay600w.png" width="300"></p>
 <h3 id="テキスト書き出し読み込み"> Ekspor/impor teks</h3>
 <p> Papan dapat diekspor dan diimpor sebagai data teks.</p>
 <div translate="no">
