@@ -1,51 +1,27 @@
 <h1 translate="no">
 LockInNote
 </h1>
-<p><em>Aplicación de bloc de notas dedicada a la nueva función Widget de pantalla de bloqueo de iOS 16, ¡lanzada en otoño de 2022!</em></p>
+<p><em>Aplicación para tomar notas centrada en widgets.</em></p>
 <p><img src="icon.png" width="80"></p>
 <p><a href="https://apps.apple.com/app/id1644879340" target="blank">
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
-<h2 id="概要"> Descripción general.</h2>
-<p> Esta es una aplicación de bloc de notas dedicada al widget de la pantalla de bloqueo - una aplicación para iPhone/Apple Watch.</p>
-<p> Cuando quieras tomar una nota, ¡puedes escribirla rápidamente en la pantalla de bloqueo y comprobar la nota en la pantalla de bloqueo en cualquier momento!</p>
-<p> Funciona con Apple Watch.</p>
-<p> El diseño de la nota en la pantalla de bloqueo se puede personalizar de forma flexible, para que puedas utilizarla de acuerdo con los distintos propósitos de "dejar notas" y "mostrar texto en la pantalla de bloqueo".</p>
-<p> Al tocar el widget, se abre inmediatamente el teclado para editar la nota.</p>
-<p><img src="screenshot1_1200w.png" width="600"></p>
-<h3
-id="フォントのサイズやデザイン太さなどをカスタマイズ"> Personaliza el tamaño, el diseño y el grosor de la fuente.</h3>
-<p><img src="customize1200w.png" width="550"></p>
-<h3
-id="テキスト未入力時に分かりやすいアイコン"> Iconos fáciles de entender cuando no se introduce texto.</h3>
-<p><img src="placeholder600w.png" width="240"></p>
-<h3 id="その他"> Otros.</h3>
+<h2 id="概要"> Visión general.</h2>
+<p> Esta es una aplicación de toma de notas específica de widgets para iPhone/iPad/Mac/Apple Watch.</p>
+<p> Cuando quieras tomar una nota, podrás escribirla rápidamente desde el widget y consultarla en cualquier momento.</p>
+<p> Además, el diseño de la nota en el widget se puede personalizar de forma flexible, por lo que se puede utilizar para diversos fines.</p>
+<h3 id="マルチプラットフォーム対応"> Soporte multiplataforma</h3>
 <ul>
-<li> Compartir texto con ShareSheet</li>
-<li> Llama a cualquier esquema de URL que funcione con texto</li>
+<li> iPhone: pantalla de inicio, pantalla de bloqueo, modo de espera (iOS 17)</li>
+<li> iPad: pantalla de inicio, pantalla de bloqueo (iPad OS 17)</li>
+<li> Mac: centro de notificaciones, escritorio (macOS 14)</li>
+<li> Apple Watch: complicaciones, pila inteligente (watchOS 10)</li>
 </ul>
-<p><img src="screenshot2_800w.png" width="300"></p>
-<h3 id="最新機種-iphone-14-pro-にオススメ"> Recomendado para los últimos modelos de iPhone 14 Pro</h3>
-<p> El iPhone 14 Pro con Always On Display convierte tu iPhone en tu bloc de notas más cercano.</p>
-<blockquote>
-<p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
-<p><em>Cita: https://www.apple.com/jp/iphone-14-pro/</em></p>
-</blockquote>
 <hr />
 <h2 id="仕様"> Especificaciones</h2>
 <h3 id="価格"> Precio</h3>
 <p> Gratuito</p>
-<h3 id="アプリ内課金"> Compra dentro de la aplicación</h3>
-<p> Ocultar anuncios (160 yenes)</p>
-<h3 id="プラットフォーム"> Plataformas</h3>
-<ul>
-<li> iOS 16.0 o posterior</li>
-<li> iPadOS 16.0 o posterior</li>
-</ul>
-<h3 id="サポート言語"> Idiomas soportados</h3>
-<ul>
-<li> Japonés</li>
-<li> Inglés</li>
-</ul>
+<h3 id="アプリ内課金"> Compras dentro de la aplicación</h3>
+<p> Ocultar anuncios (¥160)</p>
 <p><a href="https://apps.apple.com/app/id1644879340" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

@@ -8,7 +8,7 @@ TapWeight
 <p><img src="apple_health_badge.svg"></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Overview</h2>
-<p> This is an application for iPhone/Apple Watch only.</p>
+<p> This is an application for iPhone/iPad/Apple Watch only.</p>
 <p> Intended users / use cases</p>
 <ul>
 <li><p> Do not have a smart scale.</p></li>
@@ -41,29 +41,5 @@ TapWeight
 <p> Free of charge</p>
 <h3 id="アプリ内課金"> In-app purchase</h3>
 <p> Hide ads (160 yen)</p>
-<h3 id="プラットフォーム"> Platform</h3>
-<ul>
-<li> iOS 15.0 or later</li>
-</ul>
-<h3 id="サポート言語"> Supported Languages</h3>
-<ul>
-<li> All<ul>
-<li> Japanese</li>
-<li> English</li>
-</ul></li>
-<li> Translate key words only<ul>
-<li> Chinese Simplified</li>
-<li> Chinese Traditional</li>
-<li> Spanish Traditional</li>
-<li> Portuguese</li>
-<li> Russian</li>
-<li> Indonesian</li>
-<li> French</li>
-<li> Arabic</li>
-<li> German</li>
-<li> Korean</li>
-<li> Ukrainian</li>
-</ul></li>
-</ul>
 <p><a href="https://apps.apple.com/app/id1624159721" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

@@ -8,10 +8,10 @@ TapWeight
 <p><img src="apple_health_badge.svg"></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Überblick.</h2>
-<p> Dies ist der schnellste (manuelle) Weg, um Gewichtsdaten in der auf dem iPhone vorinstallierten Apple-App "Health Care" zu registrieren.</p>
-<p> Vorgesehene Benutzer / Anwendungsfälle</p>
+<p> Dies ist der schnellste (manuelle) Weg, um Gewichtsdaten in der auf dem iPhone/iPad vorinstallierten Apple-App "Health Care" zu registrieren.</p>
+<p> Vorgesehene Benutzer / Anwendungsfälle.</p>
 <ul>
-<li><p> Sie haben keine intelligente Waage.</p></li>
+<li><p> Besitzt keine intelligente Waage.</p></li>
 <li><p> Sie messen ihr Gewicht und ihren Körperfettanteil täglich auf einer Waage.</p></li>
 <li><p> Sie erwägen, die Messergebnisse unmittelbar nach jeder Messung auf der Waage manuell in der App "Gesundheitswesen" zu registrieren.</p></li>
 </ul>
@@ -41,29 +41,5 @@ TapWeight
 <p> Kostenfrei</p>
 <h3 id="アプリ内課金"> In-App-Kauf</h3>
 <p> Werbung ausblenden (160 Yen)</p>
-<h3 id="プラットフォーム"> Plattformen</h3>
-<ul>
-<li> iOS 15.0 oder höher</li>
-</ul>
-<h3 id="サポート言語"> Unterstützte Sprachen</h3>
-<ul>
-<li> Alle<ul>
-<li> Japanisch</li>
-<li> Englisch</li>
-</ul></li>
-<li> Nur Übersetzung von Schlüsselwörtern<ul>
-<li> Chinesisch Vereinfacht</li>
-<li> Traditionelles Chinesisch</li>
-<li> Spanisch</li>
-<li> Portugiesisch</li>
-<li> Russisch</li>
-<li> Indonesisch</li>
-<li> Französisch</li>
-<li> Arabisch</li>
-<li> Deutsch</li>
-<li> Koreanisch</li>
-<li> Ukrainisch</li>
-</ul></li>
-</ul>
 <p><a href="https://apps.apple.com/app/id1624159721" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

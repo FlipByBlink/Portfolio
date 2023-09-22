@@ -1,1 +1,1 @@
-用于向预装在iPhone上的苹果 "健康护理 "应用程序最快（就手动而言）登记体重数据的应用程序。 仅限iPhone/Apple Watch应用程序。
+该软件可最快（手动）将体重数据登记到预装在 iPhone 上的 Apple "Health Care "应用程序中。

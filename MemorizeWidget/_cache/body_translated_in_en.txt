@@ -11,7 +11,6 @@ MemorizeWidget
 <ul>
 <li> Two modes: "stand-alone mode" and "random mode.</li>
 <li> In "Random Mode," the notes displayed change every 5 minutes</li>
-<li> Lock screen widget support (iOS16 only)</li>
 <li> Memorandum data can be imported from text or files (csv, tsv, txt, etc.)</li>
 <li> Linkage with OS built-in dictionary</li>
 <li> Customizable search function</li>
@@ -20,39 +19,21 @@ MemorizeWidget
 <p><img src="screenshot1200w.png" width="600"></p>
 <p> Optional</p>
 <ul>
-<li> Display "comment" as well as "title" of notes on widgets (only for home screen widgets/lock screen rectangular widgets)</li>
+<li> Display not only note "title" but also "comment" on the widget</li>
 <li> Display of multiple notes</li>
 </ul>
 <p> Multi-platform support</p>
 <ul>
-<li> iPhone: Lock screen widget (iOS16 or later), Home screen widget</li>
-<li> iPad: Home screen widget</li>
-<li> Apple Watch: Complication</li>
-<li> Mac: Notification Center widget</li>
+<li> iPhone: Home screen, Lock screen, Standby (iOS 17)</li>
+<li> iPad: Home screen, Lock screen (iPad OS 17)</li>
+<li> Mac: Notification center, desktop (macOS 14)</li>
+<li> Apple Watch: Complication, Smart Stack (watchOS 10)</li>
 </ul>
-<p> Recommended for the latest iPhone 14 Pro model!</p>
-<p> With the iPhone 14 Pro with Always On Display, you can check your notepad without touching your iPhone!</p>
-<blockquote>
-<p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
-<p><em>Quote: https://www.apple.com/jp/iphone-14-pro/</em></p>
-</blockquote>
 <hr />
 <h2 id="仕様"> Specifications</h2>
 <h3 id="価格"> Price</h3>
 <p> Free of charge</p>
 <h3 id="アプリ内課金"> In-app purchase</h3>
 <p> Hide ads (160 yen)</p>
-<h3 id="プラットフォーム"> Platform</h3>
-<ul>
-<li> iOS 15.6 or later</li>
-<li> iPadOS 15.6 or later</li>
-<li> watchOS 9.0 or later</li>
-<li> macOS 12.4 or later</li>
-</ul>
-<h3 id="サポート言語"> Supported Languages</h3>
-<ul>
-<li> Japanese</li>
-<li> English</li>
-</ul>
 <p><a href="https://apps.apple.com/app/id1644276262" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

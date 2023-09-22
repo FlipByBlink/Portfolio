@@ -8,12 +8,12 @@ TapWeight
 <p><img src="apple_health_badge.svg"></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Visión general.</h2>
-<p> Esta es la forma más rápida (manual) de registrar los datos de peso en la app 'Health Care' de Apple preinstalada en el iPhone.</p>
-<p> Usuarios previstos / casos de uso</p>
+<p> Esta es la forma más rápida (manual) de registrar los datos de peso en la app 'Health Care' de Apple preinstalada en iPhone/iPad.</p>
+<p> Usuarios / casos de uso previstos.</p>
 <ul>
 <li><p> No dispone de una báscula inteligente.</p></li>
 <li><p> Mide diariamente su peso y porcentaje de grasa corporal en una báscula.</p></li>
-<li><p> Considerar la posibilidad de registrar manualmente los resultados de las mediciones en la app 'Asistencia sanitaria' inmediatamente después de cada medición en la báscula.</p></li>
+<li><p> Considera la posibilidad de registrar manualmente los resultados de las mediciones en la app 'Cuidado de la salud' inmediatamente después de cada medición en la báscula.</p></li>
 </ul>
 <p> Opción.</p>
 <ul>
@@ -41,29 +41,5 @@ TapWeight
 <p> Gratuita</p>
 <h3 id="アプリ内課金"> Compra dentro de la aplicación</h3>
 <p> Ocultar anuncios (160 yenes)</p>
-<h3 id="プラットフォーム"> Plataformas</h3>
-<ul>
-<li> iOS 15.0 o posterior</li>
-</ul>
-<h3 id="サポート言語"> Idiomas soportados</h3>
-<ul>
-<li> Todos<ul>
-<li> Japonés</li>
-<li> Inglés</li>
-</ul></li>
-<li> Sólo traducción de palabras clave<ul>
-<li> Chino simplificado</li>
-<li> Chino tradicional</li>
-<li> Español</li>
-<li> Portugués</li>
-<li> Ruso</li>
-<li> Indonesio</li>
-<li> Francés</li>
-<li> Árabe</li>
-<li> Alemán</li>
-<li> Coreano</li>
-<li> Ucraniano</li>
-</ul></li>
-</ul>
 <p><a href="https://apps.apple.com/app/id1624159721" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

@@ -1,51 +1,27 @@
 <h1 translate="no">
 LockInNote
 </h1>
-<p><em>Application pour ordinateur portable dédiée à la nouvelle fonctionnalité iOS 16 Lock Screen Widget, qui sortira à l'automne 2022 !</em></p>
+<p><em>Une application de prise de notes axée sur les "widgets" !</em></p>
 <p><img src="icon.png" width="80"></p>
 <p><a href="https://apps.apple.com/app/id1644879340" target="blank">
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Vue d'ensemble.</h2>
-<p> Il s'agit d'une application de bloc-notes dédiée au widget d'écran de verrouillage - une application pour iPhone/Apple Watch.</p>
-<p> Lorsque vous voulez prendre une note, vous pouvez rapidement écrire une note sur l'écran de verrouillage et vérifier la note sur l'écran de verrouillage à tout moment !</p>
-<p> Fonctionne avec l'Apple Watch.</p>
-<p> Le design de la note sur l'écran de verrouillage peut être personnalisé de manière flexible, afin que vous puissiez l'utiliser en fonction des différents objectifs de "laisser des notes" et d'"afficher du texte sur l'écran de verrouillage".</p>
-<p> Le fait d'appuyer sur le widget lance immédiatement le clavier pour modifier la note.</p>
-<p><img src="screenshot1_1200w.png" width="600"></p>
-<h3
-id="フォントのサイズやデザイン太さなどをカスタマイズ"> Personnalisez la taille, le design et l'épaisseur de la police.</h3>
-<p><img src="customize1200w.png" width="550"></p>
-<h3
-id="テキスト未入力時に分かりやすいアイコン"> Icônes faciles à comprendre lorsqu'aucun texte n'est saisi.</h3>
-<p><img src="placeholder600w.png" width="240"></p>
-<h3 id="その他"> Autre.</h3>
+<p> Il s'agit d'une application de prise de notes spécifique aux widgets pour iPhone/iPad/Mac/Apple Watch.</p>
+<p> Lorsque vous souhaitez prendre une note, vous pouvez rapidement écrire une note à partir du widget et vérifier la note sur le widget à tout moment !</p>
+<p> En outre, le design de la note sur le widget peut être personnalisé de manière flexible, de sorte qu'il peut être utilisé à des fins diverses.</p>
+<h3 id="マルチプラットフォーム対応"> Prise en charge multiplateforme</h3>
 <ul>
-<li> Partager du texte avec ShareSheet</li>
-<li> Appeler n'importe quel schéma d'URL fonctionnant avec du texte</li>
+<li> iPhone : écran d'accueil, écran de verrouillage, veille (iOS 17)</li>
+<li> iPad : écran d'accueil, écran de verrouillage (iPad OS 17)</li>
+<li> Mac : centre de notification, bureau (macOS 14)</li>
+<li> Apple Watch : complications, pile intelligente (watchOS 10)</li>
 </ul>
-<p><img src="screenshot2_800w.png" width="300"></p>
-<h3 id="最新機種-iphone-14-pro-にオススメ"> Recommandé pour les derniers modèles d'iPhone 14 Pro !</h3>
-<p> L'iPhone 14 Pro avec Always On Display transforme votre iPhone en votre bloc-notes le plus proche.</p>
-<blockquote>
-<p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
-<p><em>Citation : https://www.apple.com/jp/iphone-14-pro/</em></p>
-</blockquote>
 <hr />
-<h2 id="仕様"> Caractéristiques techniques</h2>
+<h2 id="仕様"> Spécifications</h2>
 <h3 id="価格"> Prix</h3>
 <p> Gratuit</p>
-<h3 id="アプリ内課金"> Achat in-app</h3>
-<p> Masquer les publicités (160 yens)</p>
-<h3 id="プラットフォーム"> Plateformes</h3>
-<ul>
-<li> iOS 16.0 ou ultérieur</li>
-<li> iPadOS 16.0 ou ultérieur</li>
-</ul>
-<h3 id="サポート言語"> Langues supportées</h3>
-<ul>
-<li> Japonais</li>
-<li> Anglais</li>
-</ul>
+<h3 id="アプリ内課金"> Achats in-app</h3>
+<p> Masquer les publicités (¥160)</p>
 <p><a href="https://apps.apple.com/app/id1644879340" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

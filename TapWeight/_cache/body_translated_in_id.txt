@@ -8,14 +8,14 @@ TapWeight
 <p><img src="apple_health_badge.svg"></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Ikhtisar.</h2>
-<p> Ini adalah cara tercepat (manual) untuk mendaftarkan data berat badan di aplikasi Apple 'Health Care' yang sudah terpasang di iPhone.</p>
-<p> Pengguna yang dituju / kasus penggunaan</p>
+<p> Ini adalah cara tercepat (manual) untuk mendaftarkan data berat badan di aplikasi Apple 'Health Care' yang sudah diinstal sebelumnya di iPhone/iPad.</p>
+<p> Pengguna yang dituju / kasus penggunaan.</p>
 <ul>
 <li><p> Tidak memiliki timbangan pintar.</p></li>
 <li><p> Mereka mengukur berat badan dan persentase lemak tubuh pada timbangan setiap hari.</p></li>
 <li><p> Mempertimbangkan untuk mendaftarkan hasil pengukuran secara manual di aplikasi 'Perawatan Kesehatan' segera setelah setiap pengukuran pada timbangan.</p></li>
 </ul>
-<p> Opsi.</p>
+<p> Pilihan.</p>
 <ul>
 <li><p> BMI dapat secara otomatis dihitung dan didaftarkan pada waktu yang sama.</p></li>
 <li><p> Persentase lemak tubuh juga dapat didaftarkan pada waktu yang sama.</p></li>
@@ -33,7 +33,7 @@ TapWeight
 <li><p> Pendaftaran dapat dibatalkan segera setelah pendaftaran.</p></li>
 </ul>
 <p> Konsep.</p>
-<p> Orang sering mengukur berat badan dan persentase lemak tubuh mereka setiap hari dengan menggunakan timbangan. Banyak pengguna iPhone mendaftarkan data berat badan dan lemak tubuh mereka pada aplikasi 'Health Care'. Solusi terbaik adalah menggunakan timbangan pintar yang bekerja dengan aplikasi Health Care dan secara otomatis menyimpan pengukuran, tetapi ini bisa jadi mahal dan tidak dapat diakses. Meskipun dimungkinkan untuk mendaftarkan data secara manual pada aplikasi Health Care, sayangnya aplikasi Health Care tidak dirancang untuk pendaftaran pengukuran secara manual secara rutin. Oleh karena itu, memasukkan data secara manual yang terjadi secara terus menerus setiap hari, seperti pengukuran berat badan, dapat menjadi pengalaman yang sangat menyita waktu dan membuat stres. Aplikasi ini dikembangkan untuk mengatasi masalah tersebut.</p>
+<p> Orang sering mengukur berat badan dan persentase lemak tubuh mereka setiap hari dengan menggunakan timbangan. Banyak pengguna iPhone mendaftarkan data berat badan dan lemak tubuh mereka pada aplikasi 'Health Care'. Solusi terbaik adalah menggunakan timbangan pintar yang bekerja dengan aplikasi Health Care dan secara otomatis menyimpan pengukuran, tetapi ini bisa jadi mahal dan tidak dapat diakses. Meskipun dimungkinkan untuk mendaftarkan data secara manual pada aplikasi Health Care, sayangnya aplikasi Health Care tidak dirancang untuk pendaftaran pengukuran harian secara manual. Oleh karena itu, memasukkan data secara manual yang terjadi terus menerus setiap hari, seperti pengukuran berat badan, dapat menjadi pengalaman yang sangat menyita waktu dan membuat stres. Aplikasi ini dikembangkan untuk mengatasi masalah tersebut.</p>
 <p> Aplikasi ini tidak dapat membaca, melihat, atau mengelola data masa lalu di aplikasi 'Perawatan Kesehatan'. Aplikasi ini hanya untuk mendaftarkan data di aplikasi 'Health Care'. Silakan periksa data yang terdaftar di aplikasi 'Perawatan Kesehatan'.</p>
 <hr />
 <h2 id="仕様"> Spesifikasi</h2>
@@ -41,29 +41,5 @@ TapWeight
 <p> Gratis</p>
 <h3 id="アプリ内課金"> Pembelian dalam aplikasi</h3>
 <p> Sembunyikan iklan (160 yen)</p>
-<h3 id="プラットフォーム"> Platform</h3>
-<ul>
-<li> iOS 15.0 atau yang lebih baru</li>
-</ul>
-<h3 id="サポート言語"> Bahasa yang didukung</h3>
-<ul>
-<li> Semua<ul>
-<li> Bahasa Jepang</li>
-<li> Bahasa Inggris</li>
-</ul></li>
-<li> Terjemahan kata-kata kunci saja<ul>
-<li> Bahasa Mandarin Sederhana</li>
-<li> Bahasa Tionghoa Tradisional</li>
-<li> Bahasa Spanyol</li>
-<li> Portugis</li>
-<li> Bahasa Rusia</li>
-<li> Bahasa Indonesia</li>
-<li> Bahasa Prancis</li>
-<li> Bahasa Arab</li>
-<li> Bahasa Jerman</li>
-<li> Korea</li>
-<li> Ukraina</li>
-</ul></li>
-</ul>
 <p><a href="https://apps.apple.com/app/id1624159721" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

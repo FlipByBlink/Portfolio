@@ -1,51 +1,27 @@
 <h1 translate="no">
 LockInNote
 </h1>
-<p><em>Aplicação para computador portátil dedicada à nova funcionalidade Widget do ecrã bloqueado do iOS 16, lançada no outono de 2022!</em></p>
+<p><em>Aplicação para tomar notas centrada em 'Widgets'!</em></p>
 <p><img src="icon.png" width="80"></p>
 <p><a href="https://apps.apple.com/app/id1644879340" target="blank">
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
-<h2 id="概要"> Descrição geral.</h2>
-<p> Esta é uma aplicação de bloco de notas dedicada ao widget do ecrã de bloqueio - uma aplicação para iPhone/Apple Watch.</p>
-<p> Quando quiser tomar uma nota, pode escrever rapidamente uma nota no ecrã de bloqueio e verificar a nota no ecrã de bloqueio a qualquer momento!</p>
-<p> Funciona com o Apple Watch.</p>
-<p> O design da nota no ecrã de bloqueio pode ser personalizado de forma flexível, para que possa utilizá-lo de acordo com as várias finalidades de "deixar notas" e "apresentar texto no ecrã de bloqueio".</p>
-<p> Tocar no widget abre imediatamente o teclado para editar a nota.</p>
-<p><img src="screenshot1_1200w.png" width="600"></p>
-<h3
-id="フォントのサイズやデザイン太さなどをカスタマイズ"> Personalize o tamanho, o design e a espessura do tipo de letra.</h3>
-<p><img src="customize1200w.png" width="550"></p>
-<h3
-id="テキスト未入力時に分かりやすいアイコン"> Ícones fáceis de compreender quando não é introduzido texto</h3>
-<p><img src="placeholder600w.png" width="240"></p>
-<h3 id="その他"> Outros.</h3>
+<h2 id="概要"> Visão geral.</h2>
+<p> Esta é uma aplicação de tomada de notas específica para widgets para iPhone/iPad/Mac/Apple Watch.</p>
+<p> Quando quiser tomar uma nota, pode escrever rapidamente uma nota a partir do widget e verificar a nota no widget em qualquer altura!</p>
+<p> Além disso, o design da nota no widget pode ser personalizado de forma flexível, pelo que pode ser utilizado para uma variedade de fins.</p>
+<h3 id="マルチプラットフォーム対応"> Suporte multiplataforma</h3>
 <ul>
-<li> Partilhar texto com o ShareSheet</li>
-<li> Chamar qualquer esquema de URL que funcione com texto</li>
+<li> iPhone: ecrã inicial, ecrã de bloqueio, modo de espera (iOS 17)</li>
+<li> iPad: ecrã inicial, ecrã de bloqueio (iPad OS 17)</li>
+<li> Mac: centro de notificações, ambiente de trabalho (macOS 14)</li>
+<li> Apple Watch: Complicações, Smart Stack (watchOS 10)</li>
 </ul>
-<p><img src="screenshot2_800w.png" width="300"></p>
-<h3 id="最新機種-iphone-14-pro-にオススメ"> Recomendado para os modelos mais recentes do iPhone 14 Pro!</h3>
-<p> O iPhone 14 Pro com Always On Display transforma o iPhone no seu bloco de notas mais próximo.</p>
-<blockquote>
-<p><img src="iphone14pro_alwaysondisplay.png" width="250"></p>
-<p><em>Citação: https://www.apple.com/jp/iphone-14-pro/</em></p>
-</blockquote>
 <hr />
 <h2 id="仕様"> Especificações</h2>
 <h3 id="価格"> Preço</h3>
 <p> Gratuito</p>
-<h3 id="アプリ内課金"> Compra na aplicação</h3>
-<p> Ocultar anúncios (160 ienes)</p>
-<h3 id="プラットフォーム"> Plataformas</h3>
-<ul>
-<li> iOS 16.0 ou posterior</li>
-<li> iPadOS 16.0 ou posterior</li>
-</ul>
-<h3 id="サポート言語"> Idiomas suportados</h3>
-<ul>
-<li> Japonês</li>
-<li> inglês</li>
-</ul>
+<h3 id="アプリ内課金"> Compras na aplicação</h3>
+<p> Ocultar anúncios (¥160)</p>
 <p><a href="https://apps.apple.com/app/id1644879340" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

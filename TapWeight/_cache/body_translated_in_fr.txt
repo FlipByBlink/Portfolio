@@ -8,12 +8,12 @@ TapWeight
 <p><img src="apple_health_badge.svg"></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Vue d'ensemble.</h2>
-<p> Il s'agit de la méthode la plus rapide (manuelle) pour enregistrer les données de poids dans l'application Apple "Health Care" préinstallée sur l'iPhone.</p>
-<p> Utilisateurs visés / cas d'utilisation</p>
+<p> Il s'agit de la méthode la plus rapide (manuelle) pour enregistrer les données de poids dans l'application Apple "Health Care" préinstallée sur l'iPhone/iPad.</p>
+<p> Utilisateurs visés / cas d'utilisation.</p>
 <ul>
 <li><p> N'a pas de balance intelligente.</p></li>
-<li><p> Ils mesurent quotidiennement leur poids et leur taux de graisse corporelle sur une balance.</p></li>
-<li><p> Envisager d'enregistrer manuellement les résultats des mesures dans l'application "Soins de santé" immédiatement après chaque mesure sur la balance.</p></li>
+<li><p> Mesure quotidiennement son poids et son taux de graisse corporelle sur une balance.</p></li>
+<li><p> Envisage d'enregistrer manuellement les résultats des mesures dans l'application "Soins de santé" immédiatement après chaque mesure sur la balance.</p></li>
 </ul>
 <p> Option.</p>
 <ul>
@@ -41,29 +41,5 @@ TapWeight
 <p> Gratuit</p>
 <h3 id="アプリ内課金"> Achat in-app</h3>
 <p> Masquer les publicités (160 yens)</p>
-<h3 id="プラットフォーム"> Plateformes</h3>
-<ul>
-<li> iOS 15.0 ou ultérieur</li>
-</ul>
-<h3 id="サポート言語"> Langues prises en charge</h3>
-<ul>
-<li> Toutes les langues<ul>
-<li> Japonais</li>
-<li> Anglais</li>
-</ul></li>
-<li> Traduction des mots clés uniquement<ul>
-<li> Chinois simplifié</li>
-<li> Chinois traditionnel</li>
-<li> Espagnol</li>
-<li> portugais</li>
-<li> russe</li>
-<li> indonésien</li>
-<li> français</li>
-<li> Allemand</li>
-<li> Allemand</li>
-<li> Coréen</li>
-<li> ukrainien</li>
-</ul></li>
-</ul>
 <p><a href="https://apps.apple.com/app/id1624159721" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

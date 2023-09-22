@@ -8,8 +8,8 @@ TapTemperature
 <p><img src="apple_health_badge.svg"></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> 개요</h2>
-<p> 아이폰에 기본 탑재된 애플 '헬스케어' 앱에 체온 데이터를 (수동으로) 가장 빠르게 등록하기 위한 아이폰/애플워치 전용 앱입니다.</p>
-<h3 id="想定ユーザー-ユースケース"> 대상 사용자 / 사용 사례</h3>
+<p> iPhone/iPad에 기본 탑재된 Apple 'Health Care' 앱에 체온 데이터를 가장 빠르게 (수동으로) 등록할 수 있는 iPhone/iPad/Apple Watch 전용 앱입니다.</p>
+<h3 id="想定ユーザー-ユースケース"> 예상 사용자 / 사용 사례</h3>
 <ul>
 <li> 스마트 체온계를 가지고 있지 않다.</li>
 <li> 일상적으로 체온(또는 기초체온)을 체온계로 측정하고 있다.</li>
@@ -43,29 +43,5 @@ TapTemperature
 <p> 무료</p>
 <h3 id="アプリ内課金"> 인앱 결제</h3>
 <p> 광고 숨기기(160엔)</p>
-<h3 id="プラットフォーム"> 지원 플랫폼</h3>
-<ul>
-<li> iOS 15.0 이상</li>
-</ul>
-<h3 id="サポート言語"> 지원 언어</h3>
-<ul>
-<li> 모든 언어<ul>
-<li> 한국어</li>
-<li> 한국어</li>
-</ul></li>
-<li> 주요 4개 단어(체중/BMI/체지방률/건강관리) 번역만 가능<ul>
-<li> 중국어 간체자</li>
-<li> 중국어 번체자</li>
-<li> 스페인어</li>
-<li> 포르투갈어</li>
-<li> 러시아어</li>
-<li> 인도네시아어</li>
-<li> 인도네시아어</li>
-<li> 아랍어</li>
-<li> 독일어</li>
-<li> 한국어</li>
-<li> 우크라이나어</li>
-</ul></li>
-</ul>
 <p><a href="https://apps.apple.com/app/id1626760566" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>
