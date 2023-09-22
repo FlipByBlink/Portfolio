@@ -49,9 +49,9 @@ __FlipByBlink__
 
 __TapWeight__
 
-iPhoneにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ
+iPhone/iPadにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ
 
-Register weight data to the Apple "Health" app pre-installed on iPhone in the fastest possible way (as manual).
+Register weight data to the Apple "Health" app pre-installed on iPhone/iPad in the fastest possible way (as manual).
 
 <img src="TapWeight/top1200w.png" width="500">
 
@@ -73,9 +73,9 @@ Register weight data to the Apple "Health" app pre-installed on iPhone in the fa
 
 __TapTemperature__
 
-iPhoneにプリインストールされている「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリ
+iPhone/iPadにプリインストールされている「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリ
 
-Register body temperature data to the Apple "Health" app pre-installed on iPhone in the fastest possible way (as manual).
+Register body temperature data to the Apple "Health" app pre-installed on iPhone/iPad in the fastest possible way (as manual).
 
 <img src="TapTemperature/top1200w.png" width="500">
 
@@ -97,7 +97,7 @@ Register body temperature data to the Apple "Health" app pre-installed on iPhone
 
 __MemorizeWidget__
 
-ホーム画面やロック画面を暗記帳にするアプリ。 Flashcard app for widget.
+ホーム画面やロック画面、デスクトップを暗記帳にするアプリ。 Flashcard app for widget.
 
 <img src="MemorizeWidget/top1200w.png" width="500">
 
@@ -119,7 +119,7 @@ __MemorizeWidget__
 
 __LockInNote__
 
-「ロック画面ウィジェット」に特化したノートアプリ。 Memo note app specialized for lock screen widgets.
+「ウィジェット」に特化したノートアプリ。 Memo note app specialized for widgets.
 
 <img src="LockInNote/top1200w.png" width="500">
 
