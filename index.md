@@ -31,7 +31,7 @@ __FlipByBlink__
 
 <p><img src="FlipByBlink/preview.gif" class="except_printing"></p>
 
-<img src="FlipByBlink/top1200w.png" width="350">
+<img src="FlipByBlink/top1200w.png" width="250">
 
 [日本語(native)](FlipByBlink/ja)
 [English](FlipByBlink/en)
@@ -55,7 +55,7 @@ iPhone/iPadにプリインストールされている「ヘルスケア」アプ
 
 Register weight data to the Apple "Health" app pre-installed on iPhone/iPad in the fastest possible way (as manual).
 
-<img src="TapWeight/top1200w.png" width="500">
+<img src="TapWeight/top1200w.png" width="400">
 
 <img src="TapWeight/apple_health_badge.svg">
 
@@ -81,7 +81,7 @@ iPhone/iPadにプリインストールされている「ヘルスケア」アプ
 
 Register body temperature data to the Apple "Health" app pre-installed on iPhone/iPad in the fastest possible way (as manual).
 
-<img src="TapTemperature/top1200w.png" width="500">
+<img src="TapTemperature/top1200w.png" width="400">
 
 <img src="TapWeight/apple_health_badge.svg">
 
