@@ -3,7 +3,7 @@ Portfolio
 
 <img src="Plain将棋盤/icon.png" width="50">
 
-__PlainShogiBoard(Plain将棋盤)__
+__PlainShogiBoard / Plain将棋盤__
 
 将棋盤アプリ。SharePlay対応。 Shogi board app. Support SharePlay.
 
@@ -149,7 +149,7 @@ __FadeInAlarm__
 
 時間をかけて少しずつ音が大きくなるアラームアプリ。 Alarm clock with taking a long time from small volume to max volume.
 
-<img src="FadeInAlarm/top1200w.png" width="500">
+<img src="FadeInAlarm/top1200w.png" width="350">
 
 [日本語(native)](FadeInAlarm/ja)
 [English](FadeInAlarm/en)
