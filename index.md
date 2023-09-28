@@ -29,7 +29,9 @@ __FlipByBlink__
 
 まばたきだけで読書ができる電子書籍アプリ。 E-book reader app with eye blink.
 
-<img src="FlipByBlink/top1200w.png" width="500">
+<p><img src="FlipByBlink/preview.gif" class="except_printing"></p>
+
+<img src="FlipByBlink/top1200w.png" width="350">
 
 [日本語(native)](FlipByBlink/ja)
 [English](FlipByBlink/en)
