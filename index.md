@@ -57,6 +57,8 @@ Register weight data to the Apple "Health" app pre-installed on iPhone/iPad in t
 
 <img src="TapWeight/top1200w.png" width="500">
 
+<img src="TapWeight/apple_health_badge.svg">
+
 [日本語(native)](TapWeight/ja)
 [English](TapWeight/en)
 [Indonesia](TapWeight/id)
@@ -80,6 +82,8 @@ iPhone/iPadにプリインストールされている「ヘルスケア」アプ
 Register body temperature data to the Apple "Health" app pre-installed on iPhone/iPad in the fastest possible way (as manual).
 
 <img src="TapTemperature/top1200w.png" width="500">
+
+<img src="TapWeight/apple_health_badge.svg">
 
 [日本語(native)](TapTemperature/ja)
 [English](TapTemperature/en)
