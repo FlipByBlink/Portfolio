@@ -7,9 +7,10 @@ iPhoneを中心にAppleプラットフォーム向けにアプリを制作して
 
 * * *
 
-<img src="Plain将棋盤/icon.png" width="50">
+Plain将棋盤
+-----------------
 
-__Plain将棋盤__
+<img src="Plain将棋盤/icon.png" width="50">
 
 iPhone / iPad / Mac / Apple TV / Apple Watch 向けアプリ
 
