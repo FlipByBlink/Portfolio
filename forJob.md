@@ -37,7 +37,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 主要フレームワーク: SwiftUI, HealthKit
 
-<img src="TapWeight/top1200w.png" width="400">
+<img src="AssetJA/TapWeight/top1200w.png" width="400">
 
 <img src="TapWeight/apple_health_badge.svg">
 
@@ -59,7 +59,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 主要フレームワーク: SwiftUI, HealthKit
 
-<img src="TapTemperature/top1200w.png" width="400">
+<img src="AssetJA/TapTemperature/top1200w.png" width="400">
 
 <img src="TapWeight/apple_health_badge.svg">
 
@@ -77,7 +77,7 @@ iPhone / iPad / Mac / Apple Watch 向けアプリ
 
 ホーム画面やロック画面、デスクトップを暗記帳にするアプリ。
 
-<img src="MemorizeWidget/top1200w.png" width="500">
+<img src="AssetJA/MemorizeWidget/top1200w.png" width="500">
 
 [AppStoreリンク](https://apps.apple.com/app/id1644276262)
 
@@ -131,7 +131,7 @@ iPhone / iPad 向けアプリ
 
 時間をかけて少しずつ音が大きくなるアラームアプリ。
 
-<img src="FadeInAlarm/top1200w.png" width="350">
+<img src="AssetJA/FadeInAlarm/top1200w.png" width="350">
 
 [AppStoreリンク](https://apps.apple.com/app/id1465336070)
 
