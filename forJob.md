@@ -7,8 +7,7 @@ iPhoneを中心にAppleプラットフォーム向けにアプリを制作して
 
 * * *
 
-Plain将棋盤
------------------
+### Plain将棋盤
 
 <img src="Plain将棋盤/icon.png" width="50">
 
