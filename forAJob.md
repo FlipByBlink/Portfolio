@@ -15,11 +15,11 @@ iPhone / iPad / Mac / Apple TV / Apple Watch 向けアプリ
 
 OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ。SharePlay対応。
 
-主要フレームワーク: SwiftUI, GroupActivities
-
 <img src="Plain将棋盤/top1200w.png" width="500">
 
 SwiftUIのポテンシャルを最大限活かす様に実装。各プラットフォームに対してそれぞれ最適化を行った上で、全てのAppleプラットフォームへリリース。Apple Vision Pro対応予定。
+
+主要フレームワーク: SwiftUI, GroupActivities
 
 [AppStoreリンク](https://apps.apple.com/app/id1620268476)
 
@@ -35,13 +35,13 @@ iPhone / iPad / Apple Watch 向けアプリ
 
 iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ。
 
-主要フレームワーク: SwiftUI, HealthKit
-
 <img src="AssetJA/TapWeight/top1200w.png" width="400">
 
 <img src="TapWeight/apple_health_badge.svg">
 
 同コンセプトのアプリはAppStoreに沢山ありますが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負。
+
+主要フレームワーク: SwiftUI, HealthKit
 
 [AppStoreリンク](https://apps.apple.com/app/id1624159721)
 
@@ -57,11 +57,11 @@ iPhone / iPad / Apple Watch 向けアプリ
 
 iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリ。
 
-主要フレームワーク: SwiftUI, HealthKit
-
 <img src="AssetJA/TapTemperature/top1200w.png" width="400">
 
 <img src="TapWeight/apple_health_badge.svg">
+
+主要フレームワーク: SwiftUI, HealthKit
 
 [AppStoreリンク](https://apps.apple.com/app/id1626760566)
 
@@ -79,6 +79,8 @@ iPhone / iPad / Mac / Apple Watch 向けアプリ
 
 <img src="AssetJA/MemorizeWidget/top1200w.png" width="500">
 
+主要フレームワーク: SwiftUI, WidgetKit
+
 [AppStoreリンク](https://apps.apple.com/app/id1644276262)
 
 [PRページ](MemorizeWidget/ja)
@@ -95,6 +97,8 @@ iPhone / iPad / Mac / Apple Watch 向けアプリ
 
 <img src="LockInNote/top1200w.png" width="500">
 
+主要フレームワーク: SwiftUI, WidgetKit
+
 [AppStoreリンク](https://apps.apple.com/app/id1644879340)
 
 [PRページ](LockInNote/ja)
@@ -109,13 +113,13 @@ iPhone / iPad 向けアプリ
 
 まばたきだけで読書ができる電子書籍アプリ。
 
-主要フレームワーク: UIKit, Auto Layout, ARKit, PDFKit
-
 <p><img src="FlipByBlink/preview.gif" class="except_printing"></p>
 
 <img src="FlipByBlink/top1200w.png" width="250">
 
 大学の卒業研究で取り組んだアイデア。2019年1月に初版をリリース。
+
+主要フレームワーク: UIKit, Auto Layout, ARKit, PDFKit
 
 [AppStoreリンク](https://apps.apple.com/app/id1444571751)
 
@@ -132,6 +136,8 @@ iPhone / iPad 向けアプリ
 時間をかけて少しずつ音が大きくなるアラームアプリ。
 
 <img src="AssetJA/FadeInAlarm/top1200w.png" width="350">
+
+主要フレームワーク: SwiftUI, AVFAudio, MediaPlayer
 
 [AppStoreリンク](https://apps.apple.com/app/id1465336070)
 
