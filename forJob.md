@@ -7,9 +7,9 @@ iPhoneを中心にAppleプラットフォーム向けにアプリを制作して
 
 * * *
 
-### Plain将棋盤
-
 <img src="Plain将棋盤/icon.png" width="50">
+
+### Plain将棋盤
 
 iPhone / iPad / Mac / Apple TV / Apple Watch 向けアプリ
 
@@ -29,7 +29,7 @@ SwiftUIのポテンシャルを最大限活かす様に実装。各プラット�
 
 <img src="TapWeight/icon.png" width="50">
 
-__体重登録__
+### 体重登録
 
 iPhone / iPad / Apple Watch 向けアプリ
 
@@ -51,7 +51,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="TapTemperature/icon.png" width="50">
 
-__体温登録__
+### 体温登録
 
 iPhone / iPad / Apple Watch 向けアプリ
 
@@ -71,7 +71,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="MemorizeWidget/icon.png" width="50">
 
-__暗記ウィジェット__
+### 暗記ウィジェット
 
 iPhone / iPad / Mac / Apple Watch 向けアプリ
 
@@ -87,7 +87,7 @@ iPhone / iPad / Mac / Apple Watch 向けアプリ
 
 <img src="LockInNote/icon.png" width="50">
 
-__ロックノート__
+### ロックノート
 
 iPhone / iPad / Mac / Apple Watch 向けアプリ
 
@@ -103,7 +103,7 @@ iPhone / iPad / Mac / Apple Watch 向けアプリ
 
 <img src="FlipByBlink/icon.png" width="50">
 
-__FlipByBlink__
+### FlipByBlink
 
 iPhone / iPad 向けアプリ
 
@@ -125,7 +125,7 @@ iPhone / iPad 向けアプリ
 
 <img src="FadeInAlarm/icon.png" width="50">
 
-__FadeInAlarm__
+### FadeInAlarm
 
 iPhone / iPad 向けアプリ
 
