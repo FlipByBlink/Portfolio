@@ -21,7 +21,7 @@ OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋
 
 SwiftUIのポテンシャルを最大限活かす。各プラットフォームに対してそれぞれ最適化を行った上で、全てのAppleプラットフォームへリリース。Apple Vision Pro対応予定。
 
-[AppStoreリンク](https://apps.apple.com/jp/app/id1620268476)
+[AppStoreリンク](https://apps.apple.com/app/id1620268476)
 
 [PRページ](Plain将棋盤/ja)
 
@@ -43,6 +43,8 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 同コンセプトのアプリはAppStoreに沢山ありますが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負。
 
+[AppStoreリンク](https://apps.apple.com/app/id1624159721)
+
 [PRページ](TapWeight/ja)
 
 * * *
@@ -61,6 +63,8 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="TapWeight/apple_health_badge.svg">
 
+[AppStoreリンク](https://apps.apple.com/app/id1626760566)
+
 [PRページ](TapTemperature/ja)
 
 * * *
@@ -75,6 +79,8 @@ iPhone / iPad / Mac / Apple Watch 向けアプリ
 
 <img src="MemorizeWidget/top1200w.png" width="500">
 
+[AppStoreリンク](https://apps.apple.com/app/id1644276262)
+
 [PRページ](MemorizeWidget/ja)
 
 * * *
@@ -88,6 +94,8 @@ iPhone / iPad / Mac / Apple Watch 向けアプリ
 「ウィジェット」に特化したノートアプリ。
 
 <img src="LockInNote/top1200w.png" width="500">
+
+[AppStoreリンク](https://apps.apple.com/app/id1644879340)
 
 [PRページ](LockInNote/ja)
 
@@ -109,6 +117,8 @@ iPhone / iPad 向けアプリ
 
 大学の卒業研究で取り組んだアイデア。2019年1月に初版をリリース。
 
+[AppStoreリンク](https://apps.apple.com/app/id1444571751)
+
 [PRページ](FlipByBlink/ja)
 
 * * *
@@ -122,5 +132,7 @@ iPhone / iPad 向けアプリ
 時間をかけて少しずつ音が大きくなるアラームアプリ。
 
 <img src="FadeInAlarm/top1200w.png" width="350">
+
+[AppStoreリンク](https://apps.apple.com/app/id1465336070)
 
 [PRページ](FadeInAlarm/ja)
