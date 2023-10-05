@@ -11,7 +11,7 @@ iPhoneを中心にAppleプラットフォーム向けにアプリを制作して
 
 ### Plain将棋盤
 
-iPhone / iPad / Mac / Apple TV / Apple Watch 向けアプリ
+iPhone / iPad / Mac / Apple TV / Apple Watch 向け
 
 OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ。SharePlay対応。
 
@@ -21,9 +21,9 @@ SwiftUIのポテンシャルを最大限活かす様に実装。各プラット�
 
 主要フレームワーク: SwiftUI, GroupActivities
 
-[AppStoreリンク](https://apps.apple.com/app/id1620268476)
+[__AppStoreリンク__](https://apps.apple.com/app/id1620268476)
 
-[PRページ](Plain将棋盤/ja)
+[PRページリンク](Plain将棋盤/ja)
 
 * * *
 
@@ -31,7 +31,7 @@ SwiftUIのポテンシャルを最大限活かす様に実装。各プラット�
 
 ### 体重登録
 
-iPhone / iPad / Apple Watch 向けアプリ
+iPhone / iPad / Apple Watch 向け
 
 iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ。
 
@@ -43,9 +43,9 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 主要フレームワーク: SwiftUI, HealthKit
 
-[AppStoreリンク](https://apps.apple.com/app/id1624159721)
+[__AppStoreリンク__](https://apps.apple.com/app/id1624159721)
 
-[PRページ](TapWeight/ja)
+[PRページリンク](TapWeight/ja)
 
 * * *
 
@@ -53,7 +53,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 ### 体温登録
 
-iPhone / iPad / Apple Watch 向けアプリ
+iPhone / iPad / Apple Watch 向け
 
 iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリ。
 
@@ -63,9 +63,9 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 主要フレームワーク: SwiftUI, HealthKit
 
-[AppStoreリンク](https://apps.apple.com/app/id1626760566)
+[__AppStoreリンク__](https://apps.apple.com/app/id1626760566)
 
-[PRページ](TapTemperature/ja)
+[PRページリンク](TapTemperature/ja)
 
 * * *
 
@@ -73,7 +73,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 ### 暗記ウィジェット
 
-iPhone / iPad / Mac / Apple Watch 向けアプリ
+iPhone / iPad / Mac / Apple Watch 向け
 
 ホーム画面やロック画面、デスクトップを暗記帳にするアプリ。
 
@@ -81,9 +81,9 @@ iPhone / iPad / Mac / Apple Watch 向けアプリ
 
 主要フレームワーク: SwiftUI, WidgetKit
 
-[AppStoreリンク](https://apps.apple.com/app/id1644276262)
+[__AppStoreリンク__](https://apps.apple.com/app/id1644276262)
 
-[PRページ](MemorizeWidget/ja)
+[PRページリンク](MemorizeWidget/ja)
 
 * * *
 
@@ -91,17 +91,17 @@ iPhone / iPad / Mac / Apple Watch 向けアプリ
 
 ### ロックノート
 
-iPhone / iPad / Mac / Apple Watch 向けアプリ
+iPhone / iPad / Mac / Apple Watch 向け
 
-「ウィジェット」に特化したノートアプリ。
+「ウィジェット」に特化した超軽量なノートアプリ。
 
 <img src="LockInNote/top1200w.png" width="500">
 
 主要フレームワーク: SwiftUI, WidgetKit
 
-[AppStoreリンク](https://apps.apple.com/app/id1644879340)
+[__AppStoreリンク__](https://apps.apple.com/app/id1644879340)
 
-[PRページ](LockInNote/ja)
+[PRページリンク](LockInNote/ja)
 
 * * *
 
@@ -109,7 +109,7 @@ iPhone / iPad / Mac / Apple Watch 向けアプリ
 
 ### FlipByBlink
 
-iPhone / iPad 向けアプリ
+iPhone / iPad 向け
 
 まばたきだけで読書ができる電子書籍アプリ。
 
@@ -121,9 +121,9 @@ iPhone / iPad 向けアプリ
 
 主要フレームワーク: UIKit, Auto Layout, ARKit, PDFKit
 
-[AppStoreリンク](https://apps.apple.com/app/id1444571751)
+[__AppStoreリンク__](https://apps.apple.com/app/id1444571751)
 
-[PRページ](FlipByBlink/ja)
+[PRページリンク](FlipByBlink/ja)
 
 * * *
 
@@ -131,7 +131,7 @@ iPhone / iPad 向けアプリ
 
 ### FadeInAlarm
 
-iPhone / iPad 向けアプリ
+iPhone / iPad 向け
 
 時間をかけて少しずつ音が大きくなるアラームアプリ。
 
@@ -139,6 +139,6 @@ iPhone / iPad 向けアプリ
 
 主要フレームワーク: SwiftUI, AVFAudio, MediaPlayer
 
-[AppStoreリンク](https://apps.apple.com/app/id1465336070)
+[__AppStoreリンク__](https://apps.apple.com/app/id1465336070)
 
-[PRページ](FadeInAlarm/ja)
+[PRページリンク](FadeInAlarm/ja)
