@@ -13,11 +13,13 @@ iPhoneを中心にAppleプラットフォーム向けにアプリを制作して
 
 iPhone / iPad / Mac / Apple TV / Apple Watch 向け
 
-OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ。SharePlay対応。
+OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ
 
 <img src="Plain将棋盤/top1200w.png" width="500">
 
-SwiftUIのポテンシャルを最大限活かす様に実装。各プラットフォームに対してそれぞれ最適化を行った上で、全てのAppleプラットフォームへリリース。Apple Vision Pro対応予定。
+SwiftUIのポテンシャルを最大限活かす様に実装。SharePlayにも対応。
+
+各プラットフォームに対してそれぞれ最適化を行った上で、全てのAppleプラットフォームへリリース。Apple Vision Pro対応予定。
 
 主要フレームワーク: SwiftUI, GroupActivities
 
@@ -33,7 +35,7 @@ SwiftUIのポテンシャルを最大限活かす様に実装。各プラット�
 
 iPhone / iPad / Apple Watch 向け
 
-iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ。
+iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ
 
 <img src="AssetJA/TapWeight/top1200w.png" width="400">
 
@@ -55,7 +57,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 iPhone / iPad / Apple Watch 向け
 
-iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリ。
+iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリ
 
 <img src="AssetJA/TapTemperature/top1200w.png" width="400">
 
@@ -75,7 +77,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 iPhone / iPad / Mac / Apple Watch 向け
 
-ホーム画面やロック画面、デスクトップを暗記帳にするアプリ。
+ホーム画面やロック画面、デスクトップを暗記帳にするアプリ
 
 <img src="AssetJA/MemorizeWidget/top1200w.png" width="500">
 
@@ -93,7 +95,7 @@ iPhone / iPad / Mac / Apple Watch 向け
 
 iPhone / iPad / Mac / Apple Watch 向け
 
-「ウィジェット」に特化した超軽量なノートアプリ。
+「ウィジェット」に特化した超軽量なノートアプリ
 
 <img src="LockInNote/top1200w.png" width="500">
 
@@ -111,7 +113,7 @@ iPhone / iPad / Mac / Apple Watch 向け
 
 iPhone / iPad 向け
 
-まばたきだけで読書ができる電子書籍アプリ。
+まばたきだけで読書ができる電子書籍アプリ
 
 <p><img src="FlipByBlink/preview.gif" class="except_printing"></p>
 
@@ -133,7 +135,7 @@ iPhone / iPad 向け
 
 iPhone / iPad 向け
 
-時間をかけて少しずつ音が大きくなるアラームアプリ。
+時間をかけて少しずつ音が大きくなるアラームアプリ
 
 <img src="AssetJA/FadeInAlarm/top1200w.png" width="350">
 
