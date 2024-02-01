@@ -50,7 +50,7 @@ Apple Vision Pro向け。
 無料
 
 ### App Store リンク
-https://apps.apple.com/app/id6476141176
+[https://apps.apple.com/app/id6476141176](https://apps.apple.com/app/id6476141176)
 
 <!--
 <a href="https://apps.apple.com/app/id6476141176" target="blank">

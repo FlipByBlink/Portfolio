@@ -22,23 +22,21 @@ Apple Vision Pro向け。
 
 両手の人差し指の先端同士の距離を表示します。
 
+### 単位オプション
 
-単位オプション
+- センチメートル(cm)
 
-・センチメートル(cm)
+- メートル(m)
 
-・メートル(m)
+- インチ(in)
 
-・インチ(in)
+- フィート(ft)
 
-・フィート(ft)
+- ヤード(yd)
 
-・ヤード(yd)
+### おまけ機能
 
-
-おまけ機能
-
-・ポインターを間接タップして位置を固定する
+- ポインターを間接タップして位置を固定する
 
 <img src="screenshot1280w2.jpg" width="600">
 
@@ -52,7 +50,7 @@ Apple Vision Pro向け。
 無料
 
 ### App Store リンク
-https://apps.apple.com/app/id6475769879
+[https://apps.apple.com/app/id6475769879](https://apps.apple.com/app/id6475769879)
 
 <!--
 <a href="https://apps.apple.com/app/id6475769879" target="blank">

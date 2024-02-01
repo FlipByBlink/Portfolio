@@ -10,22 +10,27 @@ HandsWidth
 <h2 id="概要"> Visão geral.</h2>
 <p> Mede distâncias de forma intuitiva com ambas as mãos!</p>
 <p> Apresenta a distância entre as pontas dos dedos indicadores de ambas as mãos.</p>
-<p> Opções de unidades.</p>
-<p> Centímetros (cm)</p>
-<p> Metros (m)</p>
-<p> Polegadas (in)</p>
-<p> Pés (ft)</p>
-<p> Jarda (yd)</p>
-<p> Funções extra</p>
-<p> Toque indireto no ponteiro para fixar a posição.</p>
+<h3 id="単位オプション"> Opções de unidades</h3>
+<ul>
+<li><p> Centímetros (cm)</p></li>
+<li><p> Metro (m)</p></li>
+<li><p> Polegada (in)</p></li>
+<li><p> Pés (ft)</p></li>
+<li><p> Jarda (yd)</p></li>
+</ul>
+<h3 id="おまけ機能"> Funções extra</h3>
+<ul>
+<li> Toque indireto no ponteiro para fixar a posição</li>
+</ul>
 <p><img src="screenshot1280w2.jpg" width="600"></p>
 <p><img src="screenshot1280w3.jpg" width="600"></p>
 <hr />
 <h2 id="仕様"> Especificações</h2>
 <h3 id="価格"> Preço</h3>
-<p> Gratuito</p>
+<p> Grátis</p>
 <h3 id="app-store-リンク"> Ligação à App Store</h3>
-<p> https://apps.apple.com/app/id6475769879</p>
+<p><a
+href="https://apps.apple.com/app/id6475769879">https://apps.apple.com/app/id6475769879</a></p>
 <!--
 <a href="https://apps.apple.com/app/id6475769879" target="blank">
   <img src="qr-code.jpg" width="160">

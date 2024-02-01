@@ -10,14 +10,18 @@ HandsWidth
 <h2 id="概要"> Overview</h2>
 <p> Intuitively measures distances using both hands!</p>
 <p> Displays the distance between the tips of the index fingers of both hands.</p>
-<p> Unit Options</p>
-<p> Centimeter (cm)</p>
-<p> Meters (m)</p>
-<p> Inches (in)</p>
-<p> Feet (ft)</p>
-<p> Yard (yd)</p>
-<p> Extra Functions</p>
-<p> Indirect tap on the pointer to fix the position</p>
+<h3 id="単位オプション"> Unit Options</h3>
+<ul>
+<li><p> Centimeter (cm)</p></li>
+<li><p> Meters (m)</p></li>
+<li><p> Inch(in)</p></li>
+<li><p> feet(ft)</p></li>
+<li><p> Yard(yd)</p></li>
+</ul>
+<h3 id="おまけ機能"> Extra Functions</h3>
+<ul>
+<li> Indirect tap on the pointer to fix the position</li>
+</ul>
 <p><img src="screenshot1280w2.jpg" width="600"></p>
 <p><img src="screenshot1280w3.jpg" width="600"></p>
 <hr />
@@ -25,7 +29,8 @@ HandsWidth
 <h3 id="価格"> Price</h3>
 <p> Free</p>
 <h3 id="app-store-リンク"> App Store Link</h3>
-<p> https://apps.apple.com/app/id6475769879</p>
+<p><a
+href="https://apps.apple.com/app/id6475769879">https://apps.apple.com/app/id6475769879</a></p>
 <!--
 <a href="https://apps.apple.com/app/id6475769879" target="blank">
   <img src="qr-code.jpg" width="160">
