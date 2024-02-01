@@ -147,7 +147,7 @@ __LockInNote__
 
 __HandsWidth__
 
-両手で距離を測定するアプリ。 Measure the distance between both hands intuitively.
+両手で距離を直感的に測定する物差しアプリ。 Measure the distance between both hands intuitively.
 
 <img src="HandsWidth/top1280w.jpg" width="500">
 

@@ -43,6 +43,11 @@ Apple Vision Pro向け。
 ### 価格
 無料
 
+### App Store リンク
+https://apps.apple.com/app/id6475769879
+
+<!--
 <a href="https://apps.apple.com/app/id6475769879" target="blank">
   <img src="qr-code.jpg" width="160">
 </a>
+-->

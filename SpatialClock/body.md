@@ -20,13 +20,15 @@ Apple Vision Pro向け。
 ----------
 共有スペース向けの置き時計です。
 
-シンプルなデザインで軽量。
+シンプルなデザイン。
+
+軽量。
 
 オプション
-- 日付を隠す
-- 年を表示
-- 曜日を隠す
-- 秒を表示
+- 「日付」を隠す
+- 「年」を表示
+- 「曜日」を隠す
+- 「秒」を表示
 - 背景を隠す
 - フォントをカスタマイズ
 
@@ -43,6 +45,11 @@ Apple Vision Pro向け。
 ### 価格
 無料
 
+### App Store リンク
+https://apps.apple.com/app/id6476141176
+
+<!--
 <a href="https://apps.apple.com/app/id6476141176" target="blank">
   <img src="qr-code.jpg" width="160">
 </a>
+-->
