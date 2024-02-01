@@ -14,7 +14,7 @@ Apple Vision Pro向け。
   <img src="appstore_badge.svg">
 </a>
 
-<img src="top1200w.png" width="600">
+<img src="1.jpeg" width="600">
 
 概要
 ----------
@@ -29,6 +29,12 @@ Apple Vision Pro向け。
 - 秒を表示
 - 背景を隠す
 - フォントをカスタマイズ
+
+<img src="2.jpeg" width="600">
+
+<img src="3.jpeg" width="600">
+
+<img src="4.jpeg" width="600">
 
 * * *
 
