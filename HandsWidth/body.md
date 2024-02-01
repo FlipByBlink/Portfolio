@@ -4,7 +4,9 @@ published: false
 
 <h1 translate="no">HandsWidth</h1>
 
-_両手で距離を直感的に測るアプリ_
+_両手で距離を直感的に測る物差しアプリ。_
+
+Apple Vision Pro向け。
 
 <img src="icon.png" width="80">
 

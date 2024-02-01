@@ -6,6 +6,8 @@ published: false
 
 _空間コンピューティング用の置き時計アプリ。_
 
+Apple Vision Pro向け。
+
 <img src="icon.png" width="80">
 
 <a href="https://apps.apple.com/app/id6476141176" target="blank">
