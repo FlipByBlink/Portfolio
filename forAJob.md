@@ -129,7 +129,7 @@ iPhone / iPad 向け
 
 * * *
 
-<img src="HandsWidth/icon.png" width="50">
+<img src="HandsWidth/icon.png" width="60">
 
 ### HandsWidth
 
@@ -169,7 +169,7 @@ Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
 
 * * *
 
-<img src="FadeInAlarm/icon.png" width="60">
+<img src="FadeInAlarm/icon.png" width="50">
 
 ### FadeInAlarm
 
