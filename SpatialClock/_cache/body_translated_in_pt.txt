@@ -9,16 +9,23 @@ SpatialClock
 <p><img src="1.jpeg" width="600"></p>
 <h2 id="概要"> Descrição geral.</h2>
 <p> Um relógio de mesa para espaços partilhados.</p>
-<p> Design simples.</p>
-<p> Leve.</p>
-<p> Opções - Ocultar a 'data' - Mostrar o 'ano' - Ocultar o 'dia da semana' - Mostrar os 'segundos' - Ocultar o fundo - Personalizar o tipo de letra.</p>
+<p> Design simples. Leve.</p>
+<h3 id="オプション"> Opções.</h3>
+<ul>
+<li><p> Ocultar 'data'.</p></li>
+<li><p> Mostrar 'ano'.</p></li>
+<li><p> Ocultar o "dia da semana".</p></li>
+<li><p> Mostrar segundos</p></li>
+<li><p> Ocultar o fundo</p></li>
+<li><p> Personalizar o tipo de letra</p></li>
+</ul>
 <p><img src="2.jpeg" width="600"></p>
 <p><img src="3.jpeg" width="600"></p>
 <p><img src="4.jpeg" width="600"></p>
 <hr />
-<h2 id="仕様"> Especificações.</h2>
-<h3 id="価格"> Preço.</h3>
-<p> Grátis</p>
+<h2 id="仕様"> Especificações</h2>
+<h3 id="価格"> Preço</h3>
+<p> Gratuito</p>
 <h3 id="app-store-リンク"> Ligação à App Store</h3>
 <p> https://apps.apple.com/app/id6476141176</p>
 <!--
