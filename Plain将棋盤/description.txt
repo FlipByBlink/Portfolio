@@ -1,1 +1,1 @@
-駒を自由に動かせるただの将棋盤です。iPhone、iPad、Mac、Apple Watch、Apple TV向けアプリ。SharePlay対応。
+駒を自由に動かせるただの将棋盤です。iPhone、iPad、Mac、Apple Watch、Apple TV、Apple Vision Pro向けアプリ。SharePlay対応。

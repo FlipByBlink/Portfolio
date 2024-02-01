@@ -16,7 +16,7 @@ _最もプレーンな将棋盤アプリ_
 
 概要
 ----------
-駒を自由に動かせるただの将棋盤です。iPhone、iPad、Mac、Apple Watch、Apple TV向けアプリ。
+駒を自由に動かせるただの将棋盤です。iPhone、iPad、Mac、Apple Watch、Apple TV、Apple Vision Pro向けアプリ。
 
 駒は自由に動きます。任意の駒を消したり増やしたりできます。
 
@@ -36,7 +36,7 @@ iPhone同士を近付けてボタンを1回押すだけでSharePlayを始める�
 <img src="SharePlay600w.png" width="300">
 
 ### マルチプラットフォーム対応
-iPhone、iPad、Apple Watch、Mac、Apple TVに対応。
+iPhone、iPad、Apple Watch、Mac、Apple TV、Apple Vision Proに対応。
 
 局面はiCloudによって端末間で同期されます。
 
@@ -65,6 +65,8 @@ iPhone、iPad、Apple Watch、Mac、Apple TVに対応。
 </div>
 
 <img src="menu1200w.png" width="600">
+
+<img src="visionOS.jpg" width="600">
 
 * * *
 
