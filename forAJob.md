@@ -11,7 +11,7 @@ iPhoneを中心にAppleプラットフォーム向けにアプリを制作して
 
 ### Plain将棋盤
 
-iPhone / iPad / Mac / Apple TV / Apple Watch 向け
+iPhone / iPad / Mac / Apple TV / Apple Watch / Apple Vision Pro 向け
 
 OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ
 
@@ -19,7 +19,7 @@ OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋
 
 SwiftUIのポテンシャルを最大限活かす様に実装。SharePlayにも対応。
 
-各プラットフォームに対してそれぞれ最適化を行った上で、全てのAppleプラットフォームへリリース。Apple Vision Pro対応予定。
+各プラットフォームに対してそれぞれ最適化を行った上で、全てのAppleプラットフォームへリリース。
 
 主要フレームワーク: SwiftUI, GroupActivities
 
@@ -126,6 +126,46 @@ iPhone / iPad 向け
 [__AppStoreリンク__](https://apps.apple.com/app/id1444571751)
 
 [PRページリンク](FlipByBlink/ja)
+
+* * *
+
+<img src="HandsWidth/icon.png" width="50">
+
+### HandsWidth
+
+Apple Vision Pro 向け
+
+両手で距離を測定できるアプリ
+
+<img src="HandsWidth/top1200w.png" width="250">
+
+Apple Vision Pro発売日の2024/02/02に同時にリリースした。
+
+主要フレームワーク: ARKit, RealityKit, SwiftUI
+
+[__AppStoreリンク__](https://apps.apple.com/app/id6475769879)
+
+[PRページリンク](HandsWidth/ja)
+
+* * *
+
+<img src="SpatialClock/icon.png" width="50">
+
+### SpatialClock
+
+Apple Vision Pro 向け
+
+空間コンピューティング用の置き時計アプリ
+
+<img src="SpatialClock/top1200w.png" width="250">
+
+Apple Vision Pro発売日の2024/02/02に同時にリリースした。
+
+主要フレームワーク: RealityKit, SwiftUI
+
+[__AppStoreリンク__](https://apps.apple.com/app/id6476141176)
+
+[PRページリンク](SpatialClock/ja)
 
 * * *
 
