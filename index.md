@@ -143,6 +143,26 @@ __LockInNote__
 
 * * *
 
+<img src="HandsWidth/icon.png" width="50">
+
+__HandsWidth__
+
+両手で距離を測定するアプリ
+
+<img src="HandsWidth/top1280w.jpg" width="500">
+
+* * *
+
+<img src="SpatialClock/icon.png" width="50">
+
+__SpatialClock__
+
+空間コンピューティング用の置き時計アプリ
+
+<img src="SpatialClock/top1200w.png" width="500">
+
+* * *
+
 <img src="FadeInAlarm/icon.png" width="50">
 
 __FadeInAlarm__

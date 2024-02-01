@@ -137,7 +137,7 @@ Apple Vision Pro 向け
 
 両手で距離を測定できるアプリ
 
-<img src="HandsWidth/top1200w.png" width="250">
+<img src="HandsWidth/top1280w.jng" width="250">
 
 Apple Vision Pro発売日の2024/02/02に同時にリリースした。
 
