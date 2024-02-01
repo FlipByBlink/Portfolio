@@ -1,0 +1,33 @@
+<h1 translate="no">
+HandsWidth
+</h1>
+<p><em>Intuitive App zur beidhändigen Messung von Entfernungsobjekten.</em></p>
+<p> Für Apple Vision Pro.</p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id6475769879" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1280w.jpg" width="600"></p>
+<h2 id="概要"> Überblick.</h2>
+<p> Intuitives Messen von Entfernungen mit beiden Händen!</p>
+<p> Zeigt den Abstand zwischen den Spitzen der Zeigefinger beider Hände an.</p>
+<p> Einheiten-Optionen.</p>
+<p> Zentimeter (cm)</p>
+<p> Meter (m)</p>
+<p> Zoll (in)</p>
+<p> Fuß (ft)</p>
+<p> Yard (yd)</p>
+<p> Zusätzliche Funktionen</p>
+<p> Indirektes Tippen auf den Zeiger, um die Position zu fixieren.</p>
+<p><img src="screenshot1280w2.jpg" width="600"></p>
+<p><img src="screenshot1280w3.jpg" width="600"></p>
+<hr />
+<h2 id="仕様"> Spezifikationen</h2>
+<h3 id="価格"> Preis</h3>
+<p> Kostenfrei</p>
+<h3 id="app-store-リンク"> App Store Link</h3>
+<p> https://apps.apple.com/app/id6475769879</p>
+<!--
+<a href="https://apps.apple.com/app/id6475769879" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>
+-->

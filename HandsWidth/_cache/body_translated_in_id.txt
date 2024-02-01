@@ -1,0 +1,33 @@
+<h1 translate="no">
+HandsWidth
+</h1>
+<p><em>Aplikasi pengukur jarak dua tangan yang intuitif untuk mengukur objek.</em></p>
+<p> Untuk Apple Vision Pro.</p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id6475769879" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1280w.jpg" width="600"></p>
+<h2 id="概要"> Ikhtisar.</h2>
+<p> Mengukur jarak secara intuitif dengan menggunakan kedua tangan!</p>
+<p> Menampilkan jarak antara ujung jari telunjuk kedua tangan.</p>
+<p> Pilihan unit.</p>
+<p> Sentimeter (cm)</p>
+<p> Meter (m)</p>
+<p> Inci (in)</p>
+<p> Kaki (ft)</p>
+<p> Halaman (yd)</p>
+<p> Fungsi tambahan</p>
+<p> Ketuk tidak langsung pada penunjuk untuk memperbaiki posisi.</p>
+<p><img src="screenshot1280w2.jpg" width="600"></p>
+<p><img src="screenshot1280w3.jpg" width="600"></p>
+<hr />
+<h2 id="仕様"> Spesifikasi</h2>
+<h3 id="価格"> Harga</h3>
+<p> Gratis</p>
+<h3 id="app-store-リンク"> Tautan App Store</h3>
+<p> https://apps.apple.com/app/id6475769879</p>
+<!--
+<a href="https://apps.apple.com/app/id6475769879" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>
+-->

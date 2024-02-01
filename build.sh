@@ -39,3 +39,4 @@ translate MemorizeWidget
 translate LockInNote
 translate FlipByBlink
 translate SpatialClock
+translate HandsWidth

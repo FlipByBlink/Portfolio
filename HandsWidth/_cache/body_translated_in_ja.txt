@@ -1,0 +1,33 @@
+<h1 translate="no">
+HandsWidth
+</h1>
+<p><em>両手で距離を直感的に測る物差しアプリ。</em></p>
+<p>Apple Vision Pro向け。</p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id6475769879" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1280w.jpg" width="600"></p>
+<h2 id="概要">概要</h2>
+<p>両手を使って直感的に距離を測定！</p>
+<p>両手の人差し指の先端同士の距離を表示します。</p>
+<p>単位オプション</p>
+<p>・センチメートル(cm)</p>
+<p>・メートル(m)</p>
+<p>・インチ(in)</p>
+<p>・フィート(ft)</p>
+<p>・ヤード(yd)</p>
+<p>おまけ機能</p>
+<p>・ポインターを間接タップして位置を固定する</p>
+<p><img src="screenshot1280w2.jpg" width="600"></p>
+<p><img src="screenshot1280w3.jpg" width="600"></p>
+<hr />
+<h2 id="仕様">仕様</h2>
+<h3 id="価格">価格</h3>
+<p>無料</p>
+<h3 id="app-store-リンク">App Store リンク</h3>
+<p>https://apps.apple.com/app/id6475769879</p>
+<!--
+<a href="https://apps.apple.com/app/id6475769879" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>
+-->

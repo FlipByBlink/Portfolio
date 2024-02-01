@@ -1,0 +1,33 @@
+<h1 translate="no">
+HandsWidth
+</h1>
+<p><em>直观的双手距离测量物体应用程序。</em></p>
+<p>适用于 Apple Vision Pro。</p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id6475769879" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1280w.jpg" width="600"></p>
+<h2 id="概要">概述。</h2>
+<p>使用双手直观地测量距离！</p>
+<p>显示双手食指指尖之间的距离。</p>
+<p>单位选项。</p>
+<p>厘米 (cm)</p>
+<p>米 (m)</p>
+<p>英寸 (in)</p>
+<p>英尺 (ft)</p>
+<p>码 (yd)</p>
+<p>额外功能</p>
+<p>间接点击指针固定位置。</p>
+<p><img src="screenshot1280w2.jpg" width="600"></p>
+<p><img src="screenshot1280w3.jpg" width="600"></p>
+<hr />
+<h2 id="仕様">规格</h2>
+<h3 id="価格">价格</h3>
+<p>免费</p>
+<h3 id="app-store-リンク">应用程序商店链接</h3>
+<p>https://apps.apple.com/app/id6475769879</p>
+<!--
+<a href="https://apps.apple.com/app/id6475769879" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>
+-->
