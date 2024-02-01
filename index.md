@@ -147,7 +147,7 @@ __LockInNote__
 
 __HandsWidth__
 
-両手で距離を測定するアプリ
+両手で距離を測定するアプリ。 Measure the distance between both hands intuitively.
 
 <img src="HandsWidth/top1280w.jpg" width="500">
 
@@ -169,7 +169,7 @@ __HandsWidth__
 
 __SpatialClock__
 
-空間コンピューティング用の置き時計アプリ
+空間コンピューティング用の置き時計アプリ。 Clock app for Spatial Computing.
 
 <img src="SpatialClock/top1200w.png" width="500">
 
