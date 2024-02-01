@@ -1,0 +1,28 @@
+<h1 translate="no">
+SpatialClock
+</h1>
+<p><em>Додаток для просторових обчислень.</em></p>
+<p> Для Apple Vision Pro.</p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id6476141176" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="1.jpeg" width="600"></p>
+<h2 id="概要"> Огляд.</h2>
+<p> Настільний годинник для спільних просторів.</p>
+<p> Простий дизайн.</p>
+<p> Легка вага.</p>
+<p> Опції - Приховати "дату" - Показати "рік" - Приховати "день тижня" - Показати "секунди" - Приховати фон - Налаштувати шрифт.</p>
+<p><img src="2.jpeg" width="600"></p>
+<p><img src="3.jpeg" width="600"></p>
+<p><img src="4.jpeg" width="600"></p>
+<hr />
+<h2 id="仕様"> Характеристики.</h2>
+<h3 id="価格"> Ціна.</h3>
+<p> Безкоштовно</p>
+<h3 id="app-store-リンク"> Посилання на App Store</h3>
+<p> https://apps.apple.com/app/id6476141176</p>
+<!--
+<a href="https://apps.apple.com/app/id6476141176" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>
+-->

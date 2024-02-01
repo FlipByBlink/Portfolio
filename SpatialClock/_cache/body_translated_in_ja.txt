@@ -1,0 +1,29 @@
+<h1 translate="no">
+SpatialClock
+</h1>
+<p><em>空間コンピューティング用の置き時計アプリ。</em></p>
+<p>Apple Vision Pro向け。</p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id6476141176" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="1.jpeg" width="600"></p>
+<h2 id="概要">概要</h2>
+<p>共有スペース向けの置き時計です。</p>
+<p>シンプルなデザイン。</p>
+<p>軽量。</p>
+<p>オプション - 「日付」を隠す - 「年」を表示 - 「曜日」を隠す -
+「秒」を表示 - 背景を隠す - フォントをカスタマイズ</p>
+<p><img src="2.jpeg" width="600"></p>
+<p><img src="3.jpeg" width="600"></p>
+<p><img src="4.jpeg" width="600"></p>
+<hr />
+<h2 id="仕様">仕様</h2>
+<h3 id="価格">価格</h3>
+<p>無料</p>
+<h3 id="app-store-リンク">App Store リンク</h3>
+<p>https://apps.apple.com/app/id6476141176</p>
+<!--
+<a href="https://apps.apple.com/app/id6476141176" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>
+-->

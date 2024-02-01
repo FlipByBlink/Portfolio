@@ -1,0 +1,28 @@
+<h1 translate="no">
+SpatialClock
+</h1>
+<p><em>Aplicação de relógio de lugar para computação espacial.</em></p>
+<p> Para Apple Vision Pro.</p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id6476141176" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="1.jpeg" width="600"></p>
+<h2 id="概要"> Descrição geral.</h2>
+<p> Um relógio de mesa para espaços partilhados.</p>
+<p> Design simples.</p>
+<p> Leve.</p>
+<p> Opções - Ocultar a 'data' - Mostrar o 'ano' - Ocultar o 'dia da semana' - Mostrar os 'segundos' - Ocultar o fundo - Personalizar o tipo de letra.</p>
+<p><img src="2.jpeg" width="600"></p>
+<p><img src="3.jpeg" width="600"></p>
+<p><img src="4.jpeg" width="600"></p>
+<hr />
+<h2 id="仕様"> Especificações.</h2>
+<h3 id="価格"> Preço.</h3>
+<p> Grátis</p>
+<h3 id="app-store-リンク"> Ligação à App Store</h3>
+<p> https://apps.apple.com/app/id6476141176</p>
+<!--
+<a href="https://apps.apple.com/app/id6476141176" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>
+-->

@@ -1,0 +1,28 @@
+<h1 translate="no">
+SpatialClock
+</h1>
+<p><em>공간 컴퓨팅을 위한 탁상용 시계 앱.</em></p>
+<p> Apple Vision Pro용.</p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id6476141176" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="1.jpeg" width="600"></p>
+<h2 id="概要"> 개요</h2>
+<p> 공유 공간을 위한 탁상용 시계입니다.</p>
+<p> 심플한 디자인.</p>
+<p> 가벼운 무게.</p>
+<p> 옵션 - "날짜" 숨기기 - "연도" 표시 - "요일" 숨기기 - "초" 표시 - 배경 숨기기 - 글꼴 사용자 지정</p>
+<p><img src="2.jpeg" width="600"></p>
+<p><img src="3.jpeg" width="600"></p>
+<p><img src="4.jpeg" width="600"></p>
+<hr />
+<h2 id="仕様"> 제품 사양</h2>
+<h3 id="価格"> 가격</h3>
+<p> 무료</p>
+<h3 id="app-store-リンク"> App Store 링크</h3>
+<p> https://apps.apple.com/app/id6476141176</p>
+<!--
+<a href="https://apps.apple.com/app/id6476141176" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>
+-->
