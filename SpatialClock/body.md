@@ -4,7 +4,7 @@ published: false
 
 <h1 translate="no">SpatialClock</h1>
 
-_SpatialClock_
+_空間コンピューティング用の置き時計アプリ。_
 
 <img src="icon.png" width="80">
 
@@ -16,7 +16,17 @@ _SpatialClock_
 
 概要
 ----------
+共有スペース向けの置き時計です。
 
+シンプルなデザインで軽量。
+
+オプション
+- 日付を隠す
+- 年を表示
+- 曜日を隠す
+- 秒を表示
+- 背景を隠す
+- フォントをカスタマイズ
 
 * * *
 
