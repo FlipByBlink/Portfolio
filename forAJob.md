@@ -139,7 +139,7 @@ Apple Vision Pro 向け
 
 <img src="HandsWidth/top1280w.jng" width="250">
 
-Apple Vision Pro発売日の2024/02/02に同時にリリースした。
+Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
 
 主要フレームワーク: ARKit, RealityKit, SwiftUI
 
@@ -159,7 +159,7 @@ Apple Vision Pro 向け
 
 <img src="SpatialClock/top1200w.png" width="250">
 
-Apple Vision Pro発売日の2024/02/02に同時にリリースした。
+Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
 
 主要フレームワーク: RealityKit, SwiftUI
 

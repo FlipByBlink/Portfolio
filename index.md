@@ -151,6 +151,18 @@ __HandsWidth__
 
 <img src="HandsWidth/top1280w.jpg" width="500">
 
+[日本語(native)](HandsWidth/ja)
+[English](HandsWidth/en)
+[Indonesia](HandsWidth/id)
+[Español](HandsWidth/es)
+[Deutsch](HandsWidth/de)
+[Français](HandsWidth/fr)
+[Português](HandsWidth/pt)
+[Русский](HandsWidth/ru)
+[中文](HandsWidth/zh)
+[Українська](HandsWidth/uk)
+[한국어](HandsWidth/ko)
+
 * * *
 
 <img src="SpatialClock/icon.png" width="50">
@@ -160,6 +172,18 @@ __SpatialClock__
 空間コンピューティング用の置き時計アプリ
 
 <img src="SpatialClock/top1200w.png" width="500">
+
+[日本語(native)](SpatialClock/ja)
+[English](SpatialClock/en)
+[Indonesia](SpatialClock/id)
+[Español](SpatialClock/es)
+[Deutsch](SpatialClock/de)
+[Français](SpatialClock/fr)
+[Português](SpatialClock/pt)
+[Русский](SpatialClock/ru)
+[中文](SpatialClock/zh)
+[Українська](SpatialClock/uk)
+[한국어](SpatialClock/ko)
 
 * * *
 
@@ -182,3 +206,26 @@ __FadeInAlarm__
 [中文](FadeInAlarm/zh)
 [Українська](FadeInAlarm/uk)
 [한국어](FadeInAlarm/ko)
+
+
+<!--
+<img src="?/icon.png" width="50">
+
+__?__
+
+?
+
+<img src="?/top1200w.png" width="500">
+
+[日本語(native)](/ja)
+[English](/en)
+[Indonesia](/id)
+[Español](/es)
+[Deutsch](/de)
+[Français](/fr)
+[Português](/pt)
+[Русский](/ru)
+[中文](/zh)
+[Українська](/uk)
+[한국어](/ko)
+-->
