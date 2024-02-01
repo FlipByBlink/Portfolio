@@ -135,9 +135,9 @@ iPhone / iPad 向け
 
 Apple Vision Pro 向け
 
-両手で距離を測定できるアプリ
+両手で距離を直感的に測定できる物差しアプリ
 
-<img src="HandsWidth/top1280w.jng" width="250">
+<img src="HandsWidth/top1280w.jpg" width="400">
 
 Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
 
@@ -149,7 +149,7 @@ Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
 
 * * *
 
-<img src="SpatialClock/icon.png" width="50">
+<img src="SpatialClock/icon.png" width="60">
 
 ### SpatialClock
 
@@ -157,7 +157,7 @@ Apple Vision Pro 向け
 
 空間コンピューティング用の置き時計アプリ
 
-<img src="SpatialClock/top1200w.png" width="250">
+<img src="SpatialClock/top1200w.png" width="400">
 
 Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
 
@@ -169,7 +169,7 @@ Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
 
 * * *
 
-<img src="FadeInAlarm/icon.png" width="50">
+<img src="FadeInAlarm/icon.png" width="60">
 
 ### FadeInAlarm
 
