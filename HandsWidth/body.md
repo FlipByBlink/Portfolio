@@ -30,6 +30,10 @@ _両手で距離を直感的に測るアプリ_
 おまけ機能
 ・ポインターを間接タップして位置を固定する
 
+<img src="screenshot1280w2.jpg" width="600">
+
+<img src="screenshot1280w3.jpg" width="600">
+
 * * *
 
 仕様
