@@ -1,1 +1,1 @@
-Un tablero de ajedrez en el que puedes mover las piezas libremente. aplicación para iPhone, iPad, Mac, Apple Watch y Apple TV, compatible con SharePlay.
+Un tablero de ajedrez en el que puedes mover las piezas libremente; aplicaciones para iPhone, iPad, Mac, Apple Watch, Apple TV y Apple Vision Pro; compatibilidad con SharePlay.

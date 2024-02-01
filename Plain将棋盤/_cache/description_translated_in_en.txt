@@ -1,1 +1,1 @@
-This app is for iPhone, iPad, Mac, Apple Watch, Apple TV, and SharePlay.
+SharePlay support for iPhone, iPad, Mac, Apple Watch, Apple TV, and Apple Vision Pro.

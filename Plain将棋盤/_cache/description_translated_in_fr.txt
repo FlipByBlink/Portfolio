@@ -1,1 +1,1 @@
-Un simple échiquier où vous pouvez déplacer les pièces librement. application pour iPhone, iPad, Mac, Apple Watch et Apple TV, compatible avec SharePlay.
+Un simple échiquier où vous pouvez déplacer les pièces librement ; applications pour iPhone, iPad, Mac, Apple Watch, Apple TV et Apple Vision Pro ; prise en charge de SharePlay.

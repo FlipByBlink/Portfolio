@@ -1,1 +1,1 @@
-Einfach ein Schachbrett, auf dem du die Figuren frei bewegen kannst. App für iPhone, iPad, Mac, Apple Watch und Apple TV, SharePlay kompatibel.
+Einfach ein Schachbrett, auf dem Sie die Figuren frei bewegen können; Apps für iPhone, iPad, Mac, Apple Watch, Apple TV und Apple Vision Pro; SharePlay-Unterstützung.

@@ -7,9 +7,9 @@ Plain将棋盤 / Plain Shogi Board
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Overview</h2>
-<p> Just a Shogi board where you can move the pieces freely. app for iPhone, iPad, Mac, Apple Watch and Apple TV.</p>
+<p> Just a Shogi board with freely movable pieces, for iPhone, iPad, Mac, Apple Watch, Apple TV, Apple Vision Pro.</p>
 <p> Pieces move freely. You can delete or add any piece.</p>
-<p> You can customize the font of the pieces and change the English notation to make your own Shogi board.</p>
+<p> Customize the font of the pieces and change the English notation to make your own Shogi board.</p>
 <p><img src="screenshot1200w.png" width="600"></p>
 <h3 id="shareplay"> SharePlay</h3>
 <p> Multiple players can operate one Shogi board at the same time.</p>
@@ -18,7 +18,7 @@ Plain将棋盤 / Plain Shogi Board
 <p> You can also start SharePlay by simply placing two iPhones close to each other and pressing a button once. (Limited to iPhones with iOS 17 or later)</p>
 <p><img src="SharePlay600w.png" width="300"></p>
 <h3 id="マルチプラットフォーム対応"> Multi-platform support</h3>
-<p> Compatible with iPhone, iPad, Apple Watch, Mac, and Apple TV.</p>
+<p> Compatible with iPhone, iPad, Apple Watch, Mac, Apple TV, and Apple Vision Pro.</p>
 <p> Stations are synchronized between devices via iCloud.</p>
 <h3 id="書き出し読み込み"> Export/Import</h3>
 <p> Export the board as an image.</p>
@@ -39,6 +39,7 @@ Plain将棋盤 / Plain Shogi Board
 ☖</code></pre>
 </div>
 <p><img src="menu1200w.png" width="600"></p>
+<p><img src="visionOS.jpg" width="600"></p>
 <hr />
 <p><a href="https://apps.apple.com/app/id1620268476" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

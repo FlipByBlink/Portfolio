@@ -1,1 +1,1 @@
-Просто шахматная доска, на которой можно свободно передвигать фигуры. приложение для iPhone, iPad, Mac, Apple Watch и Apple TV, совместимое с SharePlay.
+Просто шахматная доска, на которой можно свободно передвигать фигуры; приложения для iPhone, iPad, Mac, Apple Watch, Apple TV и Apple Vision Pro; поддержка SharePlay.

@@ -1,1 +1,1 @@
-只是一个可以自由移动棋子的棋盘。适用于iPhone、iPad、Mac、Apple Watch和Apple TV的应用程序，兼容SharePlay。
+就是一个可以自由移动棋子的棋盘；iPhone、iPad、Mac、Apple Watch、Apple TV 和 Apple Vision Pro 应用程序；支持 SharePlay。

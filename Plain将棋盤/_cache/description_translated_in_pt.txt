@@ -1,1 +1,1 @@
-Apenas um tabuleiro de xadrez onde pode mover as peças livremente. Aplicação para iPhone, iPad, Mac, Apple Watch e Apple TV, compatível com SharePlay.
+Apenas um tabuleiro de xadrez onde pode mover as peças livremente; aplicações para iPhone, iPad, Mac, Apple Watch, Apple TV e Apple Vision Pro; suporte SharePlay.
