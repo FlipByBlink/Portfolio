@@ -161,7 +161,7 @@ Apple Vision Pro 向け
 
 Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
 
-主要フレームワーク: RealityKit, SwiftUI
+主要フレームワーク: SwiftUI
 
 [__AppStoreリンク__](https://apps.apple.com/app/id6476141176)
 
