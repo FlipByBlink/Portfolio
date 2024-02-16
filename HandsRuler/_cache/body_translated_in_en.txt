@@ -1,5 +1,5 @@
 <h1 translate="no">
-HandsWidth
+HandsRuler
 </h1>
 <p><em>An intuitive measure app for measuring distances with both hands.</em></p>
 <p> For Apple Vision Pro.</p>
