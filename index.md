@@ -143,25 +143,25 @@ __LockInNote__
 
 * * *
 
-<img src="HandsWidth/icon.png" width="50">
+<img src="HandsRuler/icon.png" width="50">
 
-__HandsWidth__
+__HandsRuler__
 
 両手で距離を直感的に測定する物差しアプリ。 Measure the distance between both hands intuitively.
 
-<img src="HandsWidth/top1280w.jpg" width="500">
+<img src="HandsRuler/top1280w.jpg" width="500">
 
-[日本語(native)](HandsWidth/ja)
-[English](HandsWidth/en)
-[Indonesia](HandsWidth/id)
-[Español](HandsWidth/es)
-[Deutsch](HandsWidth/de)
-[Français](HandsWidth/fr)
-[Português](HandsWidth/pt)
-[Русский](HandsWidth/ru)
-[中文](HandsWidth/zh)
-[Українська](HandsWidth/uk)
-[한국어](HandsWidth/ko)
+[日本語(native)](HandsRuler/ja)
+[English](HandsRuler/en)
+[Indonesia](HandsRuler/id)
+[Español](HandsRuler/es)
+[Deutsch](HandsRuler/de)
+[Français](HandsRuler/fr)
+[Português](HandsRuler/pt)
+[Русский](HandsRuler/ru)
+[中文](HandsRuler/zh)
+[Українська](HandsRuler/uk)
+[한국어](HandsRuler/ko)
 
 * * *
 

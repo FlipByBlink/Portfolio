@@ -2,7 +2,7 @@
 published: false
 ---
 
-<h1 translate="no">HandsWidth</h1>
+<h1 translate="no">HandsRuler</h1>
 
 _両手で距離を直感的に測る物差しアプリ。_
 

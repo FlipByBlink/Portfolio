@@ -129,15 +129,15 @@ iPhone / iPad 向け
 
 * * *
 
-<img src="HandsWidth/icon.png" width="60">
+<img src="HandsRuler/icon.png" width="60">
 
-### HandsWidth
+### HandsRuler
 
 Apple Vision Pro 向け
 
 両手で距離を直感的に測定できる物差しアプリ
 
-<img src="HandsWidth/top1280w.jpg" width="400">
+<img src="HandsRuler/top1280w.jpg" width="400">
 
 Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
 
@@ -145,7 +145,7 @@ Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
 
 [__AppStoreリンク__](https://apps.apple.com/app/id6475769879)
 
-[PRページリンク](HandsWidth/ja)
+[PRページリンク](HandsRuler/ja)
 
 * * *
 
