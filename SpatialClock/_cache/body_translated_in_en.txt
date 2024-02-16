@@ -17,17 +17,20 @@ SpatialClock
 <li><p> Hide "Day of the week</p></li>
 <li><p> Show seconds</p></li>
 <li><p> Hide background</p></li>
-<li><p> Customize font</p></li>
+<li><p> Customize Font</p></li>
+<li><p> Display "Battery Information</p></li>
 </ul>
 <p><img src="2.jpeg" width="600"></p>
 <p><img src="3.jpeg" width="600"></p>
 <p><img src="4.jpeg" width="600"></p>
+<p><img src="5.jpeg" width="600"></p>
 <hr />
 <h2 id="仕様"> Specifications</h2>
 <h3 id="価格"> Price</h3>
 <p> Free of charge</p>
 <h3 id="app-store-リンク"> App Store Link</h3>
-<p> https://apps.apple.com/app/id6476141176</p>
+<p><a
+href="https://apps.apple.com/app/id6476141176">https://apps.apple.com/app/id6476141176</a></p>
 <!--
 <a href="https://apps.apple.com/app/id6476141176" target="blank">
   <img src="qr-code.jpg" width="160">

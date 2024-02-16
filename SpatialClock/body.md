@@ -36,11 +36,15 @@ Apple Vision Pro向け。
 
 - フォントをカスタマイズ
 
+- 「バッテリー情報」を表示
+
 <img src="2.jpeg" width="600">
 
 <img src="3.jpeg" width="600">
 
 <img src="4.jpeg" width="600">
+
+<img src="5.jpeg" width="600">
 
 * * *
 
