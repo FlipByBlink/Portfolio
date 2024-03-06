@@ -9,15 +9,15 @@ iPhone中心にAppleプラットフォーム向けアプリを開発/公開し�
 
 <img src="Plain将棋盤/icon.png" width="50">
 
-### Plain将棋盤(全てのAppleプラットフォーム)
+### Plain将棋盤(全Appleプラットフォーム対応)
 
 OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ
 
 <img src="Plain将棋盤/top1200w.png" width="500">
 
-SwiftUIのポテンシャルを最大限活かしました。SharePlayにも対応しています。
+SwiftUIのポテンシャルを最大限活かしました。各プラットフォームに対してそれぞれ最適化をしっかり行った上で、全てのAppleプラットフォーム(iPhone/iPad/Mac/Apple TV/Apple Watch/Apple Vision Pro)へリリースしました。
 
-各プラットフォームに対してそれぞれ最適化を行った上で、全てのAppleプラットフォーム(iPhone/iPad/Mac/Apple TV/Apple Watch/Apple Vision Pro)へリリースしました。
+SharePlayに対応しているので遠くの友人とも近くの家族とも将棋盤を囲むことが出来ます。
 
 主要フレームワーク: SwiftUI, GroupActivities
 
@@ -55,9 +55,8 @@ SwiftUIのポテンシャルを最大限活かしました。SharePlayにも対�
 
 まばたきだけで読書ができる電子書籍アプリ
 
-<p><img src="FlipByBlink/preview.gif" class="except_printing"></p>
-
 <img src="FlipByBlink/top1200w.png" width="250">
+<img src="FlipByBlink/preview.gif" class="except_printing">
 
 大学の卒業研究で取り組んだアイデアです。2019年1月に初版をリリースしました。
 
@@ -78,7 +77,6 @@ SwiftUIのポテンシャルを最大限活かしました。SharePlayにも対�
 iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ
 
 <img src="AssetJA/TapWeight/top1200w.png" width="400">
-
 <img src="TapWeight/apple_health_badge.svg">
 
 同コンセプトのアプリはAppStoreに沢山ありますが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負しています。
