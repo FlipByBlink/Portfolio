@@ -9,9 +9,7 @@ iPhone中心にAppleプラットフォーム向けアプリを開発/公開し�
 
 <img src="Plain将棋盤/icon.png" width="50">
 
-### Plain将棋盤
-
-iPhone / iPad / Mac / Apple TV / Apple Watch / Apple Vision Pro 向け
+### Plain将棋盤(全てのAppleプラットフォーム)
 
 OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ
 
@@ -19,7 +17,7 @@ OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋
 
 SwiftUIのポテンシャルを最大限活かしました。SharePlayにも対応しています。
 
-各プラットフォームに対してそれぞれ最適化を行った上で、全てのAppleプラットフォームへリリースしました。
+各プラットフォームに対してそれぞれ最適化を行った上で、全てのAppleプラットフォーム(iPhone/iPad/Mac/Apple TV/Apple Watch/Apple Vision Pro)へリリースしました。
 
 主要フレームワーク: SwiftUI, GroupActivities
 
@@ -31,35 +29,9 @@ SwiftUIのポテンシャルを最大限活かしました。SharePlayにも対�
 
 * * *
 
-<img src="TapWeight/icon.png" width="50">
-
-### 体重登録
-
-iPhone / iPad / Apple Watch 向け
-
-iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ
-
-<img src="AssetJA/TapWeight/top1200w.png" width="400">
-
-<img src="TapWeight/apple_health_badge.svg">
-
-同コンセプトのアプリはAppStoreに沢山ありますが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負しています。
-
-主要フレームワーク: SwiftUI, HealthKit
-
-[__App Storeリンク__](https://apps.apple.com/app/id1624159721)
-
-[PRページリンク](TapWeight/ja)
-
-[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/TapWeight)
-
-* * *
-
 <img src="MemorizeWidget/icon.png" width="50">
 
-### 暗記ウィジェット
-
-iPhone / iPad / Mac / Apple Watch 向け
+### 暗記ウィジェット(iPhone/iPad/Mac/Apple Watch)
 
 ホーム画面やロック画面、デスクトップを暗記帳にするアプリ
 
@@ -79,9 +51,7 @@ iPhone / iPad / Mac / Apple Watch 向け
 
 <img src="FlipByBlink/icon.png" width="50">
 
-### FlipByBlink
-
-iPhone / iPad 向け
+### FlipByBlink(iPhone/iPad)
 
 まばたきだけで読書ができる電子書籍アプリ
 
@@ -101,11 +71,31 @@ iPhone / iPad 向け
 
 * * *
 
+<img src="TapWeight/icon.png" width="50">
+
+### 体重登録(iPhone/iPad/Apple Watch)
+
+iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ
+
+<img src="AssetJA/TapWeight/top1200w.png" width="400">
+
+<img src="TapWeight/apple_health_badge.svg">
+
+同コンセプトのアプリはAppStoreに沢山ありますが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負しています。
+
+主要フレームワーク: SwiftUI, HealthKit
+
+[__App Storeリンク__](https://apps.apple.com/app/id1624159721)
+
+[PRページリンク](TapWeight/ja)
+
+[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/TapWeight)
+
+* * *
+
 <img src="HandsRuler/icon.png" width="60">
 
-### HandsRuler
-
-Apple Vision Pro 向け
+### HandsRuler(Apple Vision Pro)
 
 両手で距離を直感的に測定できる物差しアプリ
 
