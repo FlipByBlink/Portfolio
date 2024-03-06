@@ -23,7 +23,7 @@ SwiftUIのポテンシャルを最大限活かしました。SharePlayにも対�
 
 主要フレームワーク: SwiftUI, GroupActivities
 
-[__AppStoreリンク__](https://apps.apple.com/app/id1620268476)
+[__App Storeリンク__](https://apps.apple.com/app/id1620268476)
 
 [PRページリンク](Plain将棋盤/ja)
 
@@ -47,7 +47,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 主要フレームワーク: SwiftUI, HealthKit
 
-[__AppStoreリンク__](https://apps.apple.com/app/id1624159721)
+[__App Storeリンク__](https://apps.apple.com/app/id1624159721)
 
 [PRページリンク](TapWeight/ja)
 
@@ -69,7 +69,7 @@ iPhone / iPad / Mac / Apple Watch 向け
 
 主要フレームワーク: SwiftUI, WidgetKit
 
-[__AppStoreリンク__](https://apps.apple.com/app/id1644276262)
+[__App Storeリンク__](https://apps.apple.com/app/id1644276262)
 
 [PRページリンク](MemorizeWidget/ja)
 
@@ -93,7 +93,7 @@ iPhone / iPad 向け
 
 主要フレームワーク: UIKit, Auto Layout, ARKit, PDFKit
 
-[__AppStoreリンク__](https://apps.apple.com/app/id1444571751)
+[__App Storeリンク__](https://apps.apple.com/app/id1444571751)
 
 [PRページリンク](FlipByBlink/ja)
 
@@ -115,7 +115,7 @@ Apple Vision Pro発売日の2024年2月2日に同時にリリースしました�
 
 主要フレームワーク: ARKit, RealityKit, SwiftUI
 
-[__AppStoreリンク__](https://apps.apple.com/app/id6475769879)
+[__App Storeリンク__](https://apps.apple.com/app/id6475769879)
 
 [PRページリンク](HandsRuler/ja)
 
@@ -131,7 +131,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 <img src="AssetJA/TapTemperature/top1200w.png" width="200">
 <img src="TapWeight/apple_health_badge.svg">
 
-[__AppStoreリンク__](https://apps.apple.com/app/id1626760566) [PRページリンク](TapTemperature/ja)
+[__App Storeリンク__](https://apps.apple.com/app/id1626760566) [PRページリンク](TapTemperature/ja)
 
 * * *
 
@@ -142,7 +142,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="LockInNote/top1200w.png" width="200">
 
-[__AppStoreリンク__](https://apps.apple.com/app/id1644879340) [PRページリンク](LockInNote/ja)
+[__App Storeリンク__](https://apps.apple.com/app/id1644879340) [PRページリンク](LockInNote/ja)
 
 * * *
 
@@ -153,7 +153,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="AssetJA/FadeInAlarm/top1200w.png" width="200">
 
-[__AppStoreリンク__](https://apps.apple.com/app/id1465336070) [PRページリンク](FadeInAlarm/ja)
+[__App Storeリンク__](https://apps.apple.com/app/id1465336070) [PRページリンク](FadeInAlarm/ja)
 
 * * *
 
@@ -164,7 +164,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="SpatialClock/top1200w.png" width="200">
 
-[__AppStoreリンク__](https://apps.apple.com/app/id6476141176) [PRページリンク](SpatialClock/ja)
+[__App Storeリンク__](https://apps.apple.com/app/id6476141176) [PRページリンク](SpatialClock/ja)
 
 * * *
 
