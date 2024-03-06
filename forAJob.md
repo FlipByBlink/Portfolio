@@ -122,7 +122,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 <img src="AssetJA/TapTemperature/top1200w.png" width="200">
 <img src="TapWeight/apple_health_badge.svg">
 
-[__App Storeリンク__](https://apps.apple.com/app/id1626760566)
+[App Storeリンク](https://apps.apple.com/app/id1626760566)
 
 * * *
 
@@ -133,7 +133,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="LockInNote/top1200w.png" width="200">
 
-[__App Storeリンク__](https://apps.apple.com/app/id1644879340)
+[App Storeリンク](https://apps.apple.com/app/id1644879340)
 
 * * *
 
@@ -144,7 +144,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="AssetJA/FadeInAlarm/top1200w.png" width="200">
 
-[__App Storeリンク__](https://apps.apple.com/app/id1465336070)
+[App Storeリンク](https://apps.apple.com/app/id1465336070)
 
 * * *
 
@@ -155,7 +155,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="SpatialClock/top1200w.png" width="200">
 
-[__App Storeリンク__](https://apps.apple.com/app/id6476141176)
+[App Storeリンク](https://apps.apple.com/app/id6476141176)
 
 * * *
 
