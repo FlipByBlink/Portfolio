@@ -9,13 +9,15 @@ iPhone中心にAppleプラットフォーム向けアプリを開発/公開し�
 
 <img src="Plain将棋盤/icon.png" width="50">
 
-### Plain将棋盤(Appleプラットフォーム全て対応)
+### Plain将棋盤
+
+__全てのAppleプラットフォームに対応__
 
 OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ
 
 <img src="Plain将棋盤/top1200w.png" width="500">
 
-SwiftUIのポテンシャルを最大限活かしました。各プラットフォームに対してそれぞれ最適化をしっかり行った上で、全てのAppleプラットフォーム(iPhone/iPad/Mac/Apple TV/Apple Watch/Apple Vision Pro)へリリースしました。
+SwiftUIのポテンシャルを最大限活かしました。各プラットフォームに対してそれぞれしっかりと最適化を行った上で、全てのAppleプラットフォーム(iPhone/iPad/Mac/Apple TV/Apple Watch/Apple Vision Pro)へリリースしました。
 
 SharePlayに対応しているので遠くの友人とも近くの家族とも将棋盤を囲むことが出来ます。
 
@@ -80,7 +82,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 <img src="AssetJA/TapWeight/top1200w.png" width="400">
 <img src="TapWeight/apple_health_badge.svg">
 
-同コンセプトのアプリはAppStoreに沢山ありますが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負しています。
+同コンセプトのアプリはApp Storeに多くありますが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負しています。
 
 主要フレームワーク: SwiftUI, HealthKit
 
@@ -100,7 +102,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="HandsRuler/top1280w.jpg" width="400">
 
-Apple Vision Pro発売日の2024年2月2日に同時にリリースしました。
+Apple Vision Pro発売日である2024年2月2日にリリースしました。
 
 主要フレームワーク: ARKit, RealityKit, SwiftUI
 
@@ -120,7 +122,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 <img src="AssetJA/TapTemperature/top1200w.png" width="200">
 <img src="TapWeight/apple_health_badge.svg">
 
-[__App Storeリンク__](https://apps.apple.com/app/id1626760566) [PRページリンク](TapTemperature/ja)
+[__App Storeリンク__](https://apps.apple.com/app/id1626760566)
 
 * * *
 
@@ -131,7 +133,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="LockInNote/top1200w.png" width="200">
 
-[__App Storeリンク__](https://apps.apple.com/app/id1644879340) [PRページリンク](LockInNote/ja)
+[__App Storeリンク__](https://apps.apple.com/app/id1644879340)
 
 * * *
 
@@ -142,7 +144,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="AssetJA/FadeInAlarm/top1200w.png" width="200">
 
-[__App Storeリンク__](https://apps.apple.com/app/id1465336070) [PRページリンク](FadeInAlarm/ja)
+[__App Storeリンク__](https://apps.apple.com/app/id1465336070)
 
 * * *
 
@@ -153,12 +155,12 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="SpatialClock/top1200w.png" width="200">
 
-[__App Storeリンク__](https://apps.apple.com/app/id6476141176) [PRページリンク](SpatialClock/ja)
+[__App Storeリンク__](https://apps.apple.com/app/id6476141176)
 
 * * *
 
 ## ソースコード公開
-アプリのソースコードは全てGitHub上で公開しています。
+アプリのソースコードはGitHub上で全て公開しています。
 
 [GitHubアカウントページリンク](https://github.com/FlipByBlink)
 
@@ -166,9 +168,11 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 ## 技術ブログ記事
 
-[非日本語圏日本語フォント問題のSwiftUIにおける対処事例(2023年中旬) #Swift - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/c9961f8ba6c366953752)
-
 [「残念な」iPadアプリをわずかな修正で折り合いをつけるテクニック2選](https://zenn.dev/huiygfutfgvjknj/articles/eea68b91b7306c)
+
+[非日本語圏日本語フォント問題、SwiftUIにおける対処事例(2023年中旬) #Swift - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/c9961f8ba6c366953752)
+
+[中華フォントをたった1行で解決するtypesettingLanguage【SwiftUI】 #Swift - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/2e6c3cdec8b2934e9e99)
 
 [iPhoneアプリをiPad対応するノリでMac対応しよう【SwiftUI】 #iOS - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/df8ca3b867b0708226b6)
 
