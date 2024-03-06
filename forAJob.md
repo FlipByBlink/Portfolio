@@ -1,7 +1,7 @@
 ポートフォリオ
 ============
 
-iPhone中心にAppleプラットフォーム向けアプリを開発/公開しています。全ての作業を自分1人で行っています。
+iPhone中心にAppleプラットフォーム向けアプリを開発/公開しています。全作業を自分1人で行っています。
 
 各アプリは無料で利用できます。ぜひ実際にアプリをインストールして触れてみて下さい。
 
@@ -9,7 +9,7 @@ iPhone中心にAppleプラットフォーム向けアプリを開発/公開し�
 
 <img src="Plain将棋盤/icon.png" width="50">
 
-### Plain将棋盤(全Appleプラットフォーム対応)
+### Plain将棋盤(全てのAppleプラットフォームに対応)
 
 OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ
 
@@ -33,7 +33,7 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 ### 暗記ウィジェット(iPhone/iPad/Mac/Apple Watch)
 
-ホーム画面やロック画面、デスクトップを暗記帳にするアプリ
+ホーム画面やロック画面、デスクトップ、文字盤を暗記帳にするアプリ
 
 <img src="AssetJA/MemorizeWidget/top1200w.png" width="500">
 
@@ -55,8 +55,7 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 まばたきだけで読書ができる電子書籍アプリ
 
-<img src="FlipByBlink/top1200w.png" width="250">
-<img src="FlipByBlink/preview.gif" class="except_printing">
+<img src="FlipByBlink/top1200w.png" width="250">  <img src="FlipByBlink/preview.gif" class="except_printing">
 
 大学の卒業研究で取り組んだアイデアです。2019年1月に初版をリリースしました。
 
@@ -160,3 +159,15 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 アプリのソースコードは全てGitHub上で公開しています。
 
 [GitHubアカウントページリンク](https://github.com/FlipByBlink)
+
+* * *
+
+## 技術ブログ記事
+
+[非日本語圏日本語フォント問題のSwiftUIにおける対処事例(2023年中旬) #Swift - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/c9961f8ba6c366953752)
+
+[「残念な」iPadアプリをわずかな修正で折り合いをつけるテクニック2選](https://zenn.dev/huiygfutfgvjknj/articles/eea68b91b7306c)
+
+[iPhoneアプリをiPad対応するノリでMac対応しよう【SwiftUI】 #iOS - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/df8ca3b867b0708226b6)
+
+[Mac Catalystアプリを良い感じにする固有テクニック2(+6)選](https://zenn.dev/huiygfutfgvjknj/articles/67072b942d767c)
