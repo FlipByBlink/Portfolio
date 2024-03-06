@@ -1,7 +1,7 @@
 ポートフォリオ
 ============
 
-iPhoneを中心にAppleプラットフォーム向けにアプリを制作しています。全ての作業を自分1人で行っています。
+iPhoneを中心にAppleプラットフォーム向けにアプリを開発/公開しています。全ての作業を自分1人で行っています。
 
 各アプリは無料で利用できます。ぜひ実際にアプリをインストールして触れてみて下さい。
 
@@ -51,26 +51,6 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 * * *
 
-<img src="TapTemperature/icon.png" width="50">
-
-### 体温登録
-
-iPhone / iPad / Apple Watch 向け
-
-iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリ
-
-<img src="AssetJA/TapTemperature/top1200w.png" width="400">
-
-<img src="TapWeight/apple_health_badge.svg">
-
-主要フレームワーク: SwiftUI, HealthKit
-
-[__AppStoreリンク__](https://apps.apple.com/app/id1626760566)
-
-[PRページリンク](TapTemperature/ja)
-
-* * *
-
 <img src="MemorizeWidget/icon.png" width="50">
 
 ### 暗記ウィジェット
@@ -86,24 +66,6 @@ iPhone / iPad / Mac / Apple Watch 向け
 [__AppStoreリンク__](https://apps.apple.com/app/id1644276262)
 
 [PRページリンク](MemorizeWidget/ja)
-
-* * *
-
-<img src="LockInNote/icon.png" width="50">
-
-### ロックノート
-
-iPhone / iPad / Mac / Apple Watch 向け
-
-「ウィジェット」に特化した超軽量なノートアプリ
-
-<img src="LockInNote/top1200w.png" width="500">
-
-主要フレームワーク: SwiftUI, WidgetKit
-
-[__AppStoreリンク__](https://apps.apple.com/app/id1644879340)
-
-[PRページリンク](LockInNote/ja)
 
 * * *
 
@@ -149,38 +111,46 @@ Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
 
 * * *
 
-<img src="SpatialClock/icon.png" width="60">
+<img src="TapTemperature/icon.png" width="50">
 
-### SpatialClock
+### 体温登録(iPhone/iPad/Apple Watch)
+iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリ
 
-Apple Vision Pro 向け
+<img src="AssetJA/TapTemperature/top1200w.png" width="300">
 
-空間コンピューティング用の置き時計アプリ
+<img src="TapWeight/apple_health_badge.svg">
 
-<img src="SpatialClock/top1200w.png" width="400">
+[__AppStoreリンク__](https://apps.apple.com/app/id1626760566) [PRページリンク](TapTemperature/ja)
 
-Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
+* * *
 
-主要フレームワーク: SwiftUI
+<img src="LockInNote/icon.png" width="50">
 
-[__AppStoreリンク__](https://apps.apple.com/app/id6476141176)
+### ロックノート(iPhone/iPad/Mac/Apple Watch)
+「ウィジェット」に特化した超軽量なノートアプリ
 
-[PRページリンク](SpatialClock/ja)
+<img src="LockInNote/top1200w.png" width="300">
+
+[__AppStoreリンク__](https://apps.apple.com/app/id1644879340) [PRページリンク](LockInNote/ja)
 
 * * *
 
 <img src="FadeInAlarm/icon.png" width="50">
 
-### FadeInAlarm
-
-iPhone / iPad 向け
-
+### FadeInAlarm(iPhone/iPad)
 時間をかけて少しずつ音が大きくなるアラームアプリ
 
-<img src="AssetJA/FadeInAlarm/top1200w.png" width="350">
+<img src="AssetJA/FadeInAlarm/top1200w.png" width="300">
 
-主要フレームワーク: SwiftUI, AVFAudio, MediaPlayer
+[__AppStoreリンク__](https://apps.apple.com/app/id1465336070) [PRページリンク](FadeInAlarm/ja)
 
-[__AppStoreリンク__](https://apps.apple.com/app/id1465336070)
+* * *
 
-[PRページリンク](FadeInAlarm/ja)
+<img src="SpatialClock/icon.png" width="60">
+
+### SpatialClock(Apple Vision Pro)
+空間コンピューティング用の置き時計アプリ
+
+<img src="SpatialClock/top1200w.png" width="300">
+
+[__AppStoreリンク__](https://apps.apple.com/app/id6476141176) [PRページリンク](SpatialClock/ja)
