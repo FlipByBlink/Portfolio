@@ -9,7 +9,7 @@ iPhone中心にAppleプラットフォーム向けアプリを開発/公開し�
 
 <img src="Plain将棋盤/icon.png" width="50">
 
-### Plain将棋盤(全てのAppleプラットフォームに対応)
+### Plain将棋盤(Appleプラットフォーム全て対応)
 
 OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ
 
@@ -55,7 +55,9 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 まばたきだけで読書ができる電子書籍アプリ
 
-<img src="FlipByBlink/top1200w.png" width="250">  <img src="FlipByBlink/preview.gif" class="except_printing">
+<img src="FlipByBlink/top1200w.png" width="200">
+
+<img src="FlipByBlink/preview.gif" class="except_printing">
 
 大学の卒業研究で取り組んだアイデアです。2019年1月に初版をリリースしました。
 
