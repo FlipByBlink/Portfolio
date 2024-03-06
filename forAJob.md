@@ -1,7 +1,7 @@
 ポートフォリオ
 ============
 
-iPhoneを中心にAppleプラットフォーム向けにアプリを開発/公開しています。全ての作業を自分1人で行っています。
+iPhone中心にAppleプラットフォーム向けアプリを開発/公開しています。全ての作業を自分1人で行っています。
 
 各アプリは無料で利用できます。ぜひ実際にアプリをインストールして触れてみて下さい。
 
@@ -17,9 +17,9 @@ OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋
 
 <img src="Plain将棋盤/top1200w.png" width="500">
 
-SwiftUIのポテンシャルを最大限活かす様に実装。SharePlayにも対応。
+SwiftUIのポテンシャルを最大限活かしました。SharePlayにも対応しています。
 
-各プラットフォームに対してそれぞれ最適化を行った上で、全てのAppleプラットフォームへリリース。
+各プラットフォームに対してそれぞれ最適化を行った上で、全てのAppleプラットフォームへリリースしました。
 
 主要フレームワーク: SwiftUI, GroupActivities
 
@@ -43,7 +43,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="TapWeight/apple_health_badge.svg">
 
-同コンセプトのアプリはAppStoreに沢山ありますが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負。
+同コンセプトのアプリはAppStoreに沢山ありますが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負しています。
 
 主要フレームワーク: SwiftUI, HealthKit
 
@@ -65,7 +65,7 @@ iPhone / iPad / Mac / Apple Watch 向け
 
 <img src="AssetJA/MemorizeWidget/top1200w.png" width="500">
 
-世界中のユーザーから非常に高い評価を得ており、ヘビーユーザーを一定数獲得している。
+世界中のユーザーから非常に高い評価を得ており、ヘビーユーザーを一定数獲得しています。
 
 主要フレームワーク: SwiftUI, WidgetKit
 
@@ -89,7 +89,7 @@ iPhone / iPad 向け
 
 <img src="FlipByBlink/top1200w.png" width="250">
 
-大学の卒業研究で取り組んだアイデア。2019年1月に初版をリリース。
+大学の卒業研究で取り組んだアイデアです。2019年1月に初版をリリースしました。
 
 主要フレームワーク: UIKit, Auto Layout, ARKit, PDFKit
 
@@ -111,7 +111,7 @@ Apple Vision Pro 向け
 
 <img src="HandsRuler/top1280w.jpg" width="400">
 
-Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
+Apple Vision Pro発売日の2024年2月2日に同時にリリースしました。
 
 主要フレームワーク: ARKit, RealityKit, SwiftUI
 
@@ -165,3 +165,10 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 <img src="SpatialClock/top1200w.png" width="200">
 
 [__AppStoreリンク__](https://apps.apple.com/app/id6476141176) [PRページリンク](SpatialClock/ja)
+
+* * *
+
+## ソースコード公開
+アプリのソースコードは全てGitHub上で公開しています。
+
+[GitHubアカウントページリンク](https://github.com/FlipByBlink)
