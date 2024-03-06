@@ -27,6 +27,8 @@ SwiftUIのポテンシャルを最大限活かす様に実装。SharePlayにも�
 
 [PRページリンク](Plain将棋盤/ja)
 
+[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/PlainShogi)
+
 * * *
 
 <img src="TapWeight/icon.png" width="50">
@@ -49,6 +51,8 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 [PRページリンク](TapWeight/ja)
 
+[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/TapWeight)
+
 * * *
 
 <img src="MemorizeWidget/icon.png" width="50">
@@ -61,11 +65,15 @@ iPhone / iPad / Mac / Apple Watch 向け
 
 <img src="AssetJA/MemorizeWidget/top1200w.png" width="500">
 
+世界中のユーザーから非常に高い評価を得ており、ヘビーユーザーを一定数獲得している。
+
 主要フレームワーク: SwiftUI, WidgetKit
 
 [__AppStoreリンク__](https://apps.apple.com/app/id1644276262)
 
 [PRページリンク](MemorizeWidget/ja)
+
+[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/MemorizeWidget)
 
 * * *
 
@@ -89,6 +97,8 @@ iPhone / iPad 向け
 
 [PRページリンク](FlipByBlink/ja)
 
+[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/FlipByBlink_ver3)
+
 * * *
 
 <img src="HandsRuler/icon.png" width="60">
@@ -109,48 +119,49 @@ Apple Vision Pro発売日の2024年2月2日に同時にリリースした。
 
 [PRページリンク](HandsRuler/ja)
 
+[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/HandsRuler)
+
 * * *
 
-<img src="TapTemperature/icon.png" width="50">
+<img src="TapTemperature/icon.png" width="30">
 
-### 体温登録(iPhone/iPad/Apple Watch)
+#### 体温登録(iPhone/iPad/Apple Watch)
 iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体温データを(手動としては)最速で登録するためのアプリ
 
-<img src="AssetJA/TapTemperature/top1200w.png" width="300">
-
+<img src="AssetJA/TapTemperature/top1200w.png" width="200">
 <img src="TapWeight/apple_health_badge.svg">
 
 [__AppStoreリンク__](https://apps.apple.com/app/id1626760566) [PRページリンク](TapTemperature/ja)
 
 * * *
 
-<img src="LockInNote/icon.png" width="50">
+<img src="LockInNote/icon.png" width="30">
 
-### ロックノート(iPhone/iPad/Mac/Apple Watch)
+#### ロックノート(iPhone/iPad/Mac/Apple Watch)
 「ウィジェット」に特化した超軽量なノートアプリ
 
-<img src="LockInNote/top1200w.png" width="300">
+<img src="LockInNote/top1200w.png" width="200">
 
 [__AppStoreリンク__](https://apps.apple.com/app/id1644879340) [PRページリンク](LockInNote/ja)
 
 * * *
 
-<img src="FadeInAlarm/icon.png" width="50">
+<img src="FadeInAlarm/icon.png" width="30">
 
-### FadeInAlarm(iPhone/iPad)
+#### FadeInAlarm(iPhone/iPad)
 時間をかけて少しずつ音が大きくなるアラームアプリ
 
-<img src="AssetJA/FadeInAlarm/top1200w.png" width="300">
+<img src="AssetJA/FadeInAlarm/top1200w.png" width="200">
 
 [__AppStoreリンク__](https://apps.apple.com/app/id1465336070) [PRページリンク](FadeInAlarm/ja)
 
 * * *
 
-<img src="SpatialClock/icon.png" width="60">
+<img src="SpatialClock/icon.png" width="40">
 
-### SpatialClock(Apple Vision Pro)
+#### SpatialClock(Apple Vision Pro)
 空間コンピューティング用の置き時計アプリ
 
-<img src="SpatialClock/top1200w.png" width="300">
+<img src="SpatialClock/top1200w.png" width="200">
 
 [__AppStoreリンク__](https://apps.apple.com/app/id6476141176) [PRページリンク](SpatialClock/ja)
