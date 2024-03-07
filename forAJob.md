@@ -21,6 +21,8 @@ SwiftUIのポテンシャルを最大限活かしました。各プラットフ�
 
 SharePlayに対応しているので遠くの友人とも近くの家族とも将棋盤を囲むことが出来ます。
 
+初版リリース日: 2022年4月21日
+
 主要フレームワーク: SwiftUI, GroupActivities
 
 [__App Storeリンク__](https://apps.apple.com/app/id1620268476)
@@ -41,6 +43,8 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 世界中のユーザーから非常に高い評価を得ており、ヘビーユーザーを一定数獲得しています。
 
+初版リリース日: 2022年9月9日
+
 主要フレームワーク: SwiftUI, WidgetKit
 
 [__App Storeリンク__](https://apps.apple.com/app/id1644276262)
@@ -55,13 +59,15 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 ### FlipByBlink(iPhone/iPad)
 
-まばたきだけで読書ができる電子書籍アプリ
+まばたきだけで読書ができるハンズフリー電子書籍アプリ
 
 <img src="FlipByBlink/top1200w.png" width="200">
 
 <img src="FlipByBlink/preview.gif" class="except_printing">
 
-大学の卒業研究で取り組んだアイデアです。2019年1月に初版をリリースしました。
+大学の卒業研究の成果物です。
+
+初版リリース日: 2019年1月15日
 
 主要フレームワーク: UIKit, Auto Layout, ARKit, PDFKit
 
@@ -84,6 +90,8 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 同コンセプトのアプリはApp Storeに多くありますが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負しています。
 
+初版リリース日: 2022年5月23日
+
 主要フレームワーク: SwiftUI, HealthKit
 
 [__App Storeリンク__](https://apps.apple.com/app/id1624159721)
@@ -102,7 +110,9 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="HandsRuler/top1280w.jpg" width="400">
 
-Apple Vision Pro発売日である2024年2月2日にリリースしました。
+Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。世界で最初にリリースされるアメリカでの発売日に同時リリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
+
+初版リリース日: 2024年2月2日
 
 主要フレームワーク: ARKit, RealityKit, SwiftUI
 
@@ -170,10 +180,10 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 [「残念な」iPadアプリをわずかな修正で折り合いをつけるテクニック2選](https://zenn.dev/huiygfutfgvjknj/articles/eea68b91b7306c)
 
-[非日本語圏日本語フォント問題、SwiftUIにおける対処事例(2023年中旬) #Swift - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/c9961f8ba6c366953752)
+[中華フォントをたった1行で解決するtypesettingLanguage【SwiftUI】 - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/2e6c3cdec8b2934e9e99)
 
-[中華フォントをたった1行で解決するtypesettingLanguage【SwiftUI】 #Swift - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/2e6c3cdec8b2934e9e99)
+[非日本語圏日本語フォント問題、SwiftUIにおける対処事例(2023年中旬) - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/c9961f8ba6c366953752)
 
-[iPhoneアプリをiPad対応するノリでMac対応しよう【SwiftUI】 #iOS - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/df8ca3b867b0708226b6)
+[iPhoneアプリをiPad対応するノリでMac対応しよう【SwiftUI】 - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/df8ca3b867b0708226b6)
 
 [Mac Catalystアプリを良い感じにする固有テクニック2(+6)選](https://zenn.dev/huiygfutfgvjknj/articles/67072b942d767c)
