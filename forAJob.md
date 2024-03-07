@@ -1,7 +1,5 @@
-ポートフォリオ
-============
-氏名: 山下 亮
-
+山下亮のポートフォリオ
+==================
 iPhone中心にAppleプラットフォーム向けアプリを開発/公開しています。全作業を自分1人で行っています。
 
 各アプリは無料で利用できます。ぜひ実際にアプリをインストールして触れてみて下さい。
@@ -11,7 +9,6 @@ iPhone中心にAppleプラットフォーム向けアプリを開発/公開し�
 <img src="Plain将棋盤/icon.png" width="50">
 
 ### Plain将棋盤
-
 __全てのAppleプラットフォームに対応__
 
 OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ
@@ -37,7 +34,6 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 <img src="MemorizeWidget/icon.png" width="50">
 
 ### 暗記ウィジェット(iPhone/iPad/Mac/Apple Watch)
-
 ホーム画面やロック画面、デスクトップ、文字盤を暗記帳にするアプリ
 
 <img src="AssetJA/MemorizeWidget/top1200w.png" width="500">
@@ -59,7 +55,6 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 <img src="FlipByBlink/icon.png" width="50">
 
 ### FlipByBlink(iPhone/iPad)
-
 まばたきだけで読書ができるハンズフリー電子書籍アプリ
 
 <img src="FlipByBlink/top1200w.png" width="200">
@@ -83,7 +78,6 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 <img src="TapWeight/icon.png" width="50">
 
 ### 体重登録(iPhone/iPad/Apple Watch)
-
 iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ
 
 <img src="AssetJA/TapWeight/top1200w.png" width="400">
@@ -106,7 +100,6 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 <img src="HandsRuler/icon.png" width="60">
 
 ### HandsRuler(Apple Vision Pro)
-
 両手で距離を直感的に測定できる物差しアプリ
 
 <img src="HandsRuler/top1280w.jpg" width="400">
@@ -178,7 +171,6 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 * * *
 
 ## 技術ブログ記事
-
 [「残念な」iPadアプリをわずかな修正で折り合いをつけるテクニック2選](https://zenn.dev/huiygfutfgvjknj/articles/eea68b91b7306c)
 
 [中華フォントをたった1行で解決するtypesettingLanguage【SwiftUI】 - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/2e6c3cdec8b2934e9e99)
