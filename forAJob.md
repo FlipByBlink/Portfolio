@@ -100,11 +100,11 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 <img src="HandsRuler/icon.png" width="60">
 
 ### HandsRuler(Apple Vision Pro)
-両手で距離を直感的に測定できる物差しアプリ
+両手で距離を直感的に測定できるAR物差しアプリ
 
 <img src="HandsRuler/top1280w.jpg" width="400">
 
-Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。世界で最初にリリースされるアメリカでの発売日に同時リリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
+Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。世界で最初にリリースされるアメリカでの発売と同時リリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
 
 初版リリース: 2024年2月2日
 
