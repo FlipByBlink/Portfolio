@@ -67,6 +67,8 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 主要フレームワーク: UIKit, Auto Layout, ARKit, PDFKit
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MSFDIr26nvw?si=3Ebj2sH2dnQVcZiq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [__App Storeリンク__](https://apps.apple.com/app/id1444571751)
 
 [PRページリンク](FlipByBlink/ja)
