@@ -59,17 +59,15 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 <img src="FlipByBlink/top1200w.png" width="200">
 
-<img src="FlipByBlink/preview.gif" class="except_printing">
+<video controls width="400" src="FlipByBlink/concept video.mp4">
+      Sorry, your browser doesn't support embedded videos.
+</video>
 
 大学の卒業研究の成果物です。
 
 初版リリース: 2019年1月15日
 
 主要フレームワーク: UIKit, Auto Layout, ARKit, PDFKit
-
-<video controls width="400" src="FlipByBlink/concept video.mp4">
-      Sorry, your browser doesn't support embedded videos.
-</video>
 
 [__App Storeリンク__](https://apps.apple.com/app/id1444571751)
 
