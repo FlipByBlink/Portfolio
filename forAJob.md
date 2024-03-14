@@ -59,7 +59,7 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 <img src="FlipByBlink/top1200w.png" width="200">
 
-<video controls width="400" src="FlipByBlink/concept video.mp4">
+<video controls width="540" src="FlipByBlink/concept video.mp4">
       Sorry, your browser doesn't support embedded videos.
 </video>
 
