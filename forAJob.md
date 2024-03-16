@@ -118,10 +118,10 @@ Appleにとって新たなカテゴリのデバイスであるApple Vision Pro�
 
 [ソースコードリンク(GitHub)](https://github.com/FlipByBlink/HandsRuler)
 
-__レビュー動画①__
+__レビュー動画① (4:30 - 5:24)__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4CunoApkfF4?si=eQE4Si6nzAOm3wHz&amp;start=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-__レビュー動画②__
+__レビュー動画② (4:07 - 5:40)__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AMPNzEvqaEE?si=NrvdmGuptIldac-5&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * * *
