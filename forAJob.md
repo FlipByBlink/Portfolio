@@ -112,15 +112,17 @@ Appleにとって新たなカテゴリのデバイスであるApple Vision Pro�
 
 主要フレームワーク: ARKit, RealityKit, SwiftUI
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4CunoApkfF4?si=eQE4Si6nzAOm3wHz&amp;start=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AMPNzEvqaEE?si=NrvdmGuptIldac-5&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 [__App Storeリンク__](https://apps.apple.com/app/id6475769879)
 
 [PRページリンク](HandsRuler/ja)
 
 [ソースコードリンク(GitHub)](https://github.com/FlipByBlink/HandsRuler)
+
+__レビュー動画①__
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4CunoApkfF4?si=eQE4Si6nzAOm3wHz&amp;start=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+__レビュー動画②__
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AMPNzEvqaEE?si=NrvdmGuptIldac-5&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * * *
 
