@@ -165,6 +165,30 @@ __HandsRuler__
 
 * * *
 
+<img src="PersonaChess/icon.png" width="50">
+
+__PersonaChess__
+
+空間SharePlayに対応したチェスアプリ。 Chess app with Spatial SharePlay.
+
+<img src="PersonaChess/top1280w.jpg" width="200">
+
+[App Storeリンク](https://apps.apple.com/app/id6482994319)
+
+* * *
+
+<img src="PersonaReversi/icon.png" width="50">
+
+__PersonaReversi__
+
+空間SharePlayに対応したリバーシアプリ。 Reversi app with Spatial SharePlay.
+
+<img src="PersonaReversi/top1280w.jpg" width="200">
+
+[App Storeリンク](https://apps.apple.com/app/id6480587175)
+
+* * *
+
 <img src="SpatialClock/icon.png" width="50">
 
 __SpatialClock__
