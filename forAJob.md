@@ -180,7 +180,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 #### PersonaReversi(Apple Vision Pro)
 空間SharePlayに対応したリバーシアプリ
 
-<img src="PersonaReversi/top1280w.png" width="200">
+<img src="PersonaReversi/top1280w.jpg" width="200">
 
 [App Storeリンク](https://apps.apple.com/app/id6480587175)
 
