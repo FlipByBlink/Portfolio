@@ -164,6 +164,28 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 * * *
 
+<img src="PersonaChess/icon.png" width="40">
+
+#### PersonaChess(Apple Vision Pro)
+空間SharePlayに対応したチェスアプリ
+
+<img src="PersonaChess/top1280w.jpg" width="200">
+
+[App Storeリンク](https://apps.apple.com/app/id6482994319)
+
+* * *
+
+<img src="PersonaReversi/icon.png" width="40">
+
+#### PersonaReversi(Apple Vision Pro)
+空間SharePlayに対応したリバーシアプリ
+
+<img src="PersonaReversi/top1280w.png" width="200">
+
+[App Storeリンク](https://apps.apple.com/app/id6480587175)
+
+* * *
+
 <img src="SpatialClock/icon.png" width="40">
 
 #### SpatialClock(Apple Vision Pro)
