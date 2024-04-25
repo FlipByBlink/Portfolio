@@ -215,6 +215,10 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 [Mac Catalystアプリを良い感じにする固有テクニック2(+6)選](https://zenn.dev/huiygfutfgvjknj/articles/67072b942d767c)
 
+[visionOSアプリをApp Storeで公開する方法 #AppStore - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/63f88dd739537f35c7fa)
+
+[Appleが教えてくれないvisionOSアプリ開発に必要な知識集(2024春)](https://zenn.dev/huiygfutfgvjknj/articles/134014540063e9)
+
 * * *
 
-更新日: 2024/03/07
+更新日: 2024/04/26
