@@ -34,13 +34,21 @@ Apple Vision Pro向け。
 
 - ヤード(yd)
 
+- フィート&インチ
+
 ### おまけ機能
 
-- ポインターを間接タップして位置を固定する
+- ポインターを間接タップして位置を固定。
+
+- 複数測定機能。
+
+- ログ機能。
 
 <img src="screenshot1280w2.jpg" width="600">
 
 <img src="screenshot1280w3.jpg" width="600">
+
+<img src="screenshot1280w4.jpg" width="600">
 
 * * *
 
