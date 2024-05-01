@@ -1,4 +1,42 @@
 <h1 translate="no">
 HandsRuler
-</h1><p><em>Aplikasi alat ukur yang intuitif untuk mengukur jarak dengan kedua tangan.</em></p> <p> Untuk Apple Vision Pro.</p> <p><img src="icon.png" width="80"></p> <p><a href="https://apps.apple.com/app/id6475769879" target="blank">
-<img src="appstore_badge.svg"> </a></p> <p><img src="top1280w.jpg" width="600"></p> <h2 id="概要"> Gambaran umum.</h2> <p> Pengukuran jarak secara intuitif dengan menggunakan kedua tangan!</p> <p> Menampilkan jarak antara ujung jari telunjuk kedua tangan.</p> <h3 id="単位オプション"> Opsi satuan</h3><ul><li><p> Sentimeter (cm)</p></li> <li><p> Meter (m)</p></li> <li><p> Inci (in)</p></li> <li><p> Kaki (ft)</p></li> <li><p> Halaman (yd)</p></li><li><p> kaki
+</h1>
+<p><em>Aplikasi pengukur jarak dua tangan yang intuitif untuk mengukur objek.</em></p>
+<p> Untuk Apple Vision Pro.</p>
+<p><img src="icon.png" width="80"></p>
+<p><a href="https://apps.apple.com/app/id6475769879" target="blank">
+<img src="appstore_badge.svg"> </a></p>
+<p><img src="top1280w.jpg" width="600"></p>
+<h2 id="概要"> Ikhtisar.</h2>
+<p> Mengukur jarak secara intuitif dengan menggunakan kedua tangan!</p>
+<p> Menampilkan jarak antara ujung jari telunjuk kedua tangan.</p>
+<h3 id="単位オプション"> Pilihan unit</h3>
+<ul>
+<li><p> Sentimeter (cm)</p></li>
+<li><p> Meter (m)</p></li>
+<li><p> Inci (in)</p></li>
+<li><p> Kaki (ft)</p></li>
+<li><p> Halaman (yd)</p></li>
+<li><p> Kaki dan inci</p></li>
+</ul>
+<h3 id="おまけ機能"> Fungsi tambahan</h3>
+<ul>
+<li><p> Ketuk tidak langsung pada penunjuk untuk memperbaiki posisi.</p></li>
+<li><p> Beberapa fungsi pengukuran.</p></li>
+<li><p> Fungsi penebangan.</p></li>
+</ul>
+<p><img src="screenshot1280w2.jpg" width="600"></p>
+<p><img src="screenshot1280w3.jpg" width="600"></p>
+<p><img src="screenshot1280w4.jpg" width="600"></p>
+<hr />
+<h2 id="仕様"> Spesifikasi.</h2>
+<h3 id="価格"> Harga</h3>
+<p> Gratis</p>
+<h3 id="app-store-リンク"> Tautan App Store</h3>
+<p><a
+href="https://apps.apple.com/app/id6475769879">https://apps.apple.com/app/id6475769879</a></p>
+<!--
+<a href="https://apps.apple.com/app/id6475769879" target="blank">
+  <img src="qr-code.jpg" width="160">
+</a>
+-->
