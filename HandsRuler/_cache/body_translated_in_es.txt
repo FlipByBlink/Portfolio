@@ -1,38 +1,4 @@
 <h1 translate="no">
 HandsRuler
-</h1>
-<p><em>Aplicación intuitiva para medir distancias con dos manos.</em></p>
-<p> Para Apple Vision Pro.</p>
-<p><img src="icon.png" width="80"></p>
-<p><a href="https://apps.apple.com/app/id6475769879" target="blank">
-<img src="appstore_badge.svg"> </a></p>
-<p><img src="top1280w.jpg" width="600"></p>
-<h2 id="概要"> Visión general.</h2>
-<p> Mide distancias de forma intuitiva utilizando ambas manos.</p>
-<p> Muestra la distancia entre las puntas de los dedos índices de ambas manos.</p>
-<h3 id="単位オプション"> Opciones de unidades</h3>
-<ul>
-<li><p> Centímetros (cm)</p></li>
-<li><p> Metros (m)</p></li>
-<li><p> Pulgada (in)</p></li>
-<li><p> Pies (ft)</p></li>
-<li><p> Yarda (yd)</p></li>
-</ul>
-<h3 id="おまけ機能"> Funciones adicionales</h3>
-<ul>
-<li> Toque indirecto en el puntero para fijar la posición</li>
-</ul>
-<p><img src="screenshot1280w2.jpg" width="600"></p>
-<p><img src="screenshot1280w3.jpg" width="600"></p>
-<hr />
-<h2 id="仕様"> Especificaciones</h2>
-<h3 id="価格"> Precio</h3>
-<p> Gratis</p>
-<h3 id="app-store-リンク"> Enlace App Store</h3>
-<p><a
-href="https://apps.apple.com/app/id6475769879">https://apps.apple.com/app/id6475769879</a></p>
-<!--
-<a href="https://apps.apple.com/app/id6475769879" target="blank">
-  <img src="qr-code.jpg" width="160">
-</a>
--->
+</h1><p><em>Una aplicación intuitiva para medir distancias con ambas manos.</em></p> <p> Para Apple Vision Pro.</p> <p><img src="icon.png" width="80"></p> <p><a href="https://apps.apple.com/app/id6475769879" target="blank">
+<img src="appstore_badge.svg"> </a></p> <p><img src="top1280w.jpg" width="600"></p> <h2 id="概要"> Visión general.</h2> <p> Medición intuitiva de distancias con las dos manos</p> <p> Muestra la distancia entre las puntas de los dedos índice de ambas manos.</p> <h3 id="単位オプション"> Opciones de unidades</h3><ul><li><p> Centímetros (cm)</p></li> <li><p> Metros (m)</p></li> <li><p> Pulgada (in)</p></li> <li><p> Pie (ft)</p></li> <li><p> Yarda (yd)</p></li><li><p> pies

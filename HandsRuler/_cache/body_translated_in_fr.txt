@@ -1,38 +1,4 @@
 <h1 translate="no">
 HandsRuler
-</h1>
-<p><em>Application intuitive de mesure de distance à deux mains.</em></p>
-<p> Pour Apple Vision Pro.</p>
-<p><img src="icon.png" width="80"></p>
-<p><a href="https://apps.apple.com/app/id6475769879" target="blank">
-<img src="appstore_badge.svg"> </a></p>
-<p><img src="top1280w.jpg" width="600"></p>
-<h2 id="概要"> Vue d'ensemble.</h2>
-<p> Mesure intuitivement les distances en utilisant les deux mains !</p>
-<p> Affiche la distance entre les extrémités des index des deux mains.</p>
-<h3 id="単位オプション"> Options d'unités</h3>
-<ul>
-<li><p> Centimètre (cm)</p></li>
-<li><p> Mètre (m)</p></li>
-<li><p> Pouce (in)</p></li>
-<li><p> Pieds (ft)</p></li>
-<li><p> Yard (yd)</p></li>
-</ul>
-<h3 id="おまけ機能"> Fonctions supplémentaires</h3>
-<ul>
-<li> Tape indirecte sur l'aiguille pour fixer la position</li>
-</ul>
-<p><img src="screenshot1280w2.jpg" width="600"></p>
-<p><img src="screenshot1280w3.jpg" width="600"></p>
-<hr />
-<h2 id="仕様"> Caractéristiques techniques</h2>
-<h3 id="価格"> Prix</h3>
-<p> Gratuit</p>
-<h3 id="app-store-リンク"> Lien App Store</h3>
-<p><a
-href="https://apps.apple.com/app/id6475769879">https://apps.apple.com/app/id6475769879</a></p>
-<!--
-<a href="https://apps.apple.com/app/id6475769879" target="blank">
-  <img src="qr-code.jpg" width="160">
-</a>
--->
+</h1><p><em>Une application intuitive d'instrument de mesure pour mesurer les distances avec les deux mains.</em></p> <p> Pour Apple Vision Pro.</p> <p><img src="icon.png" width="80"></p> <p><a href="https://apps.apple.com/app/id6475769879" target="blank">
+<img src="appstore_badge.svg"> </a></p> <p><img src="top1280w.jpg" width="600"></p> <h2 id="概要"> Vue d'ensemble.</h2> <p> Mesure intuitive de la distance à l'aide des deux mains !</p> <p> Affiche la distance entre les extrémités des index des deux mains.</p> <h3 id="単位オプション"> Options d'unité</h3><ul><li><p> Centimètres (cm)</p></li> <li><p> Mètre (m)</p></li> <li><p> Pouce (in)</p></li> <li><p> Pied (ft)</p></li> <li><p> Yard (yd)</p></li><li><p> pieds
