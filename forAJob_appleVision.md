@@ -66,7 +66,7 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 * * *
 
-<img src="PersonaChess/icon.png" width="50">
+<img src="PersonaChess/icon.png" width="60">
 
 #### PersonaChess(Apple Vision Pro)
 空間SharePlayに対応したチェスアプリ
@@ -77,7 +77,7 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 * * *
 
-<img src="PersonaReversi/icon.png" width="50">
+<img src="PersonaReversi/icon.png" width="60">
 
 #### PersonaReversi(Apple Vision Pro)
 空間SharePlayに対応したリバーシアプリ
@@ -110,7 +110,7 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
       Sorry, your browser doesn't support embedded videos.
 </video>
 
-[__App Storeリンク__](https://apps.apple.com/app/id1444571751)
+[App Storeリンク](https://apps.apple.com/app/id1444571751)
 
 * * *
 
@@ -122,7 +122,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 <img src="AssetJA/TapWeight/top1200w.png" width="200">
 <img src="TapWeight/apple_health_badge.svg">
 
-[__App Storeリンク__](https://apps.apple.com/app/id1624159721)
+[App Storeリンク](https://apps.apple.com/app/id1624159721)
 
 * * *
 
@@ -145,7 +145,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="AssetJA/MemorizeWidget/top1200w.png" width="200">
 
-[__App Storeリンク__](https://apps.apple.com/app/id1644276262)
+[App Storeリンク](https://apps.apple.com/app/id1644276262)
 
 * * *
 
@@ -197,4 +197,4 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 * * *
 
-更新日: 2024/04/26
+更新日: 2024/05/04
