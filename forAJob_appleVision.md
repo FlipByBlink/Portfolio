@@ -13,7 +13,7 @@ iPhone中心にAppleプラットフォーム向けアプリを開発/公開し�
 
 <img src="HandsRuler/top1280w.jpg" width="400">
 
-Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。アメリカでのApple Vision Proの発売と同時にリリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
+Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。アメリカでのApple Vision Pro発売と同時にリリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
 
 初版リリース: 2024年2月2日
 
@@ -29,6 +29,8 @@ Appleにとって新たなカテゴリのデバイスであるApple Vision Pro�
 
 __レビュー動画１ (4:30 - 5:24)__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4CunoApkfF4?si=eQE4Si6nzAOm3wHz&amp;start=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
 
 __レビュー動画２ (4:07 - 5:40)__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AMPNzEvqaEE?si=NrvdmGuptIldac-5&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -177,6 +179,12 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 * * *
 
 ## 技術ブログ記事
+[Apple Vision Proアプリを発売日に3つリリースした話 #Swift - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/90d6e1b312d36cf085c4)
+
+[visionOSアプリをApp Storeで公開する方法 #AppStore - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/63f88dd739537f35c7fa)
+
+[Appleが教えてくれないvisionOSアプリ開発に必要な知識集(2024春)](https://zenn.dev/huiygfutfgvjknj/articles/134014540063e9)
+
 [「残念な」iPadアプリをわずかな修正で折り合いをつけるテクニック2選](https://zenn.dev/huiygfutfgvjknj/articles/eea68b91b7306c)
 
 [中華フォントをたった1行で解決するtypesettingLanguage【SwiftUI】 - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/2e6c3cdec8b2934e9e99)
@@ -186,10 +194,6 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 [iPhoneアプリをiPad対応するノリでMac対応しよう【SwiftUI】 - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/df8ca3b867b0708226b6)
 
 [Mac Catalystアプリを良い感じにする固有テクニック2(+6)選](https://zenn.dev/huiygfutfgvjknj/articles/67072b942d767c)
-
-[visionOSアプリをApp Storeで公開する方法 #AppStore - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/63f88dd739537f35c7fa)
-
-[Appleが教えてくれないvisionOSアプリ開発に必要な知識集(2024春)](https://zenn.dev/huiygfutfgvjknj/articles/134014540063e9)
 
 * * *
 
