@@ -13,7 +13,7 @@ __全てのAppleプラットフォームに対応__
 
 OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ
 
-<img src="Plain将棋盤/top1200w.png" width="500">
+<img src="Plain将棋盤/top1200w.png" width="560">
 
 SwiftUIのポテンシャルを最大限活かしました。各プラットフォームに対してそれぞれしっかりと最適化を行った上で、全てのAppleプラットフォーム(iPhone/iPad/Mac/Apple TV/Apple Watch/Apple Vision Pro)へリリースしました。
 
@@ -36,7 +36,7 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 ### 暗記ウィジェット(iPhone/iPad/Mac/Apple Watch)
 ホーム画面やロック画面、デスクトップ、文字盤を暗記帳にするアプリ
 
-<img src="AssetJA/MemorizeWidget/top1200w.png" width="500">
+<img src="AssetJA/MemorizeWidget/top1200w.png" width="560">
 
 世界中のユーザーから非常に高い評価を得ており、ヘビーユーザーを一定数獲得しています。
 
@@ -59,7 +59,7 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 <img src="FlipByBlink/top1200w.png" width="200">
 
-<video controls width="420" src="FlipByBlink/concept video.mp4">
+<video controls width="560" src="FlipByBlink/concept video.mp4">
       Sorry, your browser doesn't support embedded videos.
 </video>
 
@@ -77,34 +77,12 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 * * *
 
-<img src="TapWeight/icon.png" width="50">
-
-### 体重登録(iPhone/iPad/Apple Watch)
-iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ
-
-<img src="AssetJA/TapWeight/top1200w.png" width="400">
-<img src="TapWeight/apple_health_badge.svg">
-
-同コンセプトのアプリはApp Storeに多く存在するが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負しています。
-
-初版リリース: 2022年5月23日
-
-主要フレームワーク: SwiftUI, HealthKit
-
-[__App Storeリンク__](https://apps.apple.com/app/id1624159721)
-
-[PRページリンク](TapWeight/ja)
-
-[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/TapWeight)
-
-* * *
-
 <img src="HandsRuler/icon.png" width="60">
 
 ### HandsRuler(Apple Vision Pro)
 両手で距離を直感的に測定できるAR物差しアプリ
 
-<img src="HandsRuler/top1280w.jpg" width="400">
+<img src="HandsRuler/top1280w.jpg" width="560">
 
 Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。世界で最初にリリースされるアメリカでの発売と同時リリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
 
@@ -120,13 +98,35 @@ Appleにとって新たなカテゴリのデバイスであるApple Vision Pro�
 
 <br>
 
-__レビュー動画① (4:30 - 5:24)__
+__レビュー動画１ (4:30 - 5:24)__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4CunoApkfF4?si=eQE4Si6nzAOm3wHz&amp;start=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br>
 
-__レビュー動画② (4:07 - 5:40)__
+__レビュー動画２ (4:07 - 5:40)__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AMPNzEvqaEE?si=NrvdmGuptIldac-5&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+* * *
+
+<img src="TapWeight/icon.png" width="50">
+
+### 体重登録(iPhone/iPad/Apple Watch)
+iPhoneやiPadにプリインストールされている「ヘルスケア」アプリに体重データを(手動としては)最速で登録するためのアプリ
+
+<img src="AssetJA/TapWeight/top1200w.png" width="560">
+<img src="TapWeight/apple_health_badge.svg">
+
+同コンセプトのアプリはApp Storeに多く存在するが、本アプリは同コンセプトにおいて機能面/デザイン面でベストであると自負しています。
+
+初版リリース: 2022年5月23日
+
+主要フレームワーク: SwiftUI, HealthKit
+
+[__App Storeリンク__](https://apps.apple.com/app/id1624159721)
+
+[PRページリンク](TapWeight/ja)
+
+[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/TapWeight)
 
 * * *
 
@@ -214,6 +214,8 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 [iPhoneアプリをiPad対応するノリでMac対応しよう【SwiftUI】 - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/df8ca3b867b0708226b6)
 
 [Mac Catalystアプリを良い感じにする固有テクニック2(+6)選](https://zenn.dev/huiygfutfgvjknj/articles/67072b942d767c)
+
+[Apple Vision Proアプリを発売日に3つリリースした話 #Swift - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/90d6e1b312d36cf085c4)
 
 [visionOSアプリをApp Storeで公開する方法 #AppStore - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/63f88dd739537f35c7fa)
 
