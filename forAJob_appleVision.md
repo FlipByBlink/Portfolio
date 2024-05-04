@@ -27,13 +27,13 @@ Appleにとって新たなカテゴリのデバイスであるApple Vision Pro�
 
 <br>
 
-__レビュー動画① (4:30 - 5:24)__
+__レビュー動画１ (4:30 - 5:24)__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4CunoApkfF4?si=eQE4Si6nzAOm3wHz&amp;start=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<br>
-
-__レビュー動画② (4:07 - 5:40)__
+__レビュー動画２ (4:07 - 5:40)__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AMPNzEvqaEE?si=NrvdmGuptIldac-5&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
 
 * * *
 
@@ -64,23 +64,23 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 * * *
 
-<img src="PersonaChess/icon.png" width="40">
+<img src="PersonaChess/icon.png" width="50">
 
 #### PersonaChess(Apple Vision Pro)
 空間SharePlayに対応したチェスアプリ
 
-<img src="PersonaChess/top1280w.jpg" width="200">
+<img src="PersonaChess/top1280w.jpg" width="500">
 
 [App Storeリンク](https://apps.apple.com/app/id6482994319)
 
 * * *
 
-<img src="PersonaReversi/icon.png" width="40">
+<img src="PersonaReversi/icon.png" width="50">
 
 #### PersonaReversi(Apple Vision Pro)
 空間SharePlayに対応したリバーシアプリ
 
-<img src="PersonaReversi/top1280w.jpg" width="200">
+<img src="PersonaReversi/top1280w.jpg" width="500">
 
 [App Storeリンク](https://apps.apple.com/app/id6480587175)
 
