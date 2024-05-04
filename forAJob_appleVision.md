@@ -11,7 +11,7 @@ iPhone中心にAppleプラットフォーム向けアプリを開発/公開し�
 ### HandsRuler(Apple Vision Pro)
 両手で距離を直感的に測定できるAR物差しアプリ
 
-<img src="HandsRuler/top1280w.jpg" width="400">
+<img src="HandsRuler/top1280w.jpg" width="560">
 
 Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。アメリカでのApple Vision Pro発売と同時にリリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
 
@@ -46,9 +46,9 @@ __全てのAppleプラットフォームに対応__
 
 OS標準デザインに準拠したシンプルかつ軽量で多機能な将棋盤アプリ
 
-<img src="Plain将棋盤/top1200w.png" width="500">
+<img src="Plain将棋盤/top1200w.png" width="560">
 
-<img src="Plain将棋盤/visionOS.jpg" width="500">
+<img src="Plain将棋盤/visionOS.jpg" width="560">
 
 SwiftUIのポテンシャルを最大限活かしました。各プラットフォームに対してそれぞれしっかりと最適化を行った上で、全てのAppleプラットフォーム(iPhone/iPad/Mac/Apple TV/Apple Watch/Apple Vision Pro)へリリースしました。
 
@@ -71,7 +71,7 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 #### PersonaChess(Apple Vision Pro)
 空間SharePlayに対応したチェスアプリ
 
-<img src="PersonaChess/top1280w.jpg" width="500">
+<img src="PersonaChess/top1280w.jpg" width="560">
 
 [App Storeリンク](https://apps.apple.com/app/id6482994319)
 
@@ -82,7 +82,7 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 #### PersonaReversi(Apple Vision Pro)
 空間SharePlayに対応したリバーシアプリ
 
-<img src="PersonaReversi/top1280w.jpg" width="500">
+<img src="PersonaReversi/top1280w.jpg" width="560">
 
 [App Storeリンク](https://apps.apple.com/app/id6480587175)
 
