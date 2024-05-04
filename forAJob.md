@@ -52,6 +52,39 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 * * *
 
+<img src="HandsRuler/icon.png" width="60">
+
+### HandsRuler(Apple Vision Pro)
+両手で距離を直感的に測定できるAR物差しアプリ
+
+<img src="HandsRuler/top1280w.jpg" width="560">
+
+Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。Apple Vision Pro発売と同時リリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
+
+初版リリース: 2024年2月2日
+
+主要フレームワーク: ARKit, RealityKit, SwiftUI
+
+[__App Storeリンク__](https://apps.apple.com/app/id6475769879)
+
+[PRページリンク](HandsRuler/ja)
+
+[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/HandsRuler)
+
+<br>
+
+__レビュー動画１ (4:30 - 5:24)__
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4CunoApkfF4?si=eQE4Si6nzAOm3wHz&amp;start=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+__レビュー動画２ (4:07 - 5:40)__
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AMPNzEvqaEE?si=NrvdmGuptIldac-5&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+* * *
+
 <img src="FlipByBlink/icon.png" width="50">
 
 ### FlipByBlink(iPhone/iPad)
@@ -74,37 +107,6 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 [PRページリンク](FlipByBlink/ja)
 
 [ソースコードリンク(GitHub)](https://github.com/FlipByBlink/FlipByBlink_ver3)
-
-* * *
-
-<img src="HandsRuler/icon.png" width="60">
-
-### HandsRuler(Apple Vision Pro)
-両手で距離を直感的に測定できるAR物差しアプリ
-
-<img src="HandsRuler/top1280w.jpg" width="560">
-
-Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。世界で最初にリリースされるアメリカでの発売と同時リリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
-
-初版リリース: 2024年2月2日
-
-主要フレームワーク: ARKit, RealityKit, SwiftUI
-
-[__App Storeリンク__](https://apps.apple.com/app/id6475769879)
-
-[PRページリンク](HandsRuler/ja)
-
-[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/HandsRuler)
-
-<br>
-
-__レビュー動画１ (4:30 - 5:24)__
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4CunoApkfF4?si=eQE4Si6nzAOm3wHz&amp;start=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br>
-
-__レビュー動画２ (4:07 - 5:40)__
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AMPNzEvqaEE?si=NrvdmGuptIldac-5&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 * * *
 
@@ -223,4 +225,4 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 * * *
 
-更新日: 2024/04/26
+更新日: 2024/05/05
