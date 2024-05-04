@@ -13,7 +13,7 @@ iPhone中心にAppleプラットフォーム向けアプリを開発/公開し�
 
 <img src="HandsRuler/top1280w.jpg" width="400">
 
-Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。世界で最初にリリースされるアメリカでの発売と同時リリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
+Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。アメリカでのApple Vision Proの発売と同時にリリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
 
 初版リリース: 2024年2月2日
 
@@ -64,31 +64,6 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 * * *
 
-<img src="FlipByBlink/icon.png" width="50">
-
-### FlipByBlink(iPhone/iPad)
-まばたきだけで読書ができるハンズフリー電子書籍アプリ
-
-<img src="FlipByBlink/top1200w.png" width="200">
-
-<video controls width="420" src="FlipByBlink/concept video.mp4">
-      Sorry, your browser doesn't support embedded videos.
-</video>
-
-大学の卒業研究の成果物です。
-
-初版リリース: 2019年1月15日
-
-主要フレームワーク: UIKit, Auto Layout, ARKit, PDFKit
-
-[__App Storeリンク__](https://apps.apple.com/app/id1444571751)
-
-[PRページリンク](FlipByBlink/ja)
-
-[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/FlipByBlink_ver3)
-
-* * *
-
 <img src="PersonaChess/icon.png" width="40">
 
 #### PersonaChess(Apple Vision Pro)
@@ -122,6 +97,21 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 * * *
 
+<img src="FlipByBlink/icon.png" width="30">
+
+### FlipByBlink(iPhone/iPad)
+まばたきだけで読書ができるハンズフリー電子書籍アプリ
+
+<img src="FlipByBlink/top1200w.png" width="200">
+
+<video controls width="200" src="FlipByBlink/concept video.mp4">
+      Sorry, your browser doesn't support embedded videos.
+</video>
+
+[__App Storeリンク__](https://apps.apple.com/app/id1444571751)
+
+* * *
+
 <img src="TapWeight/icon.png" width="30">
 
 ### 体重登録(iPhone/iPad/Apple Watch)
@@ -151,7 +141,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 ### 暗記ウィジェット(iPhone/iPad/Mac/Apple Watch)
 ホーム画面やロック画面、デスクトップ、文字盤を暗記帳にするアプリ
 
-<img src="AssetJA/MemorizeWidget/top1200w.png" width="500">
+<img src="AssetJA/MemorizeWidget/top1200w.png" width="200">
 
 [__App Storeリンク__](https://apps.apple.com/app/id1644276262)
 
