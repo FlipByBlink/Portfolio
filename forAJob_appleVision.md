@@ -179,7 +179,9 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 * * *
 
 ## 技術ブログ記事
-[Apple Vision Proアプリを発売日に3つリリースした話 #Swift - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/90d6e1b312d36cf085c4)
+[Apple Vision Proアプリを発売日に3つリリースした話 - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/90d6e1b312d36cf085c4)
+
+[空間ペルソナのSharePlayに対応したアプリを2つリリースした話 - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/498ad1878dd48ea53412)
 
 [visionOSアプリをApp Storeで公開する方法 #AppStore - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/63f88dd739537f35c7fa)
 
@@ -197,4 +199,4 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 * * *
 
-更新日: 2024/05/04
+更新日: 2024/05/06
