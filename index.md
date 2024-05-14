@@ -55,7 +55,7 @@ iPhone/iPadにプリインストールされている「ヘルスケア」アプ
 
 Register weight data to the Apple "Health" app pre-installed on iPhone/iPad in the fastest possible way (as manual).
 
-<img src="TapWeight/top1200w.png" width="400">
+<img src="TapWeight/top1200w.png" width="500">
 
 <img src="TapWeight/apple_health_badge.svg">
 
@@ -81,7 +81,7 @@ iPhone/iPadにプリインストールされている「ヘルスケア」アプ
 
 Register body temperature data to the Apple "Health" app pre-installed on iPhone/iPad in the fastest possible way (as manual).
 
-<img src="TapTemperature/top1200w.png" width="400">
+<img src="TapTemperature/top1200w.png" width="500">
 
 <img src="TapWeight/apple_health_badge.svg">
 
@@ -171,7 +171,7 @@ __PersonaChess__
 
 空間SharePlayに対応したチェスアプリ。 Chess app with Spatial SharePlay.
 
-<img src="PersonaChess/top1280w.jpg" width="200">
+<img src="PersonaChess/top1280w.jpg" width="500">
 
 [App Storeリンク](https://apps.apple.com/app/id6482994319)
 
@@ -183,7 +183,7 @@ __PersonaReversi__
 
 空間SharePlayに対応したリバーシアプリ。 Reversi app with Spatial SharePlay.
 
-<img src="PersonaReversi/top1280w.jpg" width="200">
+<img src="PersonaReversi/top1280w.jpg" width="500">
 
 [App Storeリンク](https://apps.apple.com/app/id6480587175)
 
@@ -217,7 +217,7 @@ __FadeInAlarm__
 
 時間をかけて少しずつ音が大きくなるアラームアプリ。 Alarm clock with taking a long time from small volume to max volume.
 
-<img src="FadeInAlarm/top1200w.png" width="350">
+<img src="FadeInAlarm/top1200w.png" width="500">
 
 [日本語(native)](FadeInAlarm/ja)
 [English](FadeInAlarm/en)
