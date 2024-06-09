@@ -81,7 +81,7 @@ Zoomなどでのカジュアル面談できます。
 
 
 ## 画像
-![自分自身の画像](/Asset/myself.jpg)
+<img src="Asset/myself.jpg" width="70">
 
 
 ## 補足
