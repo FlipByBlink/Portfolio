@@ -10,9 +10,9 @@
 
 
 ## ポートフォリオ
-iPhoneアプリ中心に個人でアプリ開発をしています。詳しくは下記ポートフォリオサイトを参照してください。
+iPhoneアプリ中心に個人でアプリ開発をしています。詳しくはポートフォリオを参照してください。
 
-[__ポートフォリオサイト__](https://flipbyblink.github.io/Portfolio/forAJob)
+[__ポートフォリオを開く__](https://flipbyblink.github.io/Portfolio/forAJob)
 
 
 ## 想定職種
@@ -82,5 +82,7 @@ ZoomなどでWeb上でのカジュアル面談できます。
 [PDFを開く](/Asset/engineeringSkillSet.pdf)
 
 
-## 更新日
-2024/06/09
+* * *
+
+
+更新日: 2024/06/09
