@@ -59,6 +59,8 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 <img src="HandsRuler/top1280w.jpg" width="560">
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_kAL5OXHVvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。Apple Vision Pro発売と同時リリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
 
 初版リリース: 2024年2月2日
@@ -70,18 +72,6 @@ Appleにとって新たなカテゴリのデバイスであるApple Vision Pro�
 [PRページリンク](HandsRuler/ja)
 
 [ソースコードリンク(GitHub)](https://github.com/FlipByBlink/HandsRuler)
-
-<br>
-
-__レビュー動画１ (4:30 - 5:24)__
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4CunoApkfF4?si=eQE4Si6nzAOm3wHz&amp;start=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br>
-
-__レビュー動画２ (4:07 - 5:40)__
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AMPNzEvqaEE?si=NrvdmGuptIldac-5&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br>
 
 * * *
 
