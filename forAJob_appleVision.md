@@ -13,6 +13,10 @@ iPhone中心にAppleプラットフォーム向けアプリを開発/公開し�
 
 <img src="HandsRuler/top1280w.jpg" width="560">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_kAL5OXHVvQ?si=wvoV58O3s0xPq208" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
 Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。アメリカでのApple Vision Pro発売と同時にリリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
 
 初版リリース: 2024年2月2日
@@ -21,21 +25,7 @@ Appleにとって新たなカテゴリのデバイスであるApple Vision Pro�
 
 [__App Storeリンク__](https://apps.apple.com/app/id6475769879)
 
-[PRページリンク](HandsRuler/ja)
-
 [ソースコードリンク(GitHub)](https://github.com/FlipByBlink/HandsRuler)
-
-<br>
-
-__レビュー動画１ (4:30 - 5:24)__
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4CunoApkfF4?si=eQE4Si6nzAOm3wHz&amp;start=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br>
-
-__レビュー動画２ (4:07 - 5:40)__
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AMPNzEvqaEE?si=NrvdmGuptIldac-5&amp;start=247" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<br>
 
 * * *
 
@@ -59,8 +49,6 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 主要フレームワーク: SwiftUI, GroupActivities
 
 [__App Storeリンク__](https://apps.apple.com/app/id1620268476)
-
-[PRページリンク](Plain将棋盤/ja)
 
 [ソースコードリンク(GitHub)](https://github.com/FlipByBlink/PlainShogi)
 
