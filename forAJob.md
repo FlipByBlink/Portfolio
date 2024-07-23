@@ -59,7 +59,7 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 <img src="HandsRuler/top1280w.jpg" width="560">
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_kAL5OXHVvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_kAL5OXHVvQ?si=wvoV58O3s0xPq208" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。Apple Vision Pro発売と同時リリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
 
