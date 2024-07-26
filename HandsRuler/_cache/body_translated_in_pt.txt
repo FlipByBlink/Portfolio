@@ -7,6 +7,8 @@ HandsRuler
 <p><a href="https://apps.apple.com/app/id6475769879" target="blank">
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1280w.jpg" width="600"></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_kAL5OXHVvQ?si=wvoV58O3s0xPq208" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 <h2 id="概要"> Visão geral.</h2>
 <p> Mede distâncias de forma intuitiva com ambas as mãos!</p>
 <p> Apresenta a distância entre as pontas dos dedos indicadores de ambas as mãos.</p>

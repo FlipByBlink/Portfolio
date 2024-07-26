@@ -151,6 +151,8 @@ __HandsRuler__
 
 <img src="HandsRuler/top1280w.jpg" width="500">
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_kAL5OXHVvQ?si=wvoV58O3s0xPq208" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 [日本語(native)](HandsRuler/ja)
 [English](HandsRuler/en)
 [Indonesia](HandsRuler/id)
