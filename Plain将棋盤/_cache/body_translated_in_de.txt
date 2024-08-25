@@ -11,17 +11,24 @@ Plain将棋盤 / Plain Shogi Board
 <p> Die Figuren bewegen sich frei. Sie können jede Figur löschen oder hinzufügen.</p>
 <p> Passen Sie die Schriftart der Figuren an und ändern Sie die englische Notation, um Ihr eigenes Shogi-Brett zu gestalten.</p>
 <p><img src="screenshot1200w.png" width="600"></p>
+<hr />
 <h3 id="shareplay"> SharePlay</h3>
-<p> Mehrere Spieler können gleichzeitig ein Shogi-Brett bedienen.</p>
+<p> Mehrere Personen können gleichzeitig ein Shogi-Brett bedienen.</p>
 <p> Sie können das Shogi-Brett über das Internet mit Ihren Freunden teilen, indem Sie die Apps FaceTime oder Messages verwenden.</p>
 <p> Die SharePlay-Funktion ist für verschiedene Anwendungsfälle gedacht, z. B. für das Lösen von Tsume-Shogi mit einer großen Gruppe von Freunden, aber auch für ein einfaches Spiel zwischen zwei Personen".</p>
 <p> Sie können SharePlay auch starten, indem Sie einfach zwei iPhones nahe beieinander platzieren und die Taste einmal drücken. (Begrenzt auf iPhones mit iOS 17 oder höher).</p>
 <p><img src="SharePlay600w.png" width="300"></p>
+<p><br></p>
+<p> Apple Vision Pro unterstützt "räumliches SharePlay".</p>
+<p><img src="preview400w.gif" width="400"></p>
+<hr />
 <h3 id="マルチプラットフォーム対応"> Multiplattform-Unterstützung</h3>
 <p> Kompatibel mit iPhone, iPad, Apple Watch, Mac, Apple TV und Apple Vision Pro.</p>
 <p> Die Stationen werden zwischen den Geräten über iCloud synchronisiert.</p>
+<p><img src="MultiPlatform1200w.png" width="600"></p>
+<hr />
 <h3 id="書き出し読み込み"> Exportieren/Importieren.</h3>
-<p> Exportieren Sie die Tafel als Bild.</p>
+<p> Die Tafel kann als Bild exportiert werden.</p>
 <p> Die Tafel kann als Text exportiert und importiert werden.</p>
 <div translate="no">
 <pre><code>☗角͙
@@ -38,8 +45,11 @@ Plain将棋盤 / Plain Shogi Board
 －－－－－－－－－
 ☖</code></pre>
 </div>
+<hr />
 <p><img src="menu1200w.png" width="600"></p>
-<p><img src="visionOS.jpg" width="600"></p>
+<hr />
+<h3 id="価格"> Preis</h3>
+<p> Kostenfrei</p>
 <hr />
 <p><a href="https://apps.apple.com/app/id1620268476" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

@@ -7,22 +7,29 @@ Plain将棋盤 / Plain Shogi Board
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要">概述。</h2>
-<p>这是一款可自由移动棋子的将棋棋盘应用程序，适用于 iPhone、iPad、Mac、Apple Watch、Apple TV 和 Apple Vision Pro。</p>
+<p>这款应用程序适用于 iPhone、iPad、Mac、Apple Watch、Apple TV 和 Apple Vision Pro。</p>
 <p>棋子可自由移动。可删除或添加任何棋子。</p>
 <p>自定义棋子字体，更改英文符号，打造属于自己的将棋棋盘。</p>
 <p><img src="screenshot1200w.png" width="600"></p>
+<hr />
 <h3 id="shareplay">共享游戏</h3>
 <p>多个玩家可同时操作一个将棋盘。</p>
 <p>您可以使用 FaceTime 或信息应用程序通过互联网与朋友共享将棋盘。</p>
 <p>SharePlay 功能适用于各种情况，例如与一大群朋友一起解决将棋问题，以及 "两个人之间的简单游戏"。</p>
 <p>只需将两部 iPhone 靠近并按下按钮一次，即可开始 SharePlay。(仅限使用 iOS 17 或更高版本的 iPhone）。</p>
 <p><img src="SharePlay600w.png" width="300"></p>
+<p><br></p>
+<p>Apple Vision Pro 支持 "空间 SharePlay"。</p>
+<p><img src="preview400w.gif" width="400"></p>
+<hr />
 <h3 id="マルチプラットフォーム対応">多平台支持</h3>
-<p>与 iPhone、iPad、Apple Watch、Mac、Apple TV 和 Apple Vision Pro 兼容。</p>
+<p>兼容 iPhone、iPad、Apple Watch、Mac、Apple TV 和 Apple Vision Pro。</p>
 <p>通过 iCloud 在设备之间同步电台。</p>
-<h3 id="書き出し読み込み">导出/导入</h3>
-<p>将电路板导出为图像。</p>
-<p>以文本形式导出和导入电路板。</p>
+<p><img src="MultiPlatform1200w.png" width="600"></p>
+<hr />
+<h3 id="書き出し読み込み">导出/导入。</h3>
+<p>可将电路板导出为图像。</p>
+<p>黑板可以文本形式导出和导入。</p>
 <div translate="no">
 <pre><code>☗角͙
 －－－－－－－－－
@@ -38,8 +45,11 @@ Plain将棋盤 / Plain Shogi Board
 －－－－－－－－－
 ☖</code></pre>
 </div>
+<hr />
 <p><img src="menu1200w.png" width="600"></p>
-<p><img src="visionOS.jpg" width="600"></p>
+<hr />
+<h3 id="価格">价格</h3>
+<p>免费</p>
 <hr />
 <p><a href="https://apps.apple.com/app/id1620268476" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

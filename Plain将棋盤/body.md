@@ -24,6 +24,8 @@ _最もプレーンな将棋盤アプリ_
 
 <img src="screenshot1200w.png" width="600">
 
+* * *
+
 ### SharePlay
 複数人で1つの将棋盤を同時に操作できます。
 
@@ -35,10 +37,22 @@ iPhone同士を近付けてボタンを1回押すだけでSharePlayを始める�
 
 <img src="SharePlay600w.png" width="300">
 
+<br>
+
+Apple Vision Proでは「空間的なSharePlay」に対応しています。
+
+<img src="preview400w.gif" width="400">
+
+* * *
+
 ### マルチプラットフォーム対応
 iPhone、iPad、Apple Watch、Mac、Apple TV、Apple Vision Proに対応。
 
 局面はiCloudによって端末間で同期されます。
+
+<img src="MultiPlatform1200w.png" width="600">
+
+* * *
 
 ### 書き出し/読み込み
 盤面を画像として書き出せます。
@@ -64,9 +78,14 @@ iPhone、iPad、Apple Watch、Mac、Apple TV、Apple Vision Proに対応。
 ```
 </div>
 
+* * *
+
 <img src="menu1200w.png" width="600">
 
-<img src="visionOS.jpg" width="600">
+* * *
+
+### 価格
+無料
 
 * * *
 

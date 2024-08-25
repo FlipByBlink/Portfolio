@@ -11,17 +11,24 @@ Plain将棋盤 / Plain Shogi Board
 <p> Las piezas se mueven libremente. Puedes eliminar o añadir cualquier pieza.</p>
 <p> Personaliza la fuente de las piezas y cambia la notación inglesa para crear tu propio tablero Shogi.</p>
 <p><img src="screenshot1200w.png" width="600"></p>
+<hr />
 <h3 id="shareplay"> SharePlay</h3>
 <p> Varios jugadores pueden utilizar un tablero Shogi al mismo tiempo.</p>
 <p> Puedes compartir el tablero Shogi con tus amigos a través de Internet mediante las aplicaciones FaceTime o Mensajes.</p>
 <p> La función SharePlay está pensada para varios casos de uso, como resolver Tsume-Shogi con un grupo grande de amigos, así como para "una simple partida entre dos personas".</p>
 <p> También puedes iniciar SharePlay simplemente colocando dos iPhones uno cerca del otro y pulsando el botón una vez. (Limitado a iPhones con iOS 17 o posterior).</p>
 <p><img src="SharePlay600w.png" width="300"></p>
+<p><br></p>
+<p> Apple Vision Pro es compatible con "SharePlay espacial".</p>
+<p><img src="preview400w.gif" width="400"></p>
+<hr />
 <h3 id="マルチプラットフォーム対応"> Compatibilidad multiplataforma</h3>
 <p> Compatible con iPhone, iPad, Apple Watch, Mac, Apple TV y Apple Vision Pro.</p>
 <p> Las estaciones se sincronizan entre dispositivos a través de iCloud.</p>
+<p><img src="MultiPlatform1200w.png" width="600"></p>
+<hr />
 <h3 id="書き出し読み込み"> Exportación/importación.</h3>
-<p> Exporte el tablero como una imagen.</p>
+<p> El tablero se puede exportar como imagen.</p>
 <p> El tablero se puede exportar e importar como texto.</p>
 <div translate="no">
 <pre><code>☗角͙
@@ -38,8 +45,11 @@ Plain将棋盤 / Plain Shogi Board
 －－－－－－－－－
 ☖</code></pre>
 </div>
+<hr />
 <p><img src="menu1200w.png" width="600"></p>
-<p><img src="visionOS.jpg" width="600"></p>
+<hr />
+<h3 id="価格"> Precio</h3>
+<p> Gratuito</p>
 <hr />
 <p><a href="https://apps.apple.com/app/id1620268476" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

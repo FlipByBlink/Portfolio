@@ -7,20 +7,27 @@ Plain将棋盤 / Plain Shogi Board
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> 개요</h2>
-<p> iPhone, iPad, Mac, Apple Watch, Apple Watch, Apple TV, Apple Vision Pro용 앱으로, 말들을 자유롭게 움직일 수 있는 단순한 바둑판입니다.</p>
-<p> 말은 자유롭게 움직입니다. 원하는 말을 지우거나 늘릴 수 있습니다.</p>
+<p> iPhone, iPad, Mac, Apple Watch, Apple Watch, Apple TV, Apple Vision Pro용 앱으로, 자유롭게 움직일 수 있는 단순한 바둑판입니다.</p>
+<p> 바둑알은 자유롭게 움직입니다. 원하는 말을 지우거나 늘릴 수 있습니다.</p>
 <p> 글꼴을 커스터마이징하거나 영어 표기로 바꾸어 자신에게 맞는 바둑판을 만들 수 있습니다.</p>
 <p><img src="screenshot1200w.png" width="600"></p>
+<hr />
 <h3 id="shareplay"> SharePlay</h3>
 <p> 여러 사람이 동시에 하나의 바둑판을 조작할 수 있습니다.</p>
-<p> 인터넷을 통해 'FaceTime' 앱이나 '메시지' 앱을 통해 친구와 함께 바둑판을 둘러앉을 수 있습니다.</p>
-<p> SharePlay 기능은 '둘이서 간단하게 대국하는 것'뿐만 아니라 '여러 명이 모여서 바둑을 두는 것' 등 다양한 사용처를 상정하고 있다.</p>
-<p> 아이폰을 서로 가까이 두고 버튼을 한 번만 누르면 SharePlay를 시작할 수 있다. (iOS 17 이상 아이폰 한정)</p>
+<p> 인터넷을 통해 'FaceTime' 앱이나 '메시지' 앱을 통해 친구와 함께 바둑판을 둘러싸고 게임을 즐길 수 있습니다.</p>
+<p> SharePlay 기능에서는 '2명이서 간단하게 대국하는 것'뿐만 아니라, '대인 대국'과 같은 다양한 사용 사례를 상정하고 있다.</p>
+<p> 아이폰을 서로 가까이 두고 버튼을 한 번만 누르면 SharePlay를 시작할 수 있습니다. (iOS 17 이상 아이폰 한정)</p>
 <p><img src="SharePlay600w.png" width="300"></p>
+<p><br></p>
+<p> Apple Vision Pro에서는 '공간적 SharePlay'를 지원합니다.</p>
+<p><img src="preview400w.gif" width="400"></p>
+<hr />
 <h3 id="マルチプラットフォーム対応"> 멀티 플랫폼 지원</h3>
-<p> iPhone, iPad, Apple Watch, Mac, Apple TV, Apple Vision Pro를 지원한다.</p>
-<p> 장면은 iCloud를 통해 기기간에 동기화됩니다.</p>
-<h3 id="書き出し読み込み"> 출력/읽기</h3>
+<p> iPhone, iPad, Apple Watch, Mac, Apple TV, Apple Vision Pro를 지원합니다.</p>
+<p> iCloud를 통해 단말 간에 동기화됩니다.</p>
+<p><img src="MultiPlatform1200w.png" width="600"></p>
+<hr />
+<h3 id="書き出し読み込み"> 내보내기/읽기</h3>
 <p> 판면을 이미지로 내보낼 수 있습니다.</p>
 <p> 판면을 텍스트로 내보내거나 불러올 수 있습니다.</p>
 <div translate="no">
@@ -38,8 +45,11 @@ Plain将棋盤 / Plain Shogi Board
 －－－－－－－－－
 ☖</code></pre>
 </div>
+<hr />
 <p><img src="menu1200w.png" width="600"></p>
-<p><img src="visionOS.jpg" width="600"></p>
+<hr />
+<h3 id="価格"> 가격</h3>
+<p> 무료</p>
 <hr />
 <p><a href="https://apps.apple.com/app/id1620268476" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

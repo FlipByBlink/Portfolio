@@ -11,17 +11,24 @@ Plain将棋盤 / Plain Shogi Board
 <p> Bidak-bidak bergerak dengan bebas. Anda dapat menghapus atau menambahkan bidak apa pun.</p>
 <p> Sesuaikan font bidak dan ubah notasi bahasa Inggris untuk membuat papan Shogi Anda sendiri.</p>
 <p><img src="screenshot1200w.png" width="600"></p>
+<hr />
 <h3 id="shareplay"> BerbagiPlay</h3>
 <p> Beberapa pemain dapat mengoperasikan satu papan Shogi secara bersamaan.</p>
 <p> Anda dapat berbagi papan Shogi dengan teman Anda melalui internet menggunakan aplikasi FaceTime atau Pesan.</p>
 <p> Fungsi SharePlay ditujukan untuk berbagai kasus penggunaan, seperti menyelesaikan Tsume-Shogi dengan sekelompok besar teman, serta untuk "permainan sederhana antara dua orang".</p>
 <p> Anda juga dapat memulai SharePlay hanya dengan meletakkan dua iPhone berdekatan satu sama lain dan menekan tombol satu kali. (Terbatas untuk iPhone dengan iOS 17 atau yang lebih baru).</p>
 <p><img src="SharePlay600w.png" width="300"></p>
+<p><br></p>
+<p> Apple Vision Pro mendukung 'SharePlay spasial'.</p>
+<p><img src="preview400w.gif" width="400"></p>
+<hr />
 <h3 id="マルチプラットフォーム対応"> Dukungan multi-platform</h3>
 <p> Kompatibel dengan iPhone, iPad, Apple Watch, Mac, Apple TV, dan Apple Vision Pro.</p>
 <p> Stasiun disinkronkan antar perangkat melalui iCloud.</p>
+<p><img src="MultiPlatform1200w.png" width="600"></p>
+<hr />
 <h3 id="書き出し読み込み"> Ekspor/impor.</h3>
-<p> Mengekspor papan sebagai gambar.</p>
+<p> Papan dapat diekspor sebagai gambar.</p>
 <p> Papan dapat diekspor dan diimpor sebagai teks.</p>
 <div translate="no">
 <pre><code>☗角͙
@@ -38,8 +45,11 @@ Plain将棋盤 / Plain Shogi Board
 －－－－－－－－－
 ☖</code></pre>
 </div>
+<hr />
 <p><img src="menu1200w.png" width="600"></p>
-<p><img src="visionOS.jpg" width="600"></p>
+<hr />
+<h3 id="価格"> Harga</h3>
+<p> Gratis</p>
 <hr />
 <p><a href="https://apps.apple.com/app/id1620268476" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>
