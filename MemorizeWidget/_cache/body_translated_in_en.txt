@@ -14,26 +14,27 @@ MemorizeWidget
 <li> Memorandum data can be imported from text or files (csv, tsv, txt, etc.)</li>
 <li> Linkage with OS built-in dictionary</li>
 <li> Customizable search function</li>
-<li> Synchronize data between devices via iCloud</li>
+<li> Synchronizes data between devices via iCloud</li>
 </ul>
 <p><img src="screenshot1200w.png" width="600"></p>
-<p> Optional</p>
-<ul>
-<li> Display not only note "title" but also "comment" on the widget</li>
-<li> Display of multiple notes</li>
-</ul>
-<p> Multi-platform support</p>
+<hr />
+<h3 id="マルチプラットフォーム対応"> Multi-platform support</h3>
 <ul>
 <li> iPhone: Home screen, Lock screen, Standby (iOS 17)</li>
-<li> iPad: Home screen, Lock screen (iPad OS 17)</li>
+<li> iPad: Home screen, Lock screen (iPadOS 17)</li>
 <li> Mac: Notification center, desktop (macOS 14)</li>
 <li> Apple Watch: Complication, Smart Stack (watchOS 10)</li>
 </ul>
+<p><img src="MultiPlatform1200w.png" width="600"></p>
 <hr />
-<h2 id="仕様"> Specifications</h2>
+<h3 id="オプション"> Options</h3>
+<ul>
+<li> Display note "title" as well as "comment" on widget</li>
+<li> Display multiple notes</li>
+</ul>
+<hr />
 <h3 id="価格"> Price</h3>
 <p> Free of charge</p>
-<h3 id="アプリ内課金"> In-app purchase</h3>
-<p> Hide ads (160 yen)</p>
+<hr />
 <p><a href="https://apps.apple.com/app/id1644276262" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

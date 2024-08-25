@@ -13,27 +13,28 @@ MemorizeWidget
 <li>在 "随机模式 "下，显示的笔记每五分钟更换一次。</li>
 <li>可从文本和文件（csv、tsv、txt 等）中导入备忘录数据</li>
 <li>与操作系统内置词典链接</li>
-<li>自定义搜索功能</li>
+<li>可定制的搜索功能</li>
 <li>通过 iCloud 在设备间同步数据</li>
 </ul>
 <p><img src="screenshot1200w.png" width="600"></p>
-<p>选项</p>
+<hr />
+<h3 id="マルチプラットフォーム対応">支持多平台</h3>
 <ul>
-<li>在 widget 上显示笔记 "标题 "和 "注释</li>
-<li>显示多个笔记</li>
-</ul>
-<p>多平台支持</p>
-<ul>
-<li>iPhone：主屏幕、锁屏、待机 (iOS 17)</li>
-<li>iPad：主屏幕、锁屏（iPad OS 17）</li>
+<li>iPhone：主屏幕、锁屏、待机（iOS 17）</li>
+<li>iPad：主屏幕、锁屏（iPadOS 17）</li>
 <li>Mac：通知中心、桌面（macOS 14）</li>
 <li>Apple Watch：复杂功能、智能堆栈（watchOS 10）</li>
 </ul>
+<p><img src="MultiPlatform1200w.png" width="600"></p>
 <hr />
-<h2 id="仕様">规格</h2>
+<h3 id="オプション">选项。</h3>
+<ul>
+<li>在部件上显示备忘 "注释 "和备忘 "标题</li>
+<li>显示多个备忘</li>
+</ul>
+<hr />
 <h3 id="価格">价格</h3>
 <p>免费</p>
-<h3 id="アプリ内課金">应用内购买</h3>
-<p>隐藏广告 (¥160)</p>
+<hr />
 <p><a href="https://apps.apple.com/app/id1644276262" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

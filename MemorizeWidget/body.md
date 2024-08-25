@@ -27,28 +27,30 @@ _iPhone/iPad/Apple Watch/Macを暗記帳にしよう_
 
 <img src="screenshot1200w.png" width="600">
 
-オプション
+* * *
 
-- ウィジェット上でノートの「タイトル」だけでなく「コメント」を表示することも可能
-- 複数個のノートを表示
-
-
-マルチプラットフォーム対応
+### マルチプラットフォーム対応
 
 - iPhone: ホーム画面、ロック画面、スタンバイ(iOS 17)
 - iPad: ホーム画面、ロック画面(iPadOS 17)
 - Mac: 通知センター、デスクトップ(macOS 14)
 - Apple Watch: コンプリケーション、スマートスタック(watchOS 10)
 
+<img src="MultiPlatform1200w.png" width="600">
+
 * * *
 
-仕様
--------
+### オプション
+
+- ウィジェット上でノートの「タイトル」だけでなく「コメント」を表示することも可能
+- 複数個のノートを表示
+
+* * *
+
 ### 価格
 無料
 
-### アプリ内課金
-広告を非表示にする(160円)
+* * *
 
 <a href="https://apps.apple.com/app/id1644276262" target="blank">
   <img src="qr-code.jpg" width="160">

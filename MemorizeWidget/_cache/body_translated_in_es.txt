@@ -17,23 +17,24 @@ MemorizeWidget
 <li> Sincronización de datos entre dispositivos a través de iCloud</li>
 </ul>
 <p><img src="screenshot1200w.png" width="600"></p>
-<p> Opciones</p>
-<ul>
-<li> Visualización del "título" de la nota y del "comentario" en el widget</li>
-<li> Visualización de varias notas</li>
-</ul>
-<p> Soporte multiplataforma</p>
+<hr />
+<h3 id="マルチプラットフォーム対応"> Compatibilidad multiplataforma</h3>
 <ul>
 <li> iPhone: pantalla de inicio, pantalla de bloqueo, modo de espera (iOS 17)</li>
-<li> iPad: pantalla de inicio, pantalla de bloqueo (iPad OS 17)</li>
-<li> Mac: centro de notificaciones, escritorio (macOS 14)</li>
+<li> iPad: pantalla de inicio, pantalla de bloqueo (iPadOS 17)</li>
+<li> Mac: Centro de notificaciones, escritorio (macOS 14)</li>
 <li> Apple Watch: complicaciones, pila inteligente (watchOS 10)</li>
 </ul>
+<p><img src="MultiPlatform1200w.png" width="600"></p>
 <hr />
-<h2 id="仕様"> Especificaciones</h2>
+<h3 id="オプション"> Opciones.</h3>
+<ul>
+<li> Mostrar "comentarios" de notas así como "títulos" de notas en widgets</li>
+<li> Mostrar varias notas</li>
+</ul>
+<hr />
 <h3 id="価格"> Precio</h3>
 <p> Gratuito</p>
-<h3 id="アプリ内課金"> Compras dentro de la aplicación</h3>
-<p> Ocultar anuncios (¥160)</p>
+<hr />
 <p><a href="https://apps.apple.com/app/id1644276262" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>
