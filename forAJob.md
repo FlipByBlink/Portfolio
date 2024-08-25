@@ -63,15 +63,13 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 <br>
 
-Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。Apple Vision Pro発売と同時リリースしました。Apple Vision Proの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」等を活かしています。
+Appleにとって新たなカテゴリのデバイスであるApple Vision Pro向けにアプリを開発しました。Apple Vision Pro発売と同時リリースしました。このデバイスの強みである「正確な空間把握」や「ハンドトラッキング」、「アイトラッキング」などを活かしています。
 
 初版リリース: 2024年2月2日
 
 主要フレームワーク: ARKit, RealityKit, SwiftUI
 
 [__App Storeリンク__](https://apps.apple.com/app/id6475769879)
-
-[PRページリンク](HandsRuler/ja)
 
 [ソースコードリンク(GitHub)](https://github.com/FlipByBlink/HandsRuler)
 
@@ -118,9 +116,20 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 [__App Storeリンク__](https://apps.apple.com/app/id1624159721)
 
-[PRページリンク](TapWeight/ja)
-
 [ソースコードリンク(GitHub)](https://github.com/FlipByBlink/TapWeight)
+
+* * *
+
+<img src="PersonaReversi/icon.png" width="60">
+
+### PersonaReversi(Apple Vision Pro)
+空間SharePlayに対応したリバーシアプリ
+
+<img src="PersonaReversi/preview400w.gif" width="400">
+
+[App Storeリンク](https://apps.apple.com/app/id6480587175)
+
+[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/PersonaReversi)
 
 * * *
 
@@ -169,17 +178,6 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 * * *
 
-<img src="PersonaReversi/icon.png" width="40">
-
-#### PersonaReversi(Apple Vision Pro)
-空間SharePlayに対応したリバーシアプリ
-
-<img src="PersonaReversi/top1280w.jpg" width="200">
-
-[App Storeリンク](https://apps.apple.com/app/id6480587175)
-
-* * *
-
 <img src="SpatialClock/icon.png" width="40">
 
 #### SpatialClock(Apple Vision Pro)
@@ -213,10 +211,14 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 [空間ペルソナのSharePlayに対応したアプリを2つリリースした話 - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/498ad1878dd48ea53412)
 
+[全Appleプラットフォームでリリースしてきた将棋盤アプリをvisionOSにも対応した話](https://zenn.dev/huiygfutfgvjknj/articles/9990f9ee42a410)
+
 [visionOSアプリをApp Storeで公開する方法 #AppStore - Qiita](https://qiita.com/mjnfhbuvwebwfiejcnw/items/63f88dd739537f35c7fa)
 
 [Appleが教えてくれないvisionOSアプリ開発に必要な知識集(2024春)](https://zenn.dev/huiygfutfgvjknj/articles/134014540063e9)
 
+[visionOSアプリ開発ドキュメントの公式日本語翻訳が良い感じに充実してる件について](https://qiita.com/mjnfhbuvwebwfiejcnw/items/5a9cc87c5570187131cc)
+
 * * *
 
-更新日: 2024/05/06
+更新日: 2024/08/25
