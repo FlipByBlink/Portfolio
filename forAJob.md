@@ -127,7 +127,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="PersonaReversi/preview400w.gif" width="400">
 
-[App Storeリンク](https://apps.apple.com/app/id6480587175)
+[__App Storeリンク__](https://apps.apple.com/app/id6480587175)
 
 [ソースコードリンク(GitHub)](https://github.com/FlipByBlink/PersonaReversi)
 

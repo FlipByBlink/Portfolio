@@ -80,6 +80,8 @@ iPhone、iPad、Apple Watch、Mac、Apple TV、Apple Vision Proに対応。
 
 * * *
 
+### メニュー画面
+
 <img src="menu1200w.png" width="600">
 
 * * *
