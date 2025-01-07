@@ -122,14 +122,14 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="PersonaReversi/icon.png" width="60">
 
-### PersonaReversi(Apple Vision Pro)
+### PersonasFlip(Apple Vision Pro)
 空間SharePlayに対応したリバーシアプリ
 
-<img src="PersonaReversi/preview400w.gif" width="400">
+<img src="PersonasFlip/preview400w.gif" width="400">
 
 [__App Storeリンク__](https://apps.apple.com/app/id6480587175)
 
-[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/PersonaReversi)
+[ソースコードリンク(GitHub)](https://github.com/FlipByBlink/PersonasFlip)
 
 * * *
 
@@ -221,4 +221,4 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 * * *
 
-更新日: 2024/08/25
+更新日: 2025/01/07

@@ -67,10 +67,10 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 <img src="PersonaReversi/icon.png" width="60">
 
-#### PersonaReversi(Apple Vision Pro)
+#### PersonasFlip(Apple Vision Pro)
 空間SharePlayに対応したリバーシアプリ
 
-<img src="PersonaReversi/top1280w.jpg" width="560">
+<img src="PersonasFlip/top1280w.jpg" width="560">
 
 [App Storeリンク](https://apps.apple.com/app/id6480587175)
 
@@ -187,4 +187,4 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 * * *
 
-更新日: 2024/05/06
+更新日: 2025/01/07

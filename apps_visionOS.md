@@ -19,11 +19,11 @@ _空間SharePlayによるマルチプレイに対応したチェスアプリ_
 [App Store製品ページを開く](https://apps.apple.com/app/id6482994319)
 
 
-PersonaReversi
+PersonasFlip
 --------------
 _空間SharePlayによるマルチプレイに対応したリバーシアプリ_
 
-<img src="PersonaReversi/top1280w.jpg" width="400">
+<img src="PersonasFlip/top1280w.jpg" width="400">
 
 [App Store製品ページを開く](https://apps.apple.com/app/id6480587175)
 

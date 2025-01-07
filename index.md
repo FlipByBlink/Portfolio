@@ -179,13 +179,13 @@ __PersonaChess__
 
 * * *
 
-<img src="PersonaReversi/icon.png" width="50">
+<img src="PersonasFlip/icon.png" width="50">
 
-__PersonaReversi__
+__PersonasFlip__
 
 空間SharePlayに対応したリバーシアプリ。 Reversi app with Spatial SharePlay.
 
-<img src="PersonaReversi/top1280w.jpg" width="500">
+<img src="PersonasFlip/top1280w.jpg" width="500">
 
 [App Storeリンク](https://apps.apple.com/app/id6480587175)
 
