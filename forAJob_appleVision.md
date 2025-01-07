@@ -65,7 +65,7 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 * * *
 
-<img src="PersonaReversi/icon.png" width="60">
+<img src="PersonasFlip/icon.png" width="60">
 
 #### PersonasFlip(Apple Vision Pro)
 空間SharePlayに対応したリバーシアプリ
