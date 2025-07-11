@@ -61,6 +61,8 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 
 <img src="PersonaChess/top1280w.jpg" width="560">
 
+<img src="PersonaChess/preview600w.gif" width="300">
+
 [App Storeリンク](https://apps.apple.com/app/id6482994319)
 
 * * *
@@ -71,6 +73,8 @@ SharePlayに対応しているので遠くの友人とも近くの家族とも�
 空間SharePlayに対応したリバーシアプリ
 
 <img src="PersonasFlip/top1280w.jpg" width="560">
+
+<img src="PersonasFlip/preview400w.gif" width="400">
 
 [App Storeリンク](https://apps.apple.com/app/id6480587175)
 

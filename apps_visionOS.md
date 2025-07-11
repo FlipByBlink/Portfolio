@@ -16,6 +16,8 @@ _空間SharePlayによるマルチプレイに対応したチェスアプリ_
 
 <img src="PersonaChess/top1280w.jpg" width="400">
 
+<img src="PersonaChess/preview600w.gif" width="300">
+
 [App Store製品ページを開く](https://apps.apple.com/app/id6482994319)
 
 

@@ -175,6 +175,8 @@ __PersonaChess__
 
 <img src="PersonaChess/top1280w.jpg" width="500">
 
+<img src="PersonaChess/preview600w.gif" width="300">
+
 [App Storeリンク](https://apps.apple.com/app/id6482994319)
 
 * * *
@@ -186,6 +188,8 @@ __PersonasFlip__
 空間SharePlayに対応したリバーシアプリ。 Reversi app with Spatial SharePlay.
 
 <img src="PersonasFlip/top1280w.jpg" width="500">
+
+<img src="PersonasFlip/preview400w.gif" width="400">
 
 [App Storeリンク](https://apps.apple.com/app/id6480587175)
 
