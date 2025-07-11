@@ -174,6 +174,8 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="PersonaChess/top1280w.jpg" width="200">
 
+<img src="PersonaChess/preview600w.gif" width="300">
+
 [App Storeリンク](https://apps.apple.com/app/id6482994319)
 
 * * *
