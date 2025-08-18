@@ -6,7 +6,7 @@ HandsRuler
 _両手で距離を直感的に測定できるAR物差しアプリ_
 
 <div style="width:100%; max-width:700px; margin:0 auto;">
-<iframe src="https://www.youtube.com/embed/_kAL5OXHVvQ?si=wvoV58O3s0xPq208" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/_kAL5OXHVvQ?si=wvoV58O3s0xPq208" title="YouTube video player" style="width:100%; aspect-ratio:16/9; height:auto; border:0; display:block;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 [App Store製品ページを開く](https://apps.apple.com/app/id6475769879)
