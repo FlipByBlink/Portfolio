@@ -1,4 +1,4 @@
-山下亮がリリースしたApple Vision Proアプリ一覧
+山下亮がリリースしたApple Vision Proアプリ5つ
 =========================================
 
 HandsRuler
@@ -27,7 +27,7 @@ _標準デザインに準拠したシンプルかつ軽量で多機能な将棋�
 <iframe src="https://www.youtube.com/embed/Wu50RDAKCQA?si=sUo2ZhPzX1GDfRWi" title="YouTube video player" style="width:100%; aspect-ratio:16/9; height:auto; border:0; display:block;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<img src="Plain将棋盤/top1200w.png" width="500">
+<br>
 
 [App Store製品ページを開く](https://apps.apple.com/app/id1620268476)
 
