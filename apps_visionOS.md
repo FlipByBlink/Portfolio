@@ -1,5 +1,5 @@
-山下亮がリリースしたApple Vision Proアプリ5つ
-=========================================
+山下亮がリリースしたApple Vision Proアプリ6つ
+===========================================
 
 HandsRuler
 ----------
@@ -72,7 +72,21 @@ _空間SharePlayによるマルチプレイに対応したリバーシアプリ_
 [App Store製品ページを開く](https://apps.apple.com/app/id6480587175)
 
 
+<br>
+
+
+LockInNote
+--------------
+_ウィジェットに特化したノートアプリ_
+
+<img src="LockInNote/top1200w.png" width="600">
+
+<img src="LockInNote/widget1200w.jpeg" width="600">
+
+[App Store製品ページを開く](https://apps.apple.com/app/id1644879340)
+
+
 * * *
 
 
-更新日: 2025/08/18
+更新日: 2025/09/17

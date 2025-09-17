@@ -143,7 +143,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="LockInNote/icon.png" width="30">
 
-#### ロックノート(iPhone/iPad/Mac/Apple Watch)
+#### ロックノート(iPhone/iPad/Mac/Apple Watch/Apple Vision Pro)
 「ウィジェット」に特化した超軽量なノートアプリ
 
 <img src="LockInNote/top1200w.png" width="200">
@@ -189,6 +189,8 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 [Mac Catalystアプリを良い感じにする固有テクニック2(+6)選](https://zenn.dev/huiygfutfgvjknj/articles/67072b942d767c)
 
+
 * * *
 
-更新日: 2025/01/07
+
+更新日: 2025/09/17

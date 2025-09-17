@@ -147,7 +147,7 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 <img src="LockInNote/icon.png" width="30">
 
-#### ロックノート(iPhone/iPad/Mac/Apple Watch)
+#### ロックノート(iPhone/iPad/Mac/Apple Watch/Apple Vision Pro)
 「ウィジェット」に特化した超軽量なノートアプリ
 
 <img src="LockInNote/top1200w.png" width="200">
@@ -221,6 +221,8 @@ iPhoneやiPadにプリインストールされている「ヘルスケア」ア�
 
 [visionOSアプリ開発ドキュメントの公式日本語翻訳が良い感じに充実してる件について](https://qiita.com/mjnfhbuvwebwfiejcnw/items/5a9cc87c5570187131cc)
 
+
 * * *
 
-更新日: 2025/01/07
+
+更新日: 2025/09/17
