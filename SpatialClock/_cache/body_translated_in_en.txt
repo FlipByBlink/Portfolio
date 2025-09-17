@@ -10,20 +10,32 @@ SpatialClock
 <h2 id="概要"> Overview</h2>
 <p> A clock for shared space.</p>
 <p> Simple design. Lightweight.</p>
-<h3 id="オプション"> Options</h3>
+<p> Widget compatible.</p>
+<h3 id="主なオプション"> Main options</h3>
 <ul>
 <li><p> Hide "Date</p></li>
 <li><p> Show year</p></li>
-<li><p> Hide "Day of the week</p></li>
-<li><p> Show seconds</p></li>
+<li><p> Hide day of the week</p></li>
+<li><p> Show "seconds</p></li>
 <li><p> Hide background</p></li>
 <li><p> Customize Font</p></li>
-<li><p> Display "Battery Information</p></li>
+<li><p> Show "Battery Information</p></li>
+</ul>
+<h3 id="ウィジェットのオプション"> Widget Options</h3>
+<ul>
+<li><p> Hide date</p></li>
+<li><p> Show year</p></li>
+<li><p> Hide day of the week</p></li>
+<li><p> Show seconds</p></li>
+<li><p> Customize size</p></li>
+<li><p> Customize font</p></li>
+<li><p> Displays battery level</p></li>
 </ul>
 <p><img src="2.jpeg" width="600"></p>
 <p><img src="3.jpeg" width="600"></p>
 <p><img src="4.jpeg" width="600"></p>
 <p><img src="5.jpeg" width="600"></p>
+<p><img src="widget1200w.jpeg" width="600"></p>
 <hr />
 <h2 id="仕様"> Specifications</h2>
 <h3 id="価格"> Price</h3>

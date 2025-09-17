@@ -10,20 +10,32 @@ SpatialClock
 <h2 id="概要"> Vue d'ensemble.</h2>
 <p> Une horloge de table pour les espaces partagés.</p>
 <p> Design simple. Légère.</p>
-<h3 id="オプション"> Options.</h3>
+<p> Compatible avec les widgets.</p>
+<h3 id="主なオプション"> Options principales.</h3>
 <ul>
 <li><p> Cacher la date.</p></li>
-<li><p> Afficher l'année.</p></li>
-<li><p> Masquer le "jour de la semaine".</p></li>
+<li><p> Afficher l'année</p></li>
+<li><p> Cacher le jour de la semaine</p></li>
 <li><p> Afficher les secondes</p></li>
 <li><p> Cacher l'arrière-plan</p></li>
 <li><p> Personnaliser la police</p></li>
 <li><p> Afficher les informations sur la batterie</p></li>
 </ul>
+<h3 id="ウィジェットのオプション"> Options du widget</h3>
+<ul>
+<li><p> Cacher la date</p></li>
+<li><p> Afficher l'année</p></li>
+<li><p> Cacher le jour de la semaine</p></li>
+<li><p> Afficher les secondes</p></li>
+<li><p> Personnaliser la taille</p></li>
+<li><p> Personnaliser la police</p></li>
+<li><p> Afficher le niveau de la batterie</p></li>
+</ul>
 <p><img src="2.jpeg" width="600"></p>
 <p><img src="3.jpeg" width="600"></p>
 <p><img src="4.jpeg" width="600"></p>
 <p><img src="5.jpeg" width="600"></p>
+<p><img src="widget1200w.jpeg" width="600"></p>
 <hr />
 <h2 id="仕様"> Spécifications de l'appareil</h2>
 <h3 id="価格"> Prix</h3>

@@ -22,7 +22,9 @@ Apple Vision Pro向け。
 
 シンプルなデザイン。軽量。
 
-### オプション
+ウィジェットにも対応。
+
+### 主なオプション
 
 - 「日付」を隠す
 
@@ -38,6 +40,23 @@ Apple Vision Pro向け。
 
 - 「バッテリー情報」を表示
 
+### ウィジェットのオプション
+
+- 日付を隠す
+
+- 年を表示
+
+- 曜日を隠す
+
+- 秒を表示
+
+- サイズをカスタマイズ
+
+- フォントをカスタマイズ
+
+- バッテリー残量を表示
+
+
 <img src="2.jpeg" width="600">
 
 <img src="3.jpeg" width="600">
@@ -45,6 +64,8 @@ Apple Vision Pro向け。
 <img src="4.jpeg" width="600">
 
 <img src="5.jpeg" width="600">
+
+<img src="widget1200w.jpeg" width="600">
 
 * * *
 

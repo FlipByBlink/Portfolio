@@ -10,7 +10,8 @@ SpatialClock
 <h2 id="概要"> 개요</h2>
 <p> 공유 공간을 위한 탁상용 시계입니다.</p>
 <p> 심플한 디자인. 가벼운 무게.</p>
-<h3 id="オプション"> 옵션</h3>
+<p> 위젯 지원.</p>
+<h3 id="主なオプション"> 주요 옵션</h3>
 <ul>
 <li><p> '날짜' 숨기기</p></li>
 <li><p> '연도' 표시</p></li>
@@ -20,10 +21,21 @@ SpatialClock
 <li><p> 글꼴 커스터마이징</p></li>
 <li><p> '배터리 정보' 표시</p></li>
 </ul>
+<h3 id="ウィジェットのオプション"> 위젯 옵션</h3>
+<ul>
+<li><p> 날짜 숨기기</p></li>
+<li><p> 연도 표시</p></li>
+<li><p> 요일 숨기기</p></li>
+<li><p> 초 표시</p></li>
+<li><p> 크기 커스터마이징</p></li>
+<li><p> 글꼴 사용자 지정</p></li>
+<li><p> 배터리 잔량 표시</p></li>
+</ul>
 <p><img src="2.jpeg" width="600"></p>
 <p><img src="3.jpeg" width="600"></p>
 <p><img src="4.jpeg" width="600"></p>
 <p><img src="5.jpeg" width="600"></p>
+<p><img src="widget1200w.jpeg" width="600"></p>
 <hr />
 <h2 id="仕様"> 제품 사양</h2>
 <h3 id="価格"> 가격</h3>

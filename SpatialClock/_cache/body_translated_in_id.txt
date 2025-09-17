@@ -10,20 +10,32 @@ SpatialClock
 <h2 id="概要"> Gambaran umum.</h2>
 <p> Jam meja untuk ruang bersama.</p>
 <p> Desain sederhana. Ringan.</p>
-<h3 id="オプション"> Pilihan.</h3>
+<p> Kompatibel dengan widget.</p>
+<h3 id="主なオプション"> Opsi utama.</h3>
 <ul>
 <li><p> Sembunyikan 'tanggal'.</p></li>
-<li><p> Tampilkan 'tahun'.</p></li>
-<li><p> Sembunyikan 'hari dalam seminggu'.</p></li>
+<li><p> Tampilkan tahun</p></li>
+<li><p> Sembunyikan hari dalam seminggu</p></li>
 <li><p> Tampilkan detik</p></li>
 <li><p> Sembunyikan latar belakang</p></li>
 <li><p> Menyesuaikan font</p></li>
-<li><p> Menampilkan informasi baterai</p></li>
+<li><p> Tampilkan informasi baterai</p></li>
+</ul>
+<h3 id="ウィジェットのオプション"> Opsi widget</h3>
+<ul>
+<li><p> Sembunyikan tanggal</p></li>
+<li><p> Tampilkan tahun</p></li>
+<li><p> Sembunyikan hari dalam seminggu</p></li>
+<li><p> Tampilkan detik</p></li>
+<li><p> Sesuaikan ukuran</p></li>
+<li><p> Sesuaikan font</p></li>
+<li><p> Tampilkan level baterai</p></li>
 </ul>
 <p><img src="2.jpeg" width="600"></p>
 <p><img src="3.jpeg" width="600"></p>
 <p><img src="4.jpeg" width="600"></p>
 <p><img src="5.jpeg" width="600"></p>
+<p><img src="widget1200w.jpeg" width="600"></p>
 <hr />
 <h2 id="仕様"> Spesifikasi</h2>
 <h3 id="価格"> Harga</h3>
