@@ -1,1 +1,1 @@
-Aplicação específica para iPhone / Apple Watch; aplicação de notas dedicada à nova funcionalidade "widget do ecrã de bloqueio" do iOS 16, lançado no outono de 2022.
+Aplicação para iPhone, iPad, Apple Watch, Mac e Apple Vision Pro. Aplicação simples para tomar notas dedicada aos "widgets". 

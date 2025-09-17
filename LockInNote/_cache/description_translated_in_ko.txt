@@ -1,1 +1,1 @@
-iPhone / Apple Watch 전용 앱. 2022년 가을에 출시된 iOS16의 새로운 기능인 '잠금화면 위젯'에 특화된 노트 앱이다.
+iPhone, iPad, Apple Watch, Mac, Apple Vision Pro용 앱입니다. '위젯'에 특화된 심플한 노트 앱입니다. 

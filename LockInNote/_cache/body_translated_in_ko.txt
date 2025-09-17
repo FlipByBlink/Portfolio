@@ -1,21 +1,22 @@
 <h1 translate="no">
 LockInNote
 </h1>
-<p><em>'위젯'에 특화된 노트 앱!</em></p>
+<p><em>'위젯'에 특화된 노트 앱입니다!</em></p>
 <p><img src="icon.png" width="80"></p>
 <p><a href="https://apps.apple.com/app/id1644879340" target="blank">
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> 개요</h2>
-<p> 위젯에 특화된 노트 앱. iPhone/iPad/Mac/Apple Watch 전용 앱입니다.</p>
+<p> 위젯에 특화된 노트 앱. iPhone/iPad/Mac/Apple Watch/Apple Vision Pro용 앱입니다.</p>
 <p> 메모를 하고 싶을 때 위젯에서 바로 메모를 작성하고, 그 메모는 위젯에서 언제든지 쉽게 확인할 수 있습니다!</p>
-<p> 또한, 위젯의 메모 노트 디자인은 유연하게 커스터마이징할 수 있어 다양한 목적에 맞게 운영할 수 있습니다.</p>
+<p> 또한, 위젯의 메모 노트 디자인은 유연하게 커스터마이징이 가능하여 다양한 목적에 맞게 운영할 수 있습니다.</p>
 <h3 id="マルチプラットフォーム対応"> 멀티 플랫폼 지원</h3>
 <ul>
-<li> 아이폰: 홈화면, 잠금화면, 대기화면(iOS 17)</li>
-<li> iPad: 홈 화면, 잠금 화면(iPadOS 17)</li>
-<li> Mac: 알림 센터, 데스크탑(macOS 14)</li>
-<li> Apple Watch: 컴플리케이션, 스마트 스택(watchOS 10)</li>
+<li> iPhone: 홈 화면, 잠금 화면, 대기 화면</li>
+<li> iPad: 홈 화면, 잠금 화면</li>
+<li> Mac: 알림 센터, 데스크탑</li>
+<li> Apple Watch: 컴플리케이션, 스마트 스택</li>
+<li> Apple Vision Pro: 위젯</li>
 </ul>
 <hr />
 <h2 id="仕様"> 제품 사양</h2>

@@ -7,21 +7,22 @@ LockInNote
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要">概述。</h2>
-<p>这是一款适用于 iPhone/iPad/Mac/Apple Watch 的小工具记事应用程序。</p>
-<p>当你想记笔记时，可以通过 Widget 快速编写便条，并随时查看 Widget 上的便条！</p>
-<p>此外，小工具上的便签设计可以灵活定制，因此可以用于多种用途。</p>
+<p>这是一款适用于 iPhone/iPad/Mac/Apple Watch/Apple Vision Pro 的小工具专用笔记应用程序。</p>
+<p>当你想记笔记时，可以通过 widget 快速书写笔记，然后随时在 widget 上轻松查看笔记！</p>
+<p>此外，小工具上的备忘笔记设计可以灵活定制，因此可以用于各种用途。</p>
 <h3 id="マルチプラットフォーム対応">多平台支持</h3>
 <ul>
-<li>iPhone：主屏幕、锁屏、待机（iOS 17）</li>
-<li>iPad：主屏幕、锁屏（iPad OS 17）</li>
-<li>Mac：通知中心、桌面（macOS 14）</li>
-<li>Apple Watch：复杂功能、智能堆栈（watchOS 10）</li>
+<li>iPhone：主屏幕、锁屏、待机</li>
+<li>iPad：主屏幕、锁屏</li>
+<li>Mac：通知中心、桌面</li>
+<li>Apple Watch：复杂功能、智能堆栈</li>
+<li>Apple Vision Pro：小工具</li>
 </ul>
 <hr />
 <h2 id="仕様">规格</h2>
 <h3 id="価格">价格</h3>
 <p>免费</p>
 <h3 id="アプリ内課金">应用内购买</h3>
-<p>隐藏广告 (¥160)</p>
+<p>隐藏广告（160 日元）</p>
 <p><a href="https://apps.apple.com/app/id1644879340" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

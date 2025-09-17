@@ -1,1 +1,1 @@
-iPhone-/Apple Watch-spezifische App; Notizen-App für die neue Funktion "Sperrbildschirm-Widget" von iOS 16, die im Herbst 2022 veröffentlicht wird.
+App für iPhone, iPad, Apple Watch, Mac und Apple Vision Pro. Eine einfache App für Notizen, die sich mit "Widgets" beschäftigt. 

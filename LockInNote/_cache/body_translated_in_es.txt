@@ -7,21 +7,22 @@ LockInNote
 <img src="appstore_badge.svg"> </a></p>
 <p><img src="top1200w.png" width="600"></p>
 <h2 id="概要"> Visión general.</h2>
-<p> Esta es una aplicación de toma de notas específica de widgets para iPhone/iPad/Mac/Apple Watch.</p>
-<p> Cuando quieras tomar una nota, podrás escribirla rápidamente desde el widget y consultarla en cualquier momento.</p>
+<p> Esta es una aplicación de toma de notas específica de widget para iPhone/iPad/Mac/Apple Watch/Apple Vision Pro.</p>
+<p> Puedes escribir notas rápidamente desde el widget cuando quieras tomar una nota, y luego comprobar fácilmente la nota en el widget en cualquier momento.</p>
 <p> Además, el diseño de la nota en el widget se puede personalizar de forma flexible, por lo que se puede utilizar para diversos fines.</p>
 <h3 id="マルチプラットフォーム対応"> Soporte multiplataforma</h3>
 <ul>
-<li> iPhone: pantalla de inicio, pantalla de bloqueo, modo de espera (iOS 17)</li>
-<li> iPad: pantalla de inicio, pantalla de bloqueo (iPad OS 17)</li>
-<li> Mac: centro de notificaciones, escritorio (macOS 14)</li>
-<li> Apple Watch: complicaciones, pila inteligente (watchOS 10)</li>
+<li> iPhone: pantalla de inicio, pantalla de bloqueo, modo de espera</li>
+<li> iPad: pantalla de inicio, pantalla de bloqueo</li>
+<li> Mac: Centro de notificaciones, escritorio</li>
+<li> Apple Watch: complicaciones, pila inteligente</li>
+<li> Apple Vision Pro: Widgets</li>
 </ul>
 <hr />
 <h2 id="仕様"> Especificaciones</h2>
 <h3 id="価格"> Precio</h3>
 <p> Gratuito</p>
-<h3 id="アプリ内課金"> Compras dentro de la aplicación</h3>
-<p> Ocultar anuncios (¥160)</p>
+<h3 id="アプリ内課金"> Compra dentro de la aplicación</h3>
+<p> Ocultar anuncios (160 yenes)</p>
 <p><a href="https://apps.apple.com/app/id1644879340" target="blank">
 <img src="qr-code.jpg" width="160"> </a></p>

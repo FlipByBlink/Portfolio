@@ -1,1 +1,1 @@
-iPhone / Apple Watch 専用アプリ。2022年秋リリースされたiOS16の新機能「ロック画面ウィジェット」に特化したノートアプリ。
+iPhone、iPad、Apple Watch、Mac、Apple Vision Pro向けアプリ。「ウィジェット」に特化したシンプルなノートアプリ。
